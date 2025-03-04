@@ -1,0 +1,125 @@
+﻿<Window x:Class="RevitWoodLCC.SLE_PopupForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Service Life Estimation" Height="700" Width="1051">
+
+    <DockPanel>
+        <Grid DockPanel.Dock="Bottom" Margin="5,0,5,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="toggle3DPreviewButton" Content="Toggle 3D Preview" Width="160" HorizontalAlignment="Left" Click="Toggle3DPreviewButton_Click" Grid.Column="0" />
+            <Button Content="Previous" Width="100" HorizontalAlignment="Center" Click="PreviousButton_Click" Grid.Column="1" />
+            <Button Content="Next" Width="100" HorizontalAlignment="Right" Click="NextButton_Click" Grid.Column="2" />
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="480" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Border Grid.Column="0" Background="LightGray" BorderBrush="Gray" BorderThickness="1" Margin="5">
+                <!-- Optionally, add content inside the Border -->
+                <TextBlock Text="First Column Content" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+
+            <StackPanel Grid.Column="1" HorizontalAlignment="Right">
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                    <Label Content="In/Above Ground Condition" FontWeight="Bold" Margin="0,0,10,0" />
+                    <ComboBox x:Name="soilContactField" Width="291" Margin="0,5,5,5" SelectionChanged="SoilContactField_SelectionChanged">
+                        <ComboBoxItem Content="In-Ground" />
+                        <ComboBoxItem Content="Above Ground" IsSelected="True"/>
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                    <Label Content="Material" FontWeight="Bold" Margin="0,0,10,0" Width="168" />
+                    <ComboBox x:Name="materialField" Width="290" SelectionChanged="MaterialField_SelectionChanged" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                    <Label Content="Treatment" FontWeight="Bold" Margin="0,0,10,0" Width="169" />
+                    <ComboBox x:Name="treatmentField" Width="289" SelectionChanged="TreatmentField_SelectionChanged" />
+                </StackPanel>
+
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                    <Label Content="Location" FontWeight="Bold" Margin="0,0,10,0" Width="170" />
+                    <ComboBox x:Name="locationField" Width="170" />
+                    <Button Content="Set Location" Width="78" Margin="5,0,0,0" Click="OpenSetProjectLocationWindowButton_Click" />
+                    <Button Content="↻" Width="30" Margin="5,0,0,0" HorizontalAlignment="Right" Click="UpdateLocationButton_Click" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                    <Label Content="Exposure" FontWeight="Bold" Margin="0,0,10,0" Width="171" />
+                    <ComboBox x:Name="exposureField" Width="286">
+                        <ComboBoxItem Content="Side grain exposed" />
+                        <ComboBoxItem Content="End grain exposed" />
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                    <Label Content="Element Intersection" FontWeight="Bold" Margin="0,0,10,0" Width="171" />
+                    <ComboBox x:Name="elementIntersectionField" Width="287">
+                        <ComboBoxItem Content="No contact face or gap size >5 mm free from dirt" />
+                        <ComboBoxItem Content="Partially ventilated contact face free from dirt" />
+                        <ComboBoxItem Content="Direct contact or insufficient ventilation" />
+                    </ComboBox>
+                </StackPanel>
+
+
+                <TextBlock Text="Shelter" FontWeight="Bold" Margin="5,5,0,0" />
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                    <CheckBox x:Name="verticalMemberCheckbox" Content="Vertical member (subjected to driving rain)" Margin="5,0,0,0" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="5,5,0,5">
+                    <CheckBox x:Name="roofOverhangCheckbox" Content="Roof overhang" Checked="RoofOverhangCheckbox_Checked" Unchecked="RoofOverhangCheckbox_Unchecked" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="5,5,0,5">
+                    <TextBox x:Name="groundDistTextBox" Width="50" IsEnabled="False" Text="NA" Margin="0,5,5,5" />
+                    <TextBlock Text="distance to ground (a)" Margin="0,5,0,5" />
+                </StackPanel>
+
+                <StackPanel x:Name="overhangPanel" Visibility="Collapsed" Orientation="Horizontal" Margin="5,0,0,0">
+                    <TextBox x:Name="overhangTextBox" Width="50" Text="0" Margin="0,5,5,5" />
+                    <TextBlock Text="roof overhang (e)" Margin="0,5,0,5" />
+                </StackPanel>
+
+                <StackPanel x:Name="shelterDistPanel" Visibility="Collapsed" Orientation="Horizontal" Margin="5,0,0,0">
+                    <TextBox x:Name="shelterDistTextBox" Width="50" Text="1.0" Margin="0,5,5,5" />
+                    <TextBlock Text="distance from shelter (d)" Margin="0,5,0,5" />
+                </StackPanel>
+
+                <Button x:Name="AutoPopulateButton" Content="Auto Populate" Click="AutoPopulateButton_Click" Width="97" Height="20" Margin="0,0,16,5" Background="LightGreen"/>
+
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                    <Label Content="Service life duration (years)" FontWeight="Bold" Margin="0,0,10,0" />
+                    <StackPanel Orientation="Vertical" Margin="0,5,0,0">
+                        <TextBox x:Name="serviceLifeOutput" IsReadOnly="True" Width="100" Margin="5,0,0,5" />
+                        <Button Content="Estimate" Width="100" Margin="5,0,0,5" Click="EstimateButton_Click" />
+                        <Button Content="Save" Width="100" Click="SaveButton_Click" Margin="5,0,0,0" />
+
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>
+
+ 

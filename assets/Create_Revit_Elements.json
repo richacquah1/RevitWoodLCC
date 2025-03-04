@@ -1,0 +1,913 @@
+{
+  "WallTypes": [
+    {
+      "Name": "W1 Exterior Wall",
+      "UValue": 0.146,
+      "WallCategory": "Basic", // Specify this is a Basic Wall
+      "Layers": [
+        {
+          "Material": "Gypsum Plasterboard",
+          "Function": "Finish 1",
+          "Thickness": 0.0125,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 900,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "OSB Plate",
+          "Function": "Core Boundary",
+          "Thickness": 0.012,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.13,
+            "SpecificHeatCapacity": 1.7,
+            "Density": 600,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Stone Wool",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.16,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Gypsum Fiberboard",
+          "Function": "Core Boundary",
+          "Thickness": 0.015,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.25,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1200,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Stone Wool",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.10,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Reinforcing Mortar, Mesh, and Finishing Plaster",
+          "Function": "Finish 2",
+          "Thickness": 0.006,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.4,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1800,
+            "Emissivity": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "Name": "W2 Exterior Wall - Ground Floor Bottom",
+      "UValue": 0.262,
+      "WallCategory": "Basic", // Specify this is a Basic Wall
+      "Layers": [
+        {
+          "Material": "Gypsum Plasterboard",
+          "Function": "Finish 1",
+          "Thickness": 0.0125,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 900,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Reinforced Concrete",
+          "Function": "Structure",
+          "Thickness": 0.16,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "Polymer-Bitumen",
+          "Function": "Membrane Layer",
+          "Thickness": 0.005,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 1.5,
+            "Density": 950,
+            "Emissivity": 0.85
+          }
+        },
+        {
+          "Material": "XPS Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.12,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 1.3,
+            "Density": 35,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Reinforcing Mortar, Mesh, and Finishing Plaster",
+          "Function": "Finish 2",
+          "Thickness": 0.006,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.4,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1800,
+            "Emissivity": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "Name": "W3 Inner Walls",
+      "Thickness": 0.125,
+      "WallCategory": "Basic", // Specify this is a Basic Wall
+      "Layers": [
+        {
+          "Material": "Gypsum Plasterboard",
+          "Function": "Finish 1",
+          "Thickness": 0.0125,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 900,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "System Wooden Construction",
+          "Function": "Structure",
+          "Thickness": 0.075,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.13,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 500,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Stone Wool",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.075,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Gypsum Plasterboard",
+          "Function": "Finish 2",
+          "Thickness": 0.0125,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 900,
+            "Emissivity": 0.9
+          }
+        }
+      ]
+    }
+  ],
+  "RoofTypes": [
+    {
+      "Name": "R1 Flat Roof",
+      "UValue": 0.132,
+      "RoofCategory": "Basic",
+      "Layers": [
+        {
+          "Material": "Wooden Boards",
+          "Function": "Finish 1",
+          "Thickness": 0.02,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.12,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 600,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Wooden Laths",
+          "Function": "Core Boundary",
+          "Thickness": 0.03,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.13,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 500,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Reinforced ALU Foil",
+          "Function": "Membrane Layer",
+          "Thickness": 0.01, // Increased thickness
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 237,
+            "SpecificHeatCapacity": 0.9,
+            "Density": 2700,
+            "Emissivity": 0.03
+          }
+        },
+        {
+          "Material": "Mineral Wool",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.16,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Stone Wool",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.10,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Roof Foil (Tyvek Eternit Meteo)",
+          "Function": "Membrane Layer",
+          "Thickness": 0.01, // Increased thickness
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 1.5,
+            "Density": 950,
+            "Emissivity": 0.85
+          }
+        },
+        {
+          "Material": "Wooden Laths",
+          "Function": "Core Boundary",
+          "Thickness": 0.05,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.13,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 500,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Wave Fiber Cement Roof Tiles",
+          "Function": "Roof Cover",
+          "Thickness": 0.005,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.55,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1800,
+            "Emissivity": 0.9
+          }
+        }
+      ]
+    }
+
+  ],
+  "FloorTypes": [
+    {
+      "Name": "F1 Ground Floor - Ceramics",
+      "UValue": 0.175,
+      "Layers": [
+        {
+          "Material": "Ceramic Plates",
+          "Function": "Finish 1",
+          "Thickness": 0.01,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 1.5,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 2400,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Glue for Ceramic Plates",
+          "Function": "Membrane Layer",
+          "Thickness": 0.005,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.4,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1300,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Concrete Screed C20/25",
+          "Function": "Structure",
+          "Thickness": 0.076,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "PE Foil",
+          "Function": "Membrane Layer",
+          "Thickness": 0.001,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.33,
+            "SpecificHeatCapacity": 2.3,
+            "Density": 950,
+            "Emissivity": 0.95
+          }
+        },
+        {
+          "Material": "Hard Mineral Wool Acoustic Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.04,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Reinforced Concrete",
+          "Function": "Structure",
+          "Thickness": 0.25,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "XPS Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.15,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 1.3,
+            "Density": 35,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Polymer-Bitumen",
+          "Function": "Membrane Layer",
+          "Thickness": 0.005,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 1.5,
+            "Density": 950,
+            "Emissivity": 0.85
+          }
+        },
+        {
+          "Material": "Bottom Concrete",
+          "Function": "Structure",
+          "Thickness": 0.10,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        }
+      ]
+    },
+    {
+      "Name": "F1/A Ground Floor - Ceramics in Bathrooms",
+      "UValue": 0.186,
+      "Layers": [
+        {
+          "Material": "Ceramic Plates",
+          "Function": "Finish 1",
+          "Thickness": 0.01,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 1.5,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 2400,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Glue for Ceramic Plates",
+          "Function": "Membrane Layer",
+          "Thickness": 0.005,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.4,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1300,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Thin Hydro-Isolating Layer",
+          "Function": "Membrane Layer",
+          "Thickness": 0.001,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 1.5,
+            "Density": 950,
+            "Emissivity": 0.85
+          }
+        },
+        {
+          "Material": "Concrete Screed C20/25",
+          "Function": "Structure",
+          "Thickness": 0.076,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "PE Foil",
+          "Function": "Membrane Layer",
+          "Thickness": 0.001,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.33,
+            "SpecificHeatCapacity": 2.3,
+            "Density": 950,
+            "Emissivity": 0.95
+          }
+        },
+        {
+          "Material": "Hard Mineral Wool Acoustic Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.03,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Reinforced Concrete",
+          "Function": "Structure",
+          "Thickness": 0.25,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "XPS Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.15,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 1.3,
+            "Density": 35,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Polymer-Bitumen",
+          "Function": "Membrane Layer",
+          "Thickness": 0.005,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 1.5,
+            "Density": 950,
+            "Emissivity": 0.85
+          }
+        },
+        {
+          "Material": "Bottom Concrete",
+          "Function": "Structure",
+          "Thickness": 0.10,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        }
+      ]
+    },
+    {
+      "Name": "F2 Ground Floor - Parquet",
+      "UValue": 0.174,
+      "Layers": [
+        {
+          "Material": "Parquet",
+          "Function": "Finish 1",
+          "Thickness": 0.011,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.12,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 600,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Glue",
+          "Function": "Membrane Layer",
+          "Thickness": 0.003,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.4,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1300,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Concrete Screed C20/25",
+          "Function": "Structure",
+          "Thickness": 0.076,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "PE Foil",
+          "Function": "Membrane Layer",
+          "Thickness": 0.001,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.33,
+            "SpecificHeatCapacity": 2.3,
+            "Density": 950,
+            "Emissivity": 0.95
+          }
+        },
+        {
+          "Material": "Hard Mineral Wool Acoustic Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.04,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Reinforced Concrete",
+          "Function": "Structure",
+          "Thickness": 0.25,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "XPS Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.15,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 1.3,
+            "Density": 35,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Polymer-Bitumen",
+          "Function": "Membrane Layer",
+          "Thickness": 0.005,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 1.5,
+            "Density": 950,
+            "Emissivity": 0.85
+          }
+        },
+        {
+          "Material": "Bottom Concrete",
+          "Function": "Structure",
+          "Thickness": 0.10,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        }
+      ]
+    },
+    {
+      "Name": "F3 Stair - CLT",
+      "Thickness": 0.10,
+      "Layers": [
+        {
+          "Material": "CLT Plates, Coated",
+          "Function": "Structure",
+          "Thickness": 0.10,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.12,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 600,
+            "Emissivity": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "Name": "F4 1st Floor - Ceramics",
+      "UValue": 0.174,
+      "Layers": [
+        {
+          "Material": "Ceramic Plates",
+          "Function": "Finish 1",
+          "Thickness": 0.01,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 1.5,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 2400,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Glue for Ceramic Plates",
+          "Function": "Membrane Layer",
+          "Thickness": 0.005,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.4,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1300,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Concrete Screed C20/25",
+          "Function": "Structure",
+          "Thickness": 0.076,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "PE Foil",
+          "Function": "Membrane Layer",
+          "Thickness": 0.001,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.33,
+            "SpecificHeatCapacity": 2.3,
+            "Density": 950,
+            "Emissivity": 0.95
+          }
+        },
+        {
+          "Material": "Hard Mineral Wool Acoustic Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.03,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "OSB Plates",
+          "Function": "Core Boundary",
+          "Thickness": 0.015,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.13,
+            "SpecificHeatCapacity": 1.7,
+            "Density": 600,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Mineral Wool",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.20,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Wooden Laths",
+          "Function": "Core Boundary",
+          "Thickness": 0.02,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.13,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 500,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Gypsum Plasterboard",
+          "Function": "Finish 2",
+          "Thickness": 0.0125,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 900,
+            "Emissivity": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "Name": "F5 1st Floor - Parquet",
+      "UValue": 0.174,
+      "Layers": [
+        {
+          "Material": "Parquet",
+          "Function": "Finish 1",
+          "Thickness": 0.011,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.12,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 600,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Glue",
+          "Function": "Membrane Layer",
+          "Thickness": 0.003,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.4,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 1300,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Concrete Screed C20/25",
+          "Function": "Structure",
+          "Thickness": 0.076,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 1.7,
+            "SpecificHeatCapacity": 0.88,
+            "Density": 2400,
+            "Emissivity": 0.92
+          }
+        },
+        {
+          "Material": "PE Foil",
+          "Function": "Membrane Layer",
+          "Thickness": 0.001,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.33,
+            "SpecificHeatCapacity": 2.3,
+            "Density": 950,
+            "Emissivity": 0.95
+          }
+        },
+        {
+          "Material": "Hard Mineral Wool Acoustic Insulation",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.04,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "OSB Plates",
+          "Function": "Core Boundary",
+          "Thickness": 0.015,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.13,
+            "SpecificHeatCapacity": 1.7,
+            "Density": 600,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Mineral Wool",
+          "Function": "Thermal/Air Layer",
+          "Thickness": 0.20,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.035,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 150,
+            "Emissivity": 0.8
+          }
+        },
+        {
+          "Material": "Wooden Laths",
+          "Function": "Core Boundary",
+          "Thickness": 0.02,
+          "Structural": true,
+          "Properties": {
+            "ThermalConductivity": 0.13,
+            "SpecificHeatCapacity": 2.5,
+            "Density": 500,
+            "Emissivity": 0.9
+          }
+        },
+        {
+          "Material": "Gypsum Plasterboard",
+          "Function": "Finish 2",
+          "Thickness": 0.0125,
+          "Structural": false,
+          "Properties": {
+            "ThermalConductivity": 0.17,
+            "SpecificHeatCapacity": 0.84,
+            "Density": 900,
+            "Emissivity": 0.9
+          }
+        }
+      ]
+    }
+  ]
+}

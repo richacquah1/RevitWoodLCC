@@ -1,0 +1,15 @@
+# This is a Revit shared parameter file.
+# Do not edit manually.
+*META	VERSION	MINVERSION
+META	2	1
+*GROUP	ID	NAME
+GROUP	1	Element_Parameters
+*PARAM	GUID	NAME	DATATYPE	DATACATEGORY	GROUP	VISIBLE	DESCRIPTION	USERMODIFIABLE	HIDEWHENNOVALUE
+PARAM	50fc4533-8489-4081-a604-3673f83e94aa	Element_Service Life Duration	NUMBER		1	1	The expected service life duration of an element	1	0
+PARAM	2391f6fb-5d7e-4cf3-93e4-8c2cddf4f123	Element_End of Life Value	NUMBER		1	1	The residual value of an element at the end of its life	1	0
+PARAM	10fcf839-4a49-4698-b153-d3c4e0ebcc01	Element_Material Cost Today	NUMBER		1	1	The material cost of the element today	1	0
+PARAM	20fcf839-4a49-4698-b153-d3c4e0ebcc02	Element_Labor Cost Today	NUMBER		1	1	The labor cost of the element today	1	0
+PARAM	30fcf839-4a49-4698-b153-d3c4e0ebcc03	Element_Total Maintenance Cost Today	NUMBER		1	1	The total maintenance cost of the element today	1	0
+PARAM	40fcf839-4a49-4698-b153-d3c4e0ebcc04	Initial Element Costs	NUMBER		1	1	The initial costs of the element including all factors	1	0
+PARAM	50fcf839-4a49-4698-b153-d3c4e0ebcc05	Future Element Cost	NUMBER		1	1	The escalated future cost of the element	1	0
+PARAM	60fcf839-4a49-4698-b153-d3c4e0ebcc06	Present Value of Escalated Element Cost	NUMBER		1	1	The present value of the escalated future cost of the element	1	0

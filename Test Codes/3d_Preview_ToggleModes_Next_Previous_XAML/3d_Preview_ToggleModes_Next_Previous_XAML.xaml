@@ -1,0 +1,27 @@
+﻿<Window x:Class="RevitWoodLCC.Preview3DForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="3D Preview" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid Name="PreviewContainer" Grid.Row="0">
+            <!-- PreviewControl will be added dynamically in code-behind -->
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Content="Toggle 3D Preview" Name="Toggle3DPreviewButton" Width="160" HorizontalAlignment="Left" Click="Toggle3DPreviewButton_Click" Grid.Column="0" />
+            <Button Content="Previous" Name="PreviousButton" Width="100" HorizontalAlignment="Center" Click="PreviousButton_Click" Grid.Column="1" />
+            <Button Content="Next" Name="NextButton" Width="100" HorizontalAlignment="Right" Click="NextButton_Click" Grid.Column="2" />
+        </Grid>
+    </Grid>
+</Window>

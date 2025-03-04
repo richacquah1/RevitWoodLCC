@@ -1,0 +1,3314 @@
+[
+  {
+    "lat": "54.8",
+    "lon": "11.3",
+    "city": "Lolland",
+    "country": "Denmark"
+  },
+  {
+    "lat": "57.2",
+    "lon": "-2.1",
+    "city": "Aberdeen City",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "52.1",
+    "lon": "-4.6",
+    "city": "Penparc",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "37",
+    "lon": "35.3",
+    "city": "Seyhan",
+    "country": "Turkey"
+  },
+  {
+    "lat": "46.5",
+    "lon": "7.6",
+    "city": "Adelboden",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "38.8",
+    "lon": "30.5",
+    "city": "Afyonkarahisar",
+    "country": "Turkey"
+  },
+  {
+    "lat": "44.2",
+    "lon": "0.6",
+    "city": "Le Passage",
+    "country": "France"
+  },
+  {
+    "lat": "46.3",
+    "lon": "6.9",
+    "city": "Vionnaz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "41.9",
+    "lon": "8.8",
+    "city": "Grosseto-Prugna",
+    "country": "France"
+  },
+  {
+    "lat": "65.7",
+    "lon": "-18.1",
+    "city": "Akureyri",
+    "country": "Iceland"
+  },
+  {
+    "lat": "29.8",
+    "lon": "40.1",
+    "city": "Sakaka",
+    "country": "Saudi Arabia"
+  },
+  {
+    "lat": "39",
+    "lon": "-1.9",
+    "city": "Albacete",
+    "country": "Spain"
+  },
+  {
+    "lat": "36.2",
+    "lon": "37.2",
+    "city": "Aleppo",
+    "country": "Syria"
+  },
+  {
+    "lat": "40.6",
+    "lon": "8.3",
+    "city": "Alghero",
+    "country": "Italy"
+  },
+  {
+    "lat": "38.4",
+    "lon": "23.1",
+    "city": "Δημοτική Ενότητα Αλιάρτου",
+    "country": "Greece"
+  },
+  {
+    "lat": "38.3",
+    "lon": "-0.6",
+    "city": "Elche/Elx",
+    "country": "Spain"
+  },
+  {
+    "lat": "36.9",
+    "lon": "-2.4",
+    "city": "Viator",
+    "country": "Spain"
+  },
+  {
+    "lat": "46.9",
+    "lon": "8.6",
+    "city": "Seedorf",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "41.5",
+    "lon": "15.7",
+    "city": "Manfredonia",
+    "country": "Italy"
+  },
+  {
+    "lat": "43.6",
+    "lon": "13.5",
+    "city": "Ancona",
+    "country": "Italy"
+  },
+  {
+    "lat": "37.9",
+    "lon": "21.3",
+    "city": "Ανδραβίδα",
+    "country": "Greece"
+  },
+  {
+    "lat": "38.7",
+    "lon": "-27.2",
+    "city": "Angra do Heroísmo",
+    "country": "Portugal"
+  },
+  {
+    "lat": "56.7",
+    "lon": "11.5",
+    "city": "Anholt",
+    "country": "Denmark"
+  },
+  {
+    "lat": "40",
+    "lon": "32.9",
+    "city": "Altındağ",
+    "country": "Turkey"
+  },
+  {
+    "lat": "36.9",
+    "lon": "30.7",
+    "city": "Antalya",
+    "country": "Turkey"
+  },
+  {
+    "lat": "64.6",
+    "lon": "40.5",
+    "city": "Arkhangelsk",
+    "country": "Russia"
+  },
+  {
+    "lat": "54.7",
+    "lon": "13.4",
+    "city": "Küstengewässer einschließlich Anteil am Festlandsockel",
+    "country": "Germany"
+  },
+  {
+    "lat": "56.8",
+    "lon": "9.5",
+    "city": "Aars",
+    "country": "Denmark"
+  },
+  {
+    "lat": "55.3",
+    "lon": "10.4",
+    "city": "Årslev",
+    "country": "Denmark"
+  },
+  {
+    "lat": "39.2",
+    "lon": "21",
+    "city": "Βλαχέρνα",
+    "country": "Greece"
+  },
+  {
+    "lat": "59.7",
+    "lon": "10.8",
+    "city": "Vinterbro",
+    "country": "Norway"
+  },
+  {
+    "lat": "55.5",
+    "lon": "9.1",
+    "city": "Vejen",
+    "country": "Denmark"
+  },
+  {
+    "lat": "27.1",
+    "lon": "31",
+    "city": "Asyut Desert",
+    "country": "Egypt"
+  },
+  {
+    "lat": "38",
+    "lon": "23.7",
+    "city": "Peristeri",
+    "country": "Greece"
+  },
+  {
+    "lat": "37.9",
+    "lon": "23.7",
+    "city": "Alimos",
+    "country": "Greece"
+  },
+  {
+    "lat": "53.6",
+    "lon": "-2.9",
+    "city": "Scarisbrick",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "47.8",
+    "lon": "3.6",
+    "city": "Auxerre",
+    "country": "France"
+  },
+  {
+    "lat": "57.2",
+    "lon": "-3.8",
+    "city": "Aviemore",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "37.9",
+    "lon": "27.9",
+    "city": "Efeler",
+    "country": "Turkey"
+  },
+  {
+    "lat": "51.8",
+    "lon": "8.8",
+    "city": "Schlangen",
+    "country": "Germany"
+  },
+  {
+    "lat": "38.9",
+    "lon": "-6.8",
+    "city": "Badajoz",
+    "country": "Spain"
+  },
+  {
+    "lat": "30.2",
+    "lon": "31.3",
+    "city": "Shubra al Khayma",
+    "country": "Egypt"
+  },
+  {
+    "lat": "39.6",
+    "lon": "27.9",
+    "city": "Altıeylül",
+    "country": "Turkey"
+  },
+  {
+    "lat": "44.8",
+    "lon": "17.2",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "lat": "42.1",
+    "lon": "19.1",
+    "city": "Bar",
+    "country": "Montenegro"
+  },
+  {
+    "lat": "41.3",
+    "lon": "2.1",
+    "city": "El Prat de Llobregat",
+    "country": "Spain"
+  },
+  {
+    "lat": "78.1",
+    "lon": "14.2",
+    "city": "Barentsburg",
+    "country": "Norway"
+  },
+  {
+    "lat": "41.1",
+    "lon": "16.9",
+    "city": "Bari",
+    "country": "Italy"
+  },
+  {
+    "lat": "47.5",
+    "lon": "7.6",
+    "city": "Reinach",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "42.6",
+    "lon": "9.5",
+    "city": "Borgo",
+    "country": "France"
+  },
+  {
+    "lat": "33.8",
+    "lon": "35.5",
+    "city": "Ru'aysat Rasil",
+    "country": "Lebanon"
+  },
+  {
+    "lat": "31.6",
+    "lon": "-2.2",
+    "city": "Bashar",
+    "country": "Algeria"
+  },
+  {
+    "lat": "54.7",
+    "lon": "-6.2",
+    "city": "Antrim",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "54.2",
+    "lon": "-10",
+    "city": "Ardmore",
+    "country": "Ireland"
+  },
+  {
+    "lat": "51.8",
+    "lon": "20.8",
+    "city": "Wola Starowiejska",
+    "country": "Poland"
+  },
+  {
+    "lat": "32.1",
+    "lon": "20.1",
+    "city": "Benghazi",
+    "country": "Libya"
+  },
+  {
+    "lat": "44.8",
+    "lon": "20.5",
+    "city": "Belgrade",
+    "country": "Serbia"
+  },
+  {
+    "lat": "44.8",
+    "lon": "20.5",
+    "city": "Belgrade",
+    "country": "Serbia"
+  },
+  {
+    "lat": "60.4",
+    "lon": "5.3",
+    "city": "Bergen",
+    "country": "Norway"
+  },
+  {
+    "lat": "60.4",
+    "lon": "5.3",
+    "city": "Bergen",
+    "country": "Norway"
+  },
+  {
+    "lat": "47",
+    "lon": "7.5",
+    "city": "Moosseedorf",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "47.3",
+    "lon": "6",
+    "city": "Châtillon-le-Duc",
+    "country": "France"
+  },
+  {
+    "lat": "32",
+    "lon": "34.8",
+    "city": "Holon",
+    "country": "Israel"
+  },
+  {
+    "lat": "43.3",
+    "lon": "-2.9",
+    "city": "Derio",
+    "country": "Spain"
+  },
+  {
+    "lat": "47.4",
+    "lon": "8.5",
+    "city": "Zurich",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "53.1",
+    "lon": "-7.9",
+    "city": "The Municipal District of Birr",
+    "country": "Ireland"
+  },
+  {
+    "lat": "44.4",
+    "lon": "-1.2",
+    "city": "Biscarrosse",
+    "country": "France"
+  },
+  {
+    "lat": "41.1",
+    "lon": "21.4",
+    "city": "Mogila",
+    "country": "North Macedonia"
+  },
+  {
+    "lat": "51.8",
+    "lon": "6.5",
+    "city": "Hamminkeln",
+    "country": "Germany"
+  },
+  {
+    "lat": "51.5",
+    "lon": "7.3",
+    "city": "Bochum",
+    "country": "Germany"
+  },
+  {
+    "lat": "67.3",
+    "lon": "14.4",
+    "city": "Bodo",
+    "country": "Norway"
+  },
+  {
+    "lat": "44.5",
+    "lon": "11.3",
+    "city": "Bologna",
+    "country": "Italy"
+  },
+  {
+    "lat": "46.5",
+    "lon": "11.3",
+    "city": "Bolzano",
+    "country": "Italy"
+  },
+  {
+    "lat": "50.7",
+    "lon": "7.2",
+    "city": "Königswinter",
+    "country": "Germany"
+  },
+  {
+    "lat": "44.8",
+    "lon": "-0.7",
+    "city": "Pessac",
+    "country": "France"
+  },
+  {
+    "lat": "50.3",
+    "lon": "31",
+    "city": "Бориспільська міська громада",
+    "country": "Ukraine"
+  },
+  {
+    "lat": "60.4",
+    "lon": "15.5",
+    "city": "Hansgårdarna",
+    "country": "Sweden"
+  },
+  {
+    "lat": "56",
+    "lon": "8.6",
+    "city": "Ringkobing-Skjern",
+    "country": "Denmark"
+  },
+  {
+    "lat": "55.4",
+    "lon": "-1.6",
+    "city": "Alnmouth",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "47.1",
+    "lon": "2.4",
+    "city": "Bourges",
+    "country": "France"
+  },
+  {
+    "lat": "51.4",
+    "lon": "-0.8",
+    "city": "Bracknell",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "41.8",
+    "lon": "-6.8",
+    "city": "Castro de Avelãs",
+    "country": "Portugal"
+  },
+  {
+    "lat": "48.2",
+    "lon": "17.1",
+    "city": "Bratislava",
+    "country": "Slovakia"
+  },
+  {
+    "lat": "51.7",
+    "lon": "10.6",
+    "city": "Harz (LK Goslar)",
+    "country": "Germany"
+  },
+  {
+    "lat": "52.3",
+    "lon": "10.5",
+    "city": "Brunswick",
+    "country": "Germany"
+  },
+  {
+    "lat": "47.5",
+    "lon": "9.8",
+    "city": "Langen",
+    "country": "Austria"
+  },
+  {
+    "lat": "53.1",
+    "lon": "8.8",
+    "city": "Bremen",
+    "country": "Germany"
+  },
+  {
+    "lat": "48.5",
+    "lon": "-4.4",
+    "city": "Plabennec",
+    "country": "France"
+  },
+  {
+    "lat": "40.7",
+    "lon": "18",
+    "city": "Santa Teresa",
+    "country": "Italy"
+  },
+  {
+    "lat": "52.1",
+    "lon": "20.7",
+    "city": "Brwinów Obszar Wiejski",
+    "country": "Poland"
+  },
+  {
+    "lat": "47.4",
+    "lon": "8.1",
+    "city": "Buchs",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "44.5",
+    "lon": "26.2",
+    "city": "Voluntari",
+    "country": "Romania"
+  },
+  {
+    "lat": "47.4",
+    "lon": "19.2",
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  {
+    "lat": "47.1",
+    "lon": "7.6",
+    "city": "Oberösch",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "52",
+    "lon": "4.9",
+    "city": "Benschop",
+    "country": "Netherlands"
+  },
+  {
+    "lat": "39.5",
+    "lon": "-6.3",
+    "city": "Cáceres",
+    "country": "Spain"
+  },
+  {
+    "lat": "36.5",
+    "lon": "-6.3",
+    "city": "Cádiz",
+    "country": "Spain"
+  },
+  {
+    "lat": "49.2",
+    "lon": "-0.5",
+    "city": "Ste.-Croix-Grand-Tonne",
+    "country": "France"
+  },
+  {
+    "lat": "39.3",
+    "lon": "9.1",
+    "city": "Sestu",
+    "country": "Italy"
+  },
+  {
+    "lat": "30.1",
+    "lon": "31.3",
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  {
+    "lat": "50.2",
+    "lon": "-5.3",
+    "city": "Camborne",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "52.2",
+    "lon": "0.2",
+    "city": "South Cambridgeshire",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "41.6",
+    "lon": "14.7",
+    "city": "Matrice",
+    "country": "Italy"
+  },
+  {
+    "lat": "40.1",
+    "lon": "26.4",
+    "city": "Çanakkale Merkez",
+    "country": "Turkey"
+  },
+  {
+    "lat": "39.9",
+    "lon": "9.7",
+    "city": "Tortolì",
+    "country": "Italy"
+  },
+  {
+    "lat": "40.6",
+    "lon": "8.2",
+    "city": "Alghero",
+    "country": "Italy"
+  },
+  {
+    "lat": "44.4",
+    "lon": "9",
+    "city": "Genoa",
+    "country": "Italy"
+  },
+  {
+    "lat": "44.2",
+    "lon": "-0.3",
+    "city": "Retjons",
+    "country": "France"
+  },
+  {
+    "lat": "43.2",
+    "lon": "2.3",
+    "city": "Carcassonne",
+    "country": "France"
+  },
+  {
+    "lat": "51.4",
+    "lon": "-3.4",
+    "city": "St Athan",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "52.1",
+    "lon": "-0.4",
+    "city": "Cardington",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "44",
+    "lon": "5.1",
+    "city": "Saint-Didier",
+    "country": "France"
+  },
+  {
+    "lat": "33.6",
+    "lon": "-7.7",
+    "city": "arrondissement d'Anfa مقاطعة أنفا",
+    "country": "Morocco"
+  },
+  {
+    "lat": "39.8",
+    "lon": "-7.5",
+    "city": "Castelo Branco",
+    "country": "Portugal"
+  },
+  {
+    "lat": "53.8",
+    "lon": "-1.1",
+    "city": "Selby",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "44.2",
+    "lon": "12.3",
+    "city": "Cesena",
+    "country": "Italy"
+  },
+  {
+    "lat": "46.4",
+    "lon": "6.2",
+    "city": "Grens",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "49",
+    "lon": "2.5",
+    "city": "Roissy-en-France",
+    "country": "France"
+  },
+  {
+    "lat": "47.1",
+    "lon": "7.1",
+    "city": "Plateau de Diesse",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "50.8",
+    "lon": "12.9",
+    "city": "Chemnitz",
+    "country": "Germany"
+  },
+  {
+    "lat": "42.6",
+    "lon": "23.3",
+    "city": "Vitosha",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": "42.2",
+    "lon": "25.3",
+    "city": "Chirpan",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": "46.9",
+    "lon": "9.5",
+    "city": "Untervaz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "49.1",
+    "lon": "13.6",
+    "city": "Nicov",
+    "country": "Czechia"
+  },
+  {
+    "lat": "46.2",
+    "lon": "8.8",
+    "city": "Brione sopra Minusio",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "44.2",
+    "lon": "10.7",
+    "city": "Riolunato",
+    "country": "Italy"
+  },
+  {
+    "lat": "39",
+    "lon": "-3.9",
+    "city": "Ciudad Real",
+    "country": "Spain"
+  },
+  {
+    "lat": "45.8",
+    "lon": "3.2",
+    "city": "Malintrat",
+    "country": "France"
+  },
+  {
+    "lat": "54.2",
+    "lon": "-7.2",
+    "city": "Largy",
+    "country": "Ireland"
+  },
+  {
+    "lat": "46.8",
+    "lon": "23.6",
+    "city": "Cluj-Napoca",
+    "country": "Romania"
+  },
+  {
+    "lat": "50.3",
+    "lon": "11",
+    "city": "Lautertal",
+    "country": "Germany"
+  },
+  {
+    "lat": "40.2",
+    "lon": "-8.4",
+    "city": "Coimbra",
+    "country": "Portugal"
+  },
+  {
+    "lat": "46.5",
+    "lon": "8.9",
+    "city": "Blenio",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "44.2",
+    "lon": "28.6",
+    "city": "Constanța",
+    "country": "Romania"
+  },
+  {
+    "lat": "37.9",
+    "lon": "-4.9",
+    "city": "Córdoba",
+    "country": "Spain"
+  },
+  {
+    "lat": "46.4",
+    "lon": "9.8",
+    "city": "Sils im Engadin/Segl",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "39.7",
+    "lon": "-31.1",
+    "city": "Vila do Corvo",
+    "country": "Portugal"
+  },
+  {
+    "lat": "36.7",
+    "lon": "15.1",
+    "city": "Pachino",
+    "country": "Italy"
+  },
+  {
+    "lat": "44.2",
+    "lon": "23.9",
+    "city": "Secui",
+    "country": "Romania"
+  },
+  {
+    "lat": "51.1",
+    "lon": "-0.2",
+    "city": "Crawley",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "39",
+    "lon": "17.1",
+    "city": "Isola Di Capo Rizzuto",
+    "country": "Italy"
+  },
+  {
+    "lat": "33.5",
+    "lon": "36.5",
+    "city": "Al Bilaliyah",
+    "country": "Syria"
+  },
+  {
+    "lat": "36.7",
+    "lon": "3.3",
+    "city": "Khemis El Khechna",
+    "country": "Algeria"
+  },
+  {
+    "lat": "46.8",
+    "lon": "9.8",
+    "city": "Davos Platz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "52.1",
+    "lon": "5.2",
+    "city": "De Bilt",
+    "country": "Netherlands"
+  },
+  {
+    "lat": "52.9",
+    "lon": "4.8",
+    "city": "Breezand",
+    "country": "Netherlands"
+  },
+  {
+    "lat": "31.7",
+    "lon": "35.4",
+    "city": "Megilot Yam HaMelakh Regional Council",
+    "country": "Palestinian Territory"
+  },
+  {
+    "lat": "47.5",
+    "lon": "21.6",
+    "city": "Debrecen",
+    "country": "Hungary"
+  },
+  {
+    "lat": "47.3",
+    "lon": "5.1",
+    "city": "Sennecey-lès-Dijon",
+    "country": "France"
+  },
+  {
+    "lat": "46.7",
+    "lon": "8.9",
+    "city": "Cavardiras",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "37.9",
+    "lon": "40.2",
+    "city": "Bağlar",
+    "country": "Turkey"
+  },
+  {
+    "lat": "46.7",
+    "lon": "12.2",
+    "city": "Dobbiaco",
+    "country": "Italy"
+  },
+  {
+    "lat": "33.6",
+    "lon": "36.4",
+    "city": "At Tall",
+    "country": "Syria"
+  },
+  {
+    "lat": "51.1",
+    "lon": "13.8",
+    "city": "Dresden",
+    "country": "Germany"
+  },
+  {
+    "lat": "51.1",
+    "lon": "13.7",
+    "city": "Dresden",
+    "country": "Germany"
+  },
+  {
+    "lat": "53.4",
+    "lon": "-6.2",
+    "city": "Dublin",
+    "country": "Ireland"
+  },
+  {
+    "lat": "56.5",
+    "lon": "-3",
+    "city": "Bridgefoot",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "56.5",
+    "lon": "-5.4",
+    "city": "Benderloch",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "51.3",
+    "lon": "0.5",
+    "city": "Maidstone",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "50.7",
+    "lon": "-1.6",
+    "city": "Lymington",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "31.1",
+    "lon": "33.8",
+    "city": "Al Arish",
+    "country": "Egypt"
+  },
+  {
+    "lat": "38.6",
+    "lon": "39.3",
+    "city": "Elazığ",
+    "country": "Turkey"
+  },
+  {
+    "lat": "42.7",
+    "lon": "10.4",
+    "city": "Capoliveri",
+    "country": "Italy"
+  },
+  {
+    "lat": "30.4",
+    "lon": "30.4",
+    "city": "Sadat City",
+    "country": "Egypt"
+  },
+  {
+    "lat": "44.6",
+    "lon": "6.5",
+    "city": "Châteauroux-les-Alpes",
+    "country": "France"
+  },
+  {
+    "lat": "46.8",
+    "lon": "8.4",
+    "city": "Engelberg",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "51",
+    "lon": "11",
+    "city": "Erfurt",
+    "country": "Germany"
+  },
+  {
+    "lat": "39.7",
+    "lon": "39.5",
+    "city": "Erzincan",
+    "country": "Turkey"
+  },
+  {
+    "lat": "55.3",
+    "lon": "-3.2",
+    "city": "Dumfries and Galloway",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "39.8",
+    "lon": "30.6",
+    "city": "Osb, Odunpazarı/Eskişehir",
+    "country": "Turkey"
+  },
+  {
+    "lat": "46.1",
+    "lon": "7.5",
+    "city": "La Tour",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "38.6",
+    "lon": "-7.9",
+    "city": "Canaviais",
+    "country": "Portugal"
+  },
+  {
+    "lat": "47.4",
+    "lon": "6.9",
+    "city": "Glay",
+    "country": "France"
+  },
+  {
+    "lat": "53.8",
+    "lon": "-2.9",
+    "city": "Borough of Fylde",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "37",
+    "lon": "-8",
+    "city": "Montenegro",
+    "country": "Portugal"
+  },
+  {
+    "lat": "47.8",
+    "lon": "13.7",
+    "city": "Ebensee",
+    "country": "Austria"
+  },
+  {
+    "lat": "50.4",
+    "lon": "13",
+    "city": "Loučná pod Klínovcem",
+    "country": "Czechia"
+  },
+  {
+    "lat": "53.5",
+    "lon": "-1",
+    "city": "Doncaster",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "55.3",
+    "lon": "11.4",
+    "city": "Flakkebjerg",
+    "country": "Denmark"
+  },
+  {
+    "lat": "56.5",
+    "lon": "9.6",
+    "city": "Formyre",
+    "country": "Denmark"
+  },
+  {
+    "lat": "48",
+    "lon": "7.9",
+    "city": "Freiburg im Breisgau",
+    "country": "Germany"
+  },
+  {
+    "lat": "32.6",
+    "lon": "-16.9",
+    "city": "Funchal",
+    "country": "Portugal"
+  },
+  {
+    "lat": "48.6",
+    "lon": "13.4",
+    "city": "Passau",
+    "country": "Germany"
+  },
+  {
+    "lat": "45.5",
+    "lon": "28",
+    "city": "Costi",
+    "country": "Romania"
+  },
+  {
+    "lat": "51.7",
+    "lon": "-0.4",
+    "city": "Watford",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "37.1",
+    "lon": "37.4",
+    "city": "Şehitkamil",
+    "country": "Turkey"
+  },
+  {
+    "lat": "54.5",
+    "lon": "18.6",
+    "city": "Gdynia",
+    "country": "Poland"
+  },
+  {
+    "lat": "54.6",
+    "lon": "11.9",
+    "city": "Skelby",
+    "country": "Denmark"
+  },
+  {
+    "lat": "50",
+    "lon": "8",
+    "city": "Oestrich-Winkel",
+    "country": "Germany"
+  },
+  {
+    "lat": "37.1",
+    "lon": "14.2",
+    "city": "Gela",
+    "country": "Italy"
+  },
+  {
+    "lat": "51.5",
+    "lon": "7.1",
+    "city": "Gelsenkirchen",
+    "country": "Germany"
+  },
+  {
+    "lat": "46.2",
+    "lon": "6.1",
+    "city": "Vernier",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "44.4",
+    "lon": "8.9",
+    "city": "Genova",
+    "country": "Italy"
+  },
+  {
+    "lat": "50.9",
+    "lon": "12.1",
+    "city": "Gera",
+    "country": "Germany"
+  },
+  {
+    "lat": "41.9",
+    "lon": "2.8",
+    "city": "Riudellots de la Selva",
+    "country": "Spain"
+  },
+  {
+    "lat": "32.5",
+    "lon": "3.7",
+    "city": "Ghardaia",
+    "country": "Algeria"
+  },
+  {
+    "lat": "50.6",
+    "lon": "8.7",
+    "city": "Gießen",
+    "country": "Germany"
+  },
+  {
+    "lat": "31.3",
+    "lon": "34.7",
+    "city": "Merhavim Regional Council",
+    "country": "Israel"
+  },
+  {
+    "lat": "30.1",
+    "lon": "31.2",
+    "city": "Bashteel Al-Balad",
+    "country": "Egypt"
+  },
+  {
+    "lat": "47",
+    "lon": "9.1",
+    "city": "Sool",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "55.9",
+    "lon": "-4.5",
+    "city": "Bishopton",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "51.2",
+    "lon": "15",
+    "city": "Görlitz",
+    "country": "Germany"
+  },
+  {
+    "lat": "57.7",
+    "lon": "12",
+    "city": "Gothenburg",
+    "country": "Sweden"
+  },
+  {
+    "lat": "57.8",
+    "lon": "11.9",
+    "city": "Säve",
+    "country": "Sweden"
+  },
+  {
+    "lat": "37.2",
+    "lon": "-3.8",
+    "city": "Cijuela",
+    "country": "Spain"
+  },
+  {
+    "lat": "45.9",
+    "lon": "7.2",
+    "city": "Bourg-St-Pierre",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "47",
+    "lon": "15.5",
+    "city": "Hausmannstätten",
+    "country": "Austria"
+  },
+  {
+    "lat": "41.1",
+    "lon": "14.1",
+    "city": "Grazzanise",
+    "country": "Italy"
+  },
+  {
+    "lat": "51.9",
+    "lon": "-1",
+    "city": "Edgcott",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "51.9",
+    "lon": "-1.3",
+    "city": "Cherwell District",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "46.6",
+    "lon": "8.3",
+    "city": "Guttannen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "53.1",
+    "lon": "6.6",
+    "city": "De Punt",
+    "country": "Netherlands"
+  },
+  {
+    "lat": "48.2",
+    "lon": "16.6",
+    "city": "Groß-Enzersdorf",
+    "country": "Austria"
+  },
+  {
+    "lat": "46.7",
+    "lon": "8.6",
+    "city": "Wassen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "47.6",
+    "lon": "9.3",
+    "city": "Güttingen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "51.5",
+    "lon": "12",
+    "city": "Halle (Saale)",
+    "country": "Germany"
+  },
+  {
+    "lat": "53.7",
+    "lon": "10.1",
+    "city": "Hamburg",
+    "country": "Germany"
+  },
+  {
+    "lat": "51.7",
+    "lon": "11.1",
+    "city": "Quedlinburg",
+    "country": "Germany"
+  },
+  {
+    "lat": "54.2",
+    "lon": "11.9",
+    "city": "Küstengewässer einschließlich Anteil am Festlandsockel",
+    "country": "Germany"
+  },
+  {
+    "lat": "60.3",
+    "lon": "25",
+    "city": "Vantaa",
+    "country": "Finland"
+  },
+  {
+    "lat": "60.2",
+    "lon": "24.9",
+    "city": "Helsinki",
+    "country": "Finland"
+  },
+  {
+    "lat": "60.2",
+    "lon": "25",
+    "city": "Helsinki",
+    "country": "Finland"
+  },
+  {
+    "lat": "60.1",
+    "lon": "24.9",
+    "city": "Helsinki",
+    "country": "Finland"
+  },
+  {
+    "lat": "52.7",
+    "lon": "1.7",
+    "city": "Great Yarmouth",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "46.5",
+    "lon": "9.2",
+    "city": "Mesocco",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "51.8",
+    "lon": "0",
+    "city": "Stanstead Abbots",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "47.4",
+    "lon": "8.9",
+    "city": "Wila",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "64.3",
+    "lon": "-15.2",
+    "city": "Nesjahverfi",
+    "country": "Iceland"
+  },
+  {
+    "lat": "47.8",
+    "lon": "11",
+    "city": "Hohenpeißenberg",
+    "country": "Germany"
+  },
+  {
+    "lat": "55.7",
+    "lon": "11.6",
+    "city": "Holbaek",
+    "country": "Denmark"
+  },
+  {
+    "lat": "55.9",
+    "lon": "9.8",
+    "city": "Horsens",
+    "country": "Denmark"
+  },
+  {
+    "lat": "38.5",
+    "lon": "-28.6",
+    "city": "Horta",
+    "country": "Portugal"
+  },
+  {
+    "lat": "50.2",
+    "lon": "15.8",
+    "city": "Hradec Králové",
+    "country": "Czechia"
+  },
+  {
+    "lat": "37.3",
+    "lon": "-6.9",
+    "city": "Huelva",
+    "country": "Spain"
+  },
+  {
+    "lat": "65.4",
+    "lon": "-20.9",
+    "city": "Húnaþing vestra",
+    "country": "Iceland"
+  },
+  {
+    "lat": "43",
+    "lon": "6.5",
+    "city": "Provence-Alpes-Côte d'Azur",
+    "country": "France"
+  },
+  {
+    "lat": "47.2",
+    "lon": "27.6",
+    "city": "Aroneanu",
+    "country": "Romania"
+  },
+  {
+    "lat": "38.9",
+    "lon": "1.4",
+    "city": "Sant Josep De Sa Talaia",
+    "country": "Spain"
+  },
+  {
+    "lat": "47.3",
+    "lon": "11.4",
+    "city": "Innsbruck",
+    "country": "Austria"
+  },
+  {
+    "lat": "46.7",
+    "lon": "7.9",
+    "city": "Ringgenberg",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "56.1",
+    "lon": "9.2",
+    "city": "Isenvad",
+    "country": "Denmark"
+  },
+  {
+    "lat": "78.1",
+    "lon": "13.6",
+    "city": "Spitsbergen",
+    "country": "Norway"
+  },
+  {
+    "lat": "37.8",
+    "lon": "30.6",
+    "city": "Isparta",
+    "country": "Turkey"
+  },
+  {
+    "lat": "38.4",
+    "lon": "27.2",
+    "city": "Buca",
+    "country": "Turkey"
+  },
+  {
+    "lat": "49.2",
+    "lon": "-2.2",
+    "city": "St. Brelade",
+    "country": "Jersey"
+  },
+  {
+    "lat": "31.8",
+    "lon": "35.2",
+    "city": "Jerusalem",
+    "country": "Israel"
+  },
+  {
+    "lat": "60.8",
+    "lon": "23.5",
+    "city": "Jokioinen",
+    "country": "Finland"
+  },
+  {
+    "lat": "46.5",
+    "lon": "8",
+    "city": "Fieschertal",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "62.4",
+    "lon": "25.7",
+    "city": "Laukaa",
+    "country": "Finland"
+  },
+  {
+    "lat": "65.6",
+    "lon": "22.1",
+    "city": "Lulea domkyrkodistrikt",
+    "country": "Sweden"
+  },
+  {
+    "lat": "67",
+    "lon": "-50.7",
+    "city": "Sisimiut",
+    "country": "Greenland"
+  },
+  {
+    "lat": "59.4",
+    "lon": "13.5",
+    "city": "Karlstad",
+    "country": "Sweden"
+  },
+  {
+    "lat": "40.6",
+    "lon": "43.1",
+    "city": "Kars Merkez",
+    "country": "Turkey"
+  },
+  {
+    "lat": "51.3",
+    "lon": "9.5",
+    "city": "Kassel",
+    "country": "Germany"
+  },
+  {
+    "lat": "54.9",
+    "lon": "23.9",
+    "city": "Kaunas",
+    "country": "Lithuania"
+  },
+  {
+    "lat": "38.8",
+    "lon": "35.4",
+    "city": "Kocasinan",
+    "country": "Turkey"
+  },
+  {
+    "lat": "46.9",
+    "lon": "19.8",
+    "city": "Kecskemét",
+    "country": "Hungary"
+  },
+  {
+    "lat": "69.8",
+    "lon": "27",
+    "city": "Utsjoki",
+    "country": "Finland"
+  },
+  {
+    "lat": "51.5",
+    "lon": "-0.3",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "50",
+    "lon": "36.3",
+    "city": "Kharkiv",
+    "country": "Ukraine"
+  },
+  {
+    "lat": "50.4",
+    "lon": "30.5",
+    "city": "Kyiv",
+    "country": "Ukraine"
+  },
+  {
+    "lat": "52.7",
+    "lon": "-7.3",
+    "city": "Keatingstown",
+    "country": "Ireland"
+  },
+  {
+    "lat": "57.7",
+    "lon": "-3.6",
+    "city": "Findhorn",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "67.8",
+    "lon": "20.3",
+    "city": "Kiruna",
+    "country": "Sweden"
+  },
+  {
+    "lat": "46.7",
+    "lon": "14.3",
+    "city": "Sankt Veit An Der Glan",
+    "country": "Austria"
+  },
+  {
+    "lat": "55.7",
+    "lon": "12.3",
+    "city": "Ledøje",
+    "country": "Denmark"
+  },
+  {
+    "lat": "55.6",
+    "lon": "12.6",
+    "city": "Kastrup",
+    "country": "Denmark"
+  },
+  {
+    "lat": "54.2",
+    "lon": "15.6",
+    "city": "Kołobrzeg",
+    "country": "Poland"
+  },
+  {
+    "lat": "47.7",
+    "lon": "9.2",
+    "city": "Obersee",
+    "country": "Germany"
+  },
+  {
+    "lat": "43.3",
+    "lon": "20.8",
+    "city": "Raska",
+    "country": "Serbia"
+  },
+  {
+    "lat": "45.6",
+    "lon": "13.7",
+    "city": "Ankaran / Ancarano",
+    "country": "Slovenia"
+  },
+  {
+    "lat": "49.6",
+    "lon": "15.1",
+    "city": "Chyšná",
+    "country": "Czechia"
+  },
+  {
+    "lat": "46",
+    "lon": "16.6",
+    "city": "Novi Đurđic",
+    "country": "Croatia"
+  },
+  {
+    "lat": "33.8",
+    "lon": "35.9",
+    "city": "Saadnayel",
+    "country": "Lebanon"
+  },
+  {
+    "lat": "48.9",
+    "lon": "16.1",
+    "city": "Tvořihráz",
+    "country": "Czechia"
+  },
+  {
+    "lat": "41.7",
+    "lon": "25.4",
+    "city": "Kardzhali",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": "47.1",
+    "lon": "6.8",
+    "city": "La Chaux-de-Fonds",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "43.4",
+    "lon": "-8.4",
+    "city": "A Coruña",
+    "country": "Spain"
+  },
+  {
+    "lat": "46.4",
+    "lon": "6.1",
+    "city": "La Rippe",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "46.8",
+    "lon": "6.6",
+    "city": "Valeyres-sous-Montagny",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "46.7",
+    "lon": "-1.4",
+    "city": "La Roche-sur-Yon",
+    "country": "France"
+  },
+  {
+    "lat": "46.2",
+    "lon": "-1.2",
+    "city": "L'Houmeau",
+    "country": "France"
+  },
+  {
+    "lat": "47.5",
+    "lon": "8.4",
+    "city": "Schleinikon",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "45.1",
+    "lon": "3.9",
+    "city": "Crispinhac",
+    "country": "France"
+  },
+  {
+    "lat": "54.3",
+    "lon": "-1.5",
+    "city": "Morton-on-Swale",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "42.6",
+    "lon": "-5.7",
+    "city": "Cimanes del Tejar",
+    "country": "Spain"
+  },
+  {
+    "lat": "41.6",
+    "lon": "0.6",
+    "city": "Lleida",
+    "country": "Spain"
+  },
+  {
+    "lat": "60.1",
+    "lon": "-1.2",
+    "city": "Quarff",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "56.4",
+    "lon": "-2.9",
+    "city": "Leuchars",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "45.8",
+    "lon": "1.3",
+    "city": "Feytiat",
+    "country": "France"
+  },
+  {
+    "lat": "52.2",
+    "lon": "14.1",
+    "city": "Tauche",
+    "country": "Germany"
+  },
+  {
+    "lat": "38.7",
+    "lon": "-9.2",
+    "city": "Lisbon",
+    "country": "Portugal"
+  },
+  {
+    "lat": "55",
+    "lon": "8.4",
+    "city": "List auf Sylt",
+    "country": "Germany"
+  },
+  {
+    "lat": "46.1",
+    "lon": "14.5",
+    "city": "Ljubljana",
+    "country": "Slovenia"
+  },
+  {
+    "lat": "46.2",
+    "lon": "8.9",
+    "city": "Cugnasco-Gerra",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "46.2",
+    "lon": "8.8",
+    "city": "Brione sopra Minusio",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "42.5",
+    "lon": "-2.3",
+    "city": "Bargota",
+    "country": "Spain"
+  },
+  {
+    "lat": "51.2",
+    "lon": "-0.2",
+    "city": "Reigate and Banstead",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "51.5",
+    "lon": "-0.1",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "15.6",
+    "lon": "-16.2",
+    "city": "Louga",
+    "country": "Senegal"
+  },
+  {
+    "lat": "51.2",
+    "lon": "7.6",
+    "city": "Lüdenscheid",
+    "country": "Germany"
+  },
+  {
+    "lat": "35.8",
+    "lon": "14.4",
+    "city": "Filfla",
+    "country": "Malta"
+  },
+  {
+    "lat": "46",
+    "lon": "9",
+    "city": "Castagnola",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "55.7",
+    "lon": "13.2",
+    "city": "Lund",
+    "country": "Sweden"
+  },
+  {
+    "lat": "47.9",
+    "lon": "15.1",
+    "city": "Gemeinde Gaming",
+    "country": "Austria"
+  },
+  {
+    "lat": "47",
+    "lon": "8.3",
+    "city": "Horw",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "46.3",
+    "lon": "4.8",
+    "city": "Charnay-lès-Mâcon",
+    "country": "France"
+  },
+  {
+    "lat": "24.6",
+    "lon": "39.7",
+    "city": "Madinah",
+    "country": "Saudi Arabia"
+  },
+  {
+    "lat": "40.5",
+    "lon": "-3.6",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "lat": "40.5",
+    "lon": "-3.7",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "lat": "36.7",
+    "lon": "-4.5",
+    "city": "Málaga",
+    "country": "Spain"
+  },
+  {
+    "lat": "55.4",
+    "lon": "-7.3",
+    "city": "Malin Well",
+    "country": "Ireland"
+  },
+  {
+    "lat": "49.5",
+    "lon": "8.6",
+    "city": "Heddesheim",
+    "country": "Germany"
+  },
+  {
+    "lat": "43.4",
+    "lon": "5.2",
+    "city": "Marignane",
+    "country": "France"
+  },
+  {
+    "lat": "56.4",
+    "lon": "8.7",
+    "city": "Holstebro",
+    "country": "Denmark"
+  },
+  {
+    "lat": "51",
+    "lon": "3.8",
+    "city": "Ghent",
+    "country": "Belgium"
+  },
+  {
+    "lat": "31.3",
+    "lon": "27.2",
+    "city": "Marsa Matruh",
+    "country": "Egypt"
+  },
+  {
+    "lat": "36.8",
+    "lon": "34.6",
+    "city": "Yenişehir",
+    "country": "Turkey"
+  },
+  {
+    "lat": "38.2",
+    "lon": "15.6",
+    "city": "Messina",
+    "country": "Italy"
+  },
+  {
+    "lat": "53.8",
+    "lon": "21.6",
+    "city": "Mikołajki",
+    "country": "Poland"
+  },
+  {
+    "lat": "44.1",
+    "lon": "3",
+    "city": "Comprégnac",
+    "country": "France"
+  },
+  {
+    "lat": "32.3",
+    "lon": "15.2",
+    "city": "Misrata",
+    "country": "Libya"
+  },
+  {
+    "lat": "47.5",
+    "lon": "16.1",
+    "city": "Schäffern",
+    "country": "Austria"
+  },
+  {
+    "lat": "46.5",
+    "lon": "7",
+    "city": "Albeuve",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "46.3",
+    "lon": "7.5",
+    "city": "Montana",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "44.6",
+    "lon": "4.7",
+    "city": "Rochemaure",
+    "country": "France"
+  },
+  {
+    "lat": "43.6",
+    "lon": "4",
+    "city": "Mauguio",
+    "country": "France"
+  },
+  {
+    "lat": "54.7",
+    "lon": "-2.4",
+    "city": "Milburn",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "56",
+    "lon": "37.5",
+    "city": "Сумароково",
+    "country": "Russia"
+  },
+  {
+    "lat": "55.8",
+    "lon": "37.6",
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "lat": "55.7",
+    "lon": "37.5",
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "lat": "48.4",
+    "lon": "11.8",
+    "city": "Brunnhofen",
+    "country": "Germany"
+  },
+  {
+    "lat": "37.2",
+    "lon": "28.4",
+    "city": "Menteşe",
+    "country": "Turkey"
+  },
+  {
+    "lat": "38",
+    "lon": "-1.2",
+    "city": "Jabali Viejo",
+    "country": "Spain"
+  },
+  {
+    "lat": "37.8",
+    "lon": "-0.8",
+    "city": "San Javier",
+    "country": "Spain"
+  },
+  {
+    "lat": "69",
+    "lon": "33.1",
+    "city": "Murmansk",
+    "country": "Russia"
+  },
+  {
+    "lat": "48.7",
+    "lon": "6.2",
+    "city": "Nancy",
+    "country": "France"
+  },
+  {
+    "lat": "47.2",
+    "lon": "-1.6",
+    "city": "Nantes",
+    "country": "France"
+  },
+  {
+    "lat": "47",
+    "lon": "7.9",
+    "city": "Trub",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "40.9",
+    "lon": "14.3",
+    "city": "Casoria",
+    "country": "Italy"
+  },
+  {
+    "lat": "44.2",
+    "lon": "22.6",
+    "city": "Negotin Municipality",
+    "country": "Serbia"
+  },
+  {
+    "lat": "53.6",
+    "lon": "13.2",
+    "city": "Woggersin",
+    "country": "Germany"
+  },
+  {
+    "lat": "47",
+    "lon": "7",
+    "city": "Marin-Epagnier",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "55.1",
+    "lon": "15.1",
+    "city": "Bornholm",
+    "country": "Denmark"
+  },
+  {
+    "lat": "43.7",
+    "lon": "7.2",
+    "city": "Nice",
+    "country": "France"
+  },
+  {
+    "lat": "38",
+    "lon": "34.7",
+    "city": "Niğde",
+    "country": "Turkey"
+  },
+  {
+    "lat": "47",
+    "lon": "-2.3",
+    "city": "Noirmoutier-en-l'Île",
+    "country": "France"
+  },
+  {
+    "lat": "53.7",
+    "lon": "7.2",
+    "city": "Norderney",
+    "country": "Germany"
+  },
+  {
+    "lat": "58.6",
+    "lon": "16.3",
+    "city": "Berghamra",
+    "country": "Sweden"
+  },
+  {
+    "lat": "53",
+    "lon": "-1.3",
+    "city": "Broxtowe",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "45.3",
+    "lon": "19.9",
+    "city": "City of Novi Sad",
+    "country": "Serbia"
+  },
+  {
+    "lat": "49.5",
+    "lon": "11.1",
+    "city": "Nuremberg",
+    "country": "Germany"
+  },
+  {
+    "lat": "78.9",
+    "lon": "11.9",
+    "city": "Spitsbergen, Svalbard and Jan Mayen",
+    "country": "Norway"
+  },
+  {
+    "lat": "48",
+    "lon": "21.7",
+    "city": "Nyíregyháza",
+    "country": "Hungary"
+  },
+  {
+    "lat": "48.3",
+    "lon": "16.7",
+    "city": "Strasshof",
+    "country": "Austria"
+  },
+  {
+    "lat": "50.3",
+    "lon": "5.7",
+    "city": "Vaux-Chavanne",
+    "country": "Belgium"
+  },
+  {
+    "lat": "42.5",
+    "lon": "2.1",
+    "city": "La Cabanasse",
+    "country": "France"
+  },
+  {
+    "lat": "46.5",
+    "lon": "30.6",
+    "city": "Усатівська сільська громада",
+    "country": "Ukraine"
+  },
+  {
+    "lat": "51.2",
+    "lon": "-1",
+    "city": "Weston Patrick",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "56.3",
+    "lon": "10.1",
+    "city": "Favrskov",
+    "country": "Denmark"
+  },
+  {
+    "lat": "63.2",
+    "lon": "14.5",
+    "city": "Östersund",
+    "country": "Sweden"
+  },
+  {
+    "lat": "40.9",
+    "lon": "9.5",
+    "city": "Terranova",
+    "country": "Italy"
+  },
+  {
+    "lat": "51.2",
+    "lon": "2.9",
+    "city": "Ostend",
+    "country": "Belgium"
+  },
+  {
+    "lat": "52.3",
+    "lon": "8.1",
+    "city": "Osnabrück",
+    "country": "Germany"
+  },
+  {
+    "lat": "49.8",
+    "lon": "18.2",
+    "city": "Ostrava",
+    "country": "Czechia"
+  },
+  {
+    "lat": "48.7",
+    "lon": "2.2",
+    "city": "Orsay",
+    "country": "France"
+  },
+  {
+    "lat": "40",
+    "lon": "15.3",
+    "city": "Palinuro",
+    "country": "Italy"
+  },
+  {
+    "lat": "39.6",
+    "lon": "2.6",
+    "city": "Palma",
+    "country": "Spain"
+  },
+  {
+    "lat": "42.8",
+    "lon": "-1.6",
+    "city": "Egüés",
+    "country": "Spain"
+  },
+  {
+    "lat": "36.8",
+    "lon": "12",
+    "city": "Pantelleria",
+    "country": "Italy"
+  },
+  {
+    "lat": "45.6",
+    "lon": "14.6",
+    "city": "Gorači",
+    "country": "Croatia"
+  },
+  {
+    "lat": "48.8",
+    "lon": "2.3",
+    "city": "Bagneux",
+    "country": "France"
+  },
+  {
+    "lat": "48.7",
+    "lon": "2.4",
+    "city": "Draveil",
+    "country": "France"
+  },
+  {
+    "lat": "48.6",
+    "lon": "13.5",
+    "city": "Passau",
+    "country": "Germany"
+  },
+  {
+    "lat": "43.4",
+    "lon": "-0.4",
+    "city": "Sauvagnon",
+    "country": "France"
+  },
+  {
+    "lat": "46.8",
+    "lon": "6.9",
+    "city": "Cugy",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "40.4",
+    "lon": "-7.6",
+    "city": "Sabugueiro",
+    "country": "Portugal"
+  },
+  {
+    "lat": "42.7",
+    "lon": "2.9",
+    "city": "Perpignan",
+    "country": "France"
+  },
+  {
+    "lat": "43.1",
+    "lon": "12.5",
+    "city": "Perugia",
+    "country": "Italy"
+  },
+  {
+    "lat": "42.4",
+    "lon": "14.2",
+    "city": "Chieti",
+    "country": "Italy"
+  },
+  {
+    "lat": "44.9",
+    "lon": "9.7",
+    "city": "San Giorgio Piacentino",
+    "country": "Italy"
+  },
+  {
+    "lat": "45.9",
+    "lon": "7.7",
+    "city": "Ayas",
+    "country": "Italy"
+  },
+  {
+    "lat": "42.6",
+    "lon": "10.1",
+    "city": "Pianosa",
+    "country": "Italy"
+  },
+  {
+    "lat": "60.4",
+    "lon": "22.6",
+    "city": "Kaarina",
+    "country": "Finland"
+  },
+  {
+    "lat": "47",
+    "lon": "8.3",
+    "city": "Horw",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "46.5",
+    "lon": "8.7",
+    "city": "Ambrì",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "43.7",
+    "lon": "10.4",
+    "city": "Pisa",
+    "country": "Italy"
+  },
+  {
+    "lat": "46.7",
+    "lon": "7.3",
+    "city": "Bad-Schwarzsee",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "43.5",
+    "lon": "24.6",
+    "city": "Dolna Mitropolia",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": "42.5",
+    "lon": "-6.6",
+    "city": "Ponferrada",
+    "country": "Spain"
+  },
+  {
+    "lat": "37.8",
+    "lon": "-25.7",
+    "city": "Ponta Delgada",
+    "country": "Portugal"
+  },
+  {
+    "lat": "40.9",
+    "lon": "13",
+    "city": "Ponza",
+    "country": "Italy"
+  },
+  {
+    "lat": "49.1",
+    "lon": "20.3",
+    "city": "Mlynica",
+    "country": "Slovakia"
+  },
+  {
+    "lat": "41.1",
+    "lon": "-8.6",
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal"
+  },
+  {
+    "lat": "33.1",
+    "lon": "-16.4",
+    "city": "Porto Santo",
+    "country": "Portugal"
+  },
+  {
+    "lat": "45.5",
+    "lon": "13.6",
+    "city": "Portorož",
+    "country": "Slovenia"
+  },
+  {
+    "lat": "52.4",
+    "lon": "13.1",
+    "city": "Potsdam",
+    "country": "Germany"
+  },
+  {
+    "lat": "50.1",
+    "lon": "14.3",
+    "city": "Prague",
+    "country": "Czechia"
+  },
+  {
+    "lat": "55.5",
+    "lon": "-4.6",
+    "city": "Prestwick",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "42.7",
+    "lon": "21.2",
+    "city": "Prishtine",
+    "country": "Kosovo"
+  },
+  {
+    "lat": "51.4",
+    "lon": "22",
+    "city": "Skowieszyn",
+    "country": "Poland"
+  },
+  {
+    "lat": "46.5",
+    "lon": "6.7",
+    "city": "Lutry",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "31.2",
+    "lon": "34.2",
+    "city": "Rafah",
+    "country": "Egypt"
+  },
+  {
+    "lat": "35.9",
+    "lon": "39",
+    "city": "`Ukayrishah",
+    "country": "Syria"
+  },
+  {
+    "lat": "66.5",
+    "lon": "-16",
+    "city": "Norðurþing",
+    "country": "Iceland"
+  },
+  {
+    "lat": "47.4",
+    "lon": "8.5",
+    "city": "Zurich",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "49.3",
+    "lon": "4",
+    "city": "Reims",
+    "country": "France"
+  },
+  {
+    "lat": "48.1",
+    "lon": "-1.7",
+    "city": "Rennes",
+    "country": "France"
+  },
+  {
+    "lat": "64.1",
+    "lon": "-21.9",
+    "city": "Kópavogur",
+    "country": "Iceland"
+  },
+  {
+    "lat": "46",
+    "lon": "13",
+    "city": "Sedegliano",
+    "country": "Italy"
+  },
+  {
+    "lat": "46.3",
+    "lon": "10.1",
+    "city": "Poschiavo",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "46.4",
+    "lon": "8.5",
+    "city": "S. Carlo",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "55.2",
+    "lon": "8.6",
+    "city": "Toftum",
+    "country": "Denmark"
+  },
+  {
+    "lat": "41.8",
+    "lon": "12.6",
+    "city": "Ciampino",
+    "country": "Italy"
+  },
+  {
+    "lat": "54.2",
+    "lon": "12.1",
+    "city": "Küstengewässer einschließlich Anteil am Festlandsockel",
+    "country": "Germany"
+  },
+  {
+    "lat": "51.8",
+    "lon": "-0.4",
+    "city": "St Albans",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "56.2",
+    "lon": "21.2",
+    "city": "Rucavas pagasts",
+    "country": "Latvia"
+  },
+  {
+    "lat": "47.4",
+    "lon": "7.9",
+    "city": "Wisen (SO)",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "49.2",
+    "lon": "7.1",
+    "city": "Saarbrücken",
+    "country": "Germany"
+  },
+  {
+    "lat": "47.2",
+    "lon": "9.3",
+    "city": "Unterwasser",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "41",
+    "lon": "-5.5",
+    "city": "San Morales",
+    "country": "Spain"
+  },
+  {
+    "lat": "47.8",
+    "lon": "13",
+    "city": "Salzburg",
+    "country": "Austria"
+  },
+  {
+    "lat": "47.8",
+    "lon": "13.1",
+    "city": "Salzburg",
+    "country": "Austria"
+  },
+  {
+    "lat": "46.5",
+    "lon": "9.9",
+    "city": "Pontresina",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "46.5",
+    "lon": "9.2",
+    "city": "Mesocco",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "43.3",
+    "lon": "-2.1",
+    "city": "Orio",
+    "country": "Spain"
+  },
+  {
+    "lat": "41.5",
+    "lon": "23.3",
+    "city": "Spatovo",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": "43.5",
+    "lon": "-3.8",
+    "city": "Santander",
+    "country": "Spain"
+  },
+  {
+    "lat": "43.9",
+    "lon": "18.4",
+    "city": "City of Sarajevo",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "lat": "43.8",
+    "lon": "18.3",
+    "city": "Hrasnica",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "lat": "47.7",
+    "lon": "8.6",
+    "city": "Beringen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "54.5",
+    "lon": "9.6",
+    "city": "Loopstedt",
+    "country": "Germany"
+  },
+  {
+    "lat": "46.8",
+    "lon": "10.3",
+    "city": "Scuol",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "30.9",
+    "lon": "34.8",
+    "city": "Ramat Negev Regional Council",
+    "country": "Israel"
+  },
+  {
+    "lat": "52.9",
+    "lon": "11.7",
+    "city": "Aland",
+    "country": "Germany"
+  },
+  {
+    "lat": "37.4",
+    "lon": "-5.9",
+    "city": "Seville",
+    "country": "Spain"
+  },
+  {
+    "lat": "56.4",
+    "lon": "-2.9",
+    "city": "Leuchars",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "52.8",
+    "lon": "-2.7",
+    "city": "Shawbury",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "67.9",
+    "lon": "44.2",
+    "city": "Shoina",
+    "country": "Russia"
+  },
+  {
+    "lat": "31.6",
+    "lon": "25.4",
+    "city": "Marsa Matruh",
+    "country": "Egypt"
+  },
+  {
+    "lat": "35",
+    "lon": "9.5",
+    "city": "El Ahouaz",
+    "country": "Tunisia"
+  },
+  {
+    "lat": "38",
+    "lon": "22.7",
+    "city": "Municipal Unit of Sikyona",
+    "country": "Greece"
+  },
+  {
+    "lat": "52",
+    "lon": "-0.4",
+    "city": "Gravenhurst",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "56.9",
+    "lon": "8.6",
+    "city": "Snedsted",
+    "country": "Denmark"
+  },
+  {
+    "lat": "45",
+    "lon": "34.1",
+    "city": "Молодёжненское сельское поселение",
+    "country": "Ukraine"
+  },
+  {
+    "lat": "42",
+    "lon": "35.2",
+    "city": "Sinop",
+    "country": "Turkey"
+  },
+  {
+    "lat": "46.2",
+    "lon": "7.3",
+    "city": "Aproz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "55.9",
+    "lon": "12.4",
+    "city": "Kirkelte",
+    "country": "Denmark"
+  },
+  {
+    "lat": "43.3",
+    "lon": "20",
+    "city": "Sjenica Municipality",
+    "country": "Serbia"
+  },
+  {
+    "lat": "57.7",
+    "lon": "10.6",
+    "city": "Skagen",
+    "country": "Denmark"
+  },
+  {
+    "lat": "42",
+    "lon": "21.7",
+    "city": "Gorno Konjari",
+    "country": "North Macedonia"
+  },
+  {
+    "lat": "45.9",
+    "lon": "16",
+    "city": "City of Zagreb",
+    "country": "Croatia"
+  },
+  {
+    "lat": "67.4",
+    "lon": "26.7",
+    "city": "Sodankyla",
+    "country": "Finland"
+  },
+  {
+    "lat": "42.7",
+    "lon": "23.3",
+    "city": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": "24.9",
+    "lon": "46.4",
+    "city": "Al Uyaynah",
+    "country": "Saudi Arabia"
+  },
+  {
+    "lat": "47.1",
+    "lon": "13",
+    "city": "Rauris",
+    "country": "Austria"
+  },
+  {
+    "lat": "41.6",
+    "lon": "-2.5",
+    "city": "Cubo de la Solana",
+    "country": "Spain"
+  },
+  {
+    "lat": "43.5",
+    "lon": "16.4",
+    "city": "Split",
+    "country": "Croatia"
+  },
+  {
+    "lat": "51.4",
+    "lon": "-3.4",
+    "city": "St Athan",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "47.4",
+    "lon": "9.4",
+    "city": "Teufen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "50",
+    "lon": "5.4",
+    "city": "Vesqueville",
+    "country": "Belgium"
+  },
+  {
+    "lat": "60",
+    "lon": "30.3",
+    "city": "Saint Petersburg",
+    "country": "Russia"
+  },
+  {
+    "lat": "49.8",
+    "lon": "3.2",
+    "city": "Seraucourt-le-Grand",
+    "country": "France"
+  },
+  {
+    "lat": "45.8",
+    "lon": "8.9",
+    "city": "Solbiate",
+    "country": "Italy"
+  },
+  {
+    "lat": "48.1",
+    "lon": "14.6",
+    "city": "Haag",
+    "country": "Austria"
+  },
+  {
+    "lat": "41.8",
+    "lon": "22.2",
+    "city": "Dolni Balvan",
+    "country": "North Macedonia"
+  },
+  {
+    "lat": "59.4",
+    "lon": "18",
+    "city": "Upplands Väsby och Sollentuna",
+    "country": "Sweden"
+  },
+  {
+    "lat": "54.9",
+    "lon": "9.1",
+    "city": "Bylderup-Bov",
+    "country": "Denmark"
+  },
+  {
+    "lat": "48.6",
+    "lon": "7.6",
+    "city": "Ittenheim",
+    "country": "France"
+  },
+  {
+    "lat": "49.1",
+    "lon": "20.1",
+    "city": "Vysoké Tatry",
+    "country": "Slovakia"
+  },
+  {
+    "lat": "62.2",
+    "lon": "-7",
+    "city": "Grønhólmur",
+    "country": "Faroe Islands"
+  },
+  {
+    "lat": "48.8",
+    "lon": "9.2",
+    "city": "Stuttgart",
+    "country": "Germany"
+  },
+  {
+    "lat": "52.8",
+    "lon": "-1.3",
+    "city": "North West Leicestershire",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "54.1",
+    "lon": "23",
+    "city": "Mała Huta",
+    "country": "Poland"
+  },
+  {
+    "lat": "46.9",
+    "lon": "20.5",
+    "city": "Mezőtúr",
+    "country": "Hungary"
+  },
+  {
+    "lat": "28.4",
+    "lon": "36.6",
+    "city": "Tabuk",
+    "country": "Saudi Arabia"
+  },
+  {
+    "lat": "47.5",
+    "lon": "8.9",
+    "city": "Aadorf",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "30.7",
+    "lon": "30.7",
+    "city": "Kom Hamada",
+    "country": "Egypt"
+  },
+  {
+    "lat": "22.8",
+    "lon": "5.5",
+    "city": "Tamanghasset",
+    "country": "Algeria"
+  },
+  {
+    "lat": "58.3",
+    "lon": "26.7",
+    "city": "Saareke",
+    "country": "Estonia"
+  },
+  {
+    "lat": "42.5",
+    "lon": "13",
+    "city": "Leonessa",
+    "country": "Italy"
+  },
+  {
+    "lat": "42",
+    "lon": "15",
+    "city": "Termoli",
+    "country": "Italy"
+  },
+  {
+    "lat": "40.4",
+    "lon": "-1.1",
+    "city": "Teruel",
+    "country": "Spain"
+  },
+  {
+    "lat": "55.4",
+    "lon": "12.1",
+    "city": "Koge",
+    "country": "Denmark"
+  },
+  {
+    "lat": "40.5",
+    "lon": "23",
+    "city": "Δημοτική Κοινότητα Νέου Ρυσίου",
+    "country": "Greece"
+  },
+  {
+    "lat": "45.8",
+    "lon": "21.3",
+    "city": "Giarmata-Vii",
+    "country": "Romania"
+  },
+  {
+    "lat": "39.9",
+    "lon": "-4.1",
+    "city": "Toledo",
+    "country": "Spain"
+  },
+  {
+    "lat": "58.3",
+    "lon": "26.5",
+    "city": "Uue-Piiri",
+    "country": "Estonia"
+  },
+  {
+    "lat": "45.2",
+    "lon": "7.7",
+    "city": "Leinì",
+    "country": "Italy"
+  },
+  {
+    "lat": "40.8",
+    "lon": "0.5",
+    "city": "Roquetes",
+    "country": "Spain"
+  },
+  {
+    "lat": "47.5",
+    "lon": "0.7",
+    "city": "Cerelles",
+    "country": "France"
+  },
+  {
+    "lat": "55.8",
+    "lon": "10.6",
+    "city": "Samso",
+    "country": "Denmark"
+  },
+  {
+    "lat": "37.9",
+    "lon": "12.5",
+    "city": "Trapani",
+    "country": "Italy"
+  },
+  {
+    "lat": "48.8",
+    "lon": "2",
+    "city": "Bois-d'Arcy",
+    "country": "France"
+  },
+  {
+    "lat": "48.7",
+    "lon": "21.7",
+    "city": "Hriadky",
+    "country": "Slovakia"
+  },
+  {
+    "lat": "49.8",
+    "lon": "6.7",
+    "city": "Trier",
+    "country": "Germany"
+  },
+  {
+    "lat": "45.7",
+    "lon": "13.8",
+    "city": "Trieste",
+    "country": "Italy"
+  },
+  {
+    "lat": "32.9",
+    "lon": "13.2",
+    "city": "Tripoli",
+    "country": "Libya"
+  },
+  {
+    "lat": "69.7",
+    "lon": "19",
+    "city": "Tromsø",
+    "country": "Norway"
+  },
+  {
+    "lat": "36.8",
+    "lon": "10.2",
+    "city": "Tunis",
+    "country": "Tunisia"
+  },
+  {
+    "lat": "57.2",
+    "lon": "10",
+    "city": "Tylstrup",
+    "country": "Denmark"
+  },
+  {
+    "lat": "55.2",
+    "lon": "11.3",
+    "city": "Slagelse",
+    "country": "Denmark"
+  },
+  {
+    "lat": "50.8",
+    "lon": "4.4",
+    "city": "Watermael-Boitsfort - Watermaal-Bosvoorde",
+    "country": "Belgium"
+  },
+  {
+    "lat": "46",
+    "lon": "13.2",
+    "city": "Zugliano",
+    "country": "Italy"
+  },
+  {
+    "lat": "46.5",
+    "lon": "8.3",
+    "city": "Ulrichen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "63.8",
+    "lon": "20.3",
+    "city": "Umeå",
+    "country": "Sweden"
+  },
+  {
+    "lat": "38.7",
+    "lon": "13.2",
+    "city": "Ustica",
+    "country": "Italy"
+  },
+  {
+    "lat": "47.1",
+    "lon": "9.5",
+    "city": "Weite",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "39.5",
+    "lon": "-0.5",
+    "city": "Manises",
+    "country": "Spain"
+  },
+  {
+    "lat": "51.9",
+    "lon": "-10.3",
+    "city": "Aghanboy",
+    "country": "Ireland"
+  },
+  {
+    "lat": "41.7",
+    "lon": "-4.8",
+    "city": "Villanubla",
+    "country": "Spain"
+  },
+  {
+    "lat": "53.3",
+    "lon": "-4.5",
+    "city": "Bodedern",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "38.5",
+    "lon": "43.3",
+    "city": "Van",
+    "country": "Turkey"
+  },
+  {
+    "lat": "43.2",
+    "lon": "27.9",
+    "city": "Varna",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": "56.9",
+    "lon": "14.7",
+    "city": "Bergunda",
+    "country": "Sweden"
+  },
+  {
+    "lat": "45.5",
+    "lon": "12.3",
+    "city": "Venice",
+    "country": "Italy"
+  },
+  {
+    "lat": "45.4",
+    "lon": "10.9",
+    "city": "Verona",
+    "country": "Italy"
+  },
+  {
+    "lat": "42.1",
+    "lon": "12.2",
+    "city": "Bracciano",
+    "country": "Italy"
+  },
+  {
+    "lat": "42.2",
+    "lon": "-8.6",
+    "city": "Mos",
+    "country": "Spain"
+  },
+  {
+    "lat": "42.6",
+    "lon": "-8.8",
+    "city": "Vilaxoán",
+    "country": "Spain"
+  },
+  {
+    "lat": "57.7",
+    "lon": "18.4",
+    "city": "Stora Bläsnungs",
+    "country": "Sweden"
+  },
+  {
+    "lat": "46.3",
+    "lon": "7.8",
+    "city": "Unterbäch",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "42.4",
+    "lon": "12.1",
+    "city": "Viterbo",
+    "country": "Italy"
+  },
+  {
+    "lat": "42.9",
+    "lon": "-2.7",
+    "city": "Vitoria-Gasteiz",
+    "country": "Spain"
+  },
+  {
+    "lat": "51.5",
+    "lon": "3.6",
+    "city": "Middelburg",
+    "country": "Netherlands"
+  },
+  {
+    "lat": "53.2",
+    "lon": "-0.5",
+    "city": "North Kesteven",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "47.2",
+    "lon": "8.7",
+    "city": "Richterswil",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "52",
+    "lon": "5.7",
+    "city": "Bennekom",
+    "country": "Netherlands"
+  },
+  {
+    "lat": "51.6",
+    "lon": "-1.2",
+    "city": "North Moreton",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "52.3",
+    "lon": "21",
+    "city": "Warsaw",
+    "country": "Poland"
+  },
+  {
+    "lat": "52.1",
+    "lon": "1",
+    "city": "Mid Suffolk",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "48.4",
+    "lon": "11.7",
+    "city": "Freising",
+    "country": "Germany"
+  },
+  {
+    "lat": "51",
+    "lon": "11.3",
+    "city": "Weimar",
+    "country": "Germany"
+  },
+  {
+    "lat": "49",
+    "lon": "11",
+    "city": "Weißenburg i. Bay.",
+    "country": "Germany"
+  },
+  {
+    "lat": "46.8",
+    "lon": "9.8",
+    "city": "Davos Platz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "48.3",
+    "lon": "16.4",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "lat": "52.6",
+    "lon": "-0.5",
+    "city": "Wittering",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "49.8",
+    "lon": "10",
+    "city": "Würzburg",
+    "country": "Germany"
+  },
+  {
+    "lat": "47.3",
+    "lon": "7.8",
+    "city": "Neuendorf",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "51",
+    "lon": "-2.6",
+    "city": "Marston Magna",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": "45.8",
+    "lon": "16",
+    "city": "Zagreb",
+    "country": "Croatia"
+  },
+  {
+    "lat": "45.8",
+    "lon": "16",
+    "city": "Zagreb",
+    "country": "Croatia"
+  },
+  {
+    "lat": "49.3",
+    "lon": "20",
+    "city": "Zakopane",
+    "country": "Poland"
+  },
+  {
+    "lat": "41.7",
+    "lon": "-1",
+    "city": "Zaragoza",
+    "country": "Spain"
+  },
+  {
+    "lat": "46",
+    "lon": "7.8",
+    "city": "Zermatt",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "51.7",
+    "lon": "13.8",
+    "city": "Massen-Niederlausitz",
+    "country": "Germany"
+  },
+  {
+    "lat": "43.7",
+    "lon": "19.7",
+    "city": "Cajetina Municipality",
+    "country": "Serbia"
+  },
+  {
+    "lat": "57.1",
+    "lon": "25.9",
+    "city": "Jaunpiebalgas pagasts",
+    "country": "Latvia"
+  },
+  {
+    "lat": "47.4",
+    "lon": "8.6",
+    "city": "Dübendorf",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "47.5",
+    "lon": "8.5",
+    "city": "Niederglatt",
+    "country": "Switzerland"
+  },
+  {
+    "lat": "50.9",
+    "lon": "5.8",
+    "city": "Ulestraten",
+    "country": "Netherlands"
+  },
+  {
+    "lat": "0",
+    "lon": "0",
+    "city": "Atlantic Ocean",
+    "country": "Atlantic Ocean"
+  }
+]

@@ -1,0 +1,5 @@
+﻿-> Only one LCC Panel with dropdownlist
+    -Load Material with PriceList
+    -Element LCC
+    -Whole Model LCC
+    -Visualize Results 

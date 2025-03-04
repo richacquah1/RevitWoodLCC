@@ -1,0 +1,3726 @@
+[
+  {
+    "lat": 54.8,
+    "lon": 11.3,
+    "Dose": 18.064,
+    "city": "Lolland",
+    "country": "Denmark"
+  },
+  {
+    "lat": 57.2,
+    "lon": -2.1,
+    "Dose": 12.935,
+    "city": "Aberdeen City",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 52.1,
+    "lon": -4.6,
+    "Dose": 19.993,
+    "city": "Penparc",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 37,
+    "lon": 35.3,
+    "Dose": 0.042,
+    "city": "Seyhan",
+    "country": "Turkey"
+  },
+  {
+    "lat": 46.5,
+    "lon": 7.6,
+    "Dose": 7.075,
+    "city": "Adelboden",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 38.8,
+    "lon": 30.5,
+    "Dose": 24.644,
+    "city": "Afyonkarahisar",
+    "country": "Turkey"
+  },
+  {
+    "lat": 44.2,
+    "lon": 0.6,
+    "Dose": 28.03,
+    "city": "Le Passage",
+    "country": "France"
+  },
+  {
+    "lat": 46.3,
+    "lon": 6.9,
+    "Dose": 6.832,
+    "city": "Vionnaz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 41.9,
+    "lon": 8.8,
+    "Dose": 27.111,
+    "city": "Grosseto-Prugna",
+    "country": "France"
+  },
+  {
+    "lat": 39,
+    "lon": -1.9,
+    "Dose": 28.886,
+    "city": "Albacete",
+    "country": "Spain"
+  },
+  {
+    "lat": 36.2,
+    "lon": 37.2,
+    "Dose": 1.894,
+    "city": "Aleppo",
+    "country": "Syria"
+  },
+  {
+    "lat": 40.6,
+    "lon": 8.3,
+    "Dose": 17.705,
+    "city": "Alghero",
+    "country": "Italy"
+  },
+  {
+    "lat": 38.4,
+    "lon": 23.1,
+    "Dose": 31.555,
+    "city": "Aliartos",
+    "country": "Greece"
+  },
+  {
+    "lat": 38.3,
+    "lon": -0.6,
+    "Dose": 26.831,
+    "city": "Elche/Elx",
+    "country": "Spain"
+  },
+  {
+    "lat": 36.9,
+    "lon": -2.4,
+    "Dose": 6.498,
+    "city": "Viator",
+    "country": "Spain"
+  },
+  {
+    "lat": 46.9,
+    "lon": 8.6,
+    "Dose": 0.426,
+    "city": "Seedorf",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 41.5,
+    "lon": 15.7,
+    "Dose": 37.822,
+    "city": "Foggia",
+    "country": "Italy"
+  },
+  {
+    "lat": 43.6,
+    "lon": 13.5,
+    "Dose": 21.108,
+    "city": "Ancona",
+    "country": "Italy"
+  },
+  {
+    "lat": 37.9,
+    "lon": 21.3,
+    "Dose": 16.174,
+    "city": "Andravida",
+    "country": "Greece"
+  },
+  {
+    "lat": 56.7,
+    "lon": 11.5,
+    "Dose": 16,
+    "city": "Anholt",
+    "country": "Denmark"
+  },
+  {
+    "lat": 40,
+    "lon": 32.9,
+    "Dose": 1.529,
+    "city": "Altındağ",
+    "country": "Turkey"
+  },
+  {
+    "lat": 36.9,
+    "lon": 30.7,
+    "Dose": 17.571,
+    "city": "Antalya",
+    "country": "Turkey"
+  },
+  {
+    "lat": 64.6,
+    "lon": 40.5,
+    "Dose": 9.652,
+    "city": "Arkhangelsk",
+    "country": "Russia"
+  },
+  {
+    "lat": 54.7,
+    "lon": 13.4,
+    "Dose": 25,
+    "city": "Putgarten",
+    "country": "Germany"
+  },
+  {
+    "lat": 56.8,
+    "lon": 9.5,
+    "Dose": 17.878,
+    "city": "Aars",
+    "country": "Denmark"
+  },
+  {
+    "lat": 55.3,
+    "lon": 10.4,
+    "Dose": 17.195,
+    "city": "Årslev",
+    "country": "Denmark"
+  },
+  {
+    "lat": 39.2,
+    "lon": 21,
+    "Dose": 23.542,
+    "city": "Βλαχέρνα",
+    "country": "Greece"
+  },
+  {
+    "lat": 59.7,
+    "lon": 10.8,
+    "Dose": 11.974,
+    "city": "Vinterbro",
+    "country": "Norway"
+  },
+  {
+    "lat": 55.5,
+    "lon": 9.1,
+    "Dose": 11.949,
+    "city": "Vejen",
+    "country": "Denmark"
+  },
+  {
+    "lat": 38,
+    "lon": 23.7,
+    "Dose": 1.346,
+    "city": "Peristeri",
+    "country": "Greece"
+  },
+  {
+    "lat": 37.9,
+    "lon": 23.7,
+    "Dose": 16,
+    "city": "Athinai_Hellenkion",
+    "country": "Greece"
+  },
+  {
+    "lat": 53.6,
+    "lon": -2.9,
+    "Dose": 17.619,
+    "city": "Scarisbrick",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 47.8,
+    "lon": 3.6,
+    "Dose": 24.186,
+    "city": "Auxerre",
+    "country": "France"
+  },
+  {
+    "lat": 57.2,
+    "lon": -3.8,
+    "Dose": 12.365,
+    "city": "Aviemore",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 37.9,
+    "lon": 27.9,
+    "Dose": 20.436,
+    "city": "Efeler",
+    "country": "Turkey"
+  },
+  {
+    "lat": 51.8,
+    "lon": 8.8,
+    "Dose": 23.691,
+    "city": "Schlangen",
+    "country": "Germany"
+  },
+  {
+    "lat": 38.9,
+    "lon": -6.8,
+    "Dose": 50.761,
+    "city": "Badajoz",
+    "country": "Spain"
+  },
+  {
+    "lat": 30.2,
+    "lon": 31.3,
+    "Dose": 13.971,
+    "city": "Shubra al Khayma",
+    "country": "Egypt"
+  },
+  {
+    "lat": 39.6,
+    "lon": 27.9,
+    "Dose": 1.959,
+    "city": "Altıeylül",
+    "country": "Turkey"
+  },
+  {
+    "lat": 44.8,
+    "lon": 17.2,
+    "Dose": 20.089,
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "lat": 42.1,
+    "lon": 19.1,
+    "Dose": 1.379,
+    "city": "Bar",
+    "country": "Montenegro"
+  },
+  {
+    "lat": 41.3,
+    "lon": 2.1,
+    "Dose": 31.322,
+    "city": "el Prat de Llobregat",
+    "country": "Spain"
+  },
+  {
+    "lat": 78.1,
+    "lon": 14.2,
+    "Dose": 3.689,
+    "city": "Barentsburg",
+    "country": "Norway"
+  },
+  {
+    "lat": 41.1,
+    "lon": 16.9,
+    "Dose": 24.871,
+    "city": "Bari",
+    "country": "Italy"
+  },
+  {
+    "lat": 47.5,
+    "lon": 7.6,
+    "Dose": 0.327,
+    "city": "Reinach",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 42.6,
+    "lon": 9.5,
+    "Dose": 25,
+    "city": "Borgo",
+    "country": "France"
+  },
+  {
+    "lat": 33.8,
+    "lon": 35.5,
+    "Dose": 47.316,
+    "city": "Bayrouth",
+    "country": "Lebanon"
+  },
+  {
+    "lat": 31.6,
+    "lon": -2.2,
+    "Dose": 0.458,
+    "city": "Bechar",
+    "country": "Algeria"
+  },
+  {
+    "lat": 54.7,
+    "lon": -6.2,
+    "Dose": 9.32,
+    "city": "Antrim",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 54.2,
+    "lon": -10,
+    "Dose": 0,
+    "city": "Belmullet",
+    "country": "Ireland"
+  },
+  {
+    "lat": 51.8,
+    "lon": 20.8,
+    "Dose": 16.631,
+    "city": "Belsk Duży",
+    "country": "Poland"
+  },
+  {
+    "lat": 32.1,
+    "lon": 20.1,
+    "Dose": 0.645,
+    "city": "Benghazi",
+    "country": "Libya"
+  },
+  {
+    "lat": 44.8,
+    "lon": 20.5,
+    "Dose": 1.881,
+    "city": "Belgrade",
+    "country": "Serbia"
+  },
+  {
+    "lat": 44.8,
+    "lon": 20.5,
+    "Dose": 1.881,
+    "city": "Belgrade",
+    "country": "Serbia"
+  },
+  {
+    "lat": 60.4,
+    "lon": 5.3,
+    "Dose": 14,
+    "city": "Bergen",
+    "country": "Norway"
+  },
+  {
+    "lat": 60.4,
+    "lon": 5.3,
+    "Dose": 14,
+    "city": "Bergen",
+    "country": "Norway"
+  },
+  {
+    "lat": 47,
+    "lon": 7.5,
+    "Dose": 13.834,
+    "city": "Bolligen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 47.3,
+    "lon": 6,
+    "Dose": 18.999,
+    "city": "Châtillon-le-Duc",
+    "country": "France"
+  },
+  {
+    "lat": 32,
+    "lon": 34.8,
+    "Dose": 0,
+    "city": "Holon",
+    "country": "Israel"
+  },
+  {
+    "lat": 43.3,
+    "lon": -2.9,
+    "Dose": 28.264,
+    "city": "Derio",
+    "country": "Spain"
+  },
+  {
+    "lat": 47.4,
+    "lon": 8.5,
+    "Dose": 0.519,
+    "city": "Zurich",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 53.1,
+    "lon": -7.9,
+    "Dose": 10.995,
+    "city": "The Municipal District of Birr",
+    "country": "Ireland"
+  },
+  {
+    "lat": 44.4,
+    "lon": -1.2,
+    "Dose": 21.123,
+    "city": "Biscarrosse",
+    "country": "France"
+  },
+  {
+    "lat": 41.1,
+    "lon": 21.4,
+    "Dose": 26.608,
+    "city": "Mogila",
+    "country": "North Macedonia"
+  },
+  {
+    "lat": 51.8,
+    "lon": 6.5,
+    "Dose": 16.754,
+    "city": "Hamminkeln",
+    "country": "Germany"
+  },
+  {
+    "lat": 51.5,
+    "lon": 7.3,
+    "Dose": 18.007,
+    "city": "Bochum",
+    "country": "Germany"
+  },
+  {
+    "lat": 67.3,
+    "lon": 14.4,
+    "Dose": 12.077,
+    "city": "Bodo",
+    "country": "Norway"
+  },
+  {
+    "lat": 44.5,
+    "lon": 11.3,
+    "Dose": 1.286,
+    "city": "Bologna",
+    "country": "Italy"
+  },
+  {
+    "lat": 46.5,
+    "lon": 11.3,
+    "Dose": 15.589,
+    "city": "Bolzano",
+    "country": "Italy"
+  },
+  {
+    "lat": 50.7,
+    "lon": 7.2,
+    "Dose": 21.369,
+    "city": "Königswinter",
+    "country": "Germany"
+  },
+  {
+    "lat": 44.8,
+    "lon": -0.7,
+    "Dose": 22.507,
+    "city": "Pessac",
+    "country": "France"
+  },
+  {
+    "lat": 50.3,
+    "lon": 31,
+    "Dose": 24.55,
+    "city": "Бориспільська міська громада",
+    "country": "Ukraine"
+  },
+  {
+    "lat": 60.4,
+    "lon": 15.5,
+    "Dose": 15.192,
+    "city": "Stora Tuna",
+    "country": "Sweden"
+  },
+  {
+    "lat": 56,
+    "lon": 8.6,
+    "Dose": 19.047,
+    "city": "Ringkobing-Skjern",
+    "country": "Denmark"
+  },
+  {
+    "lat": 55.4,
+    "lon": -1.6,
+    "Dose": 25.506,
+    "city": "Lesbury",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 47.1,
+    "lon": 2.4,
+    "Dose": 24.681,
+    "city": "Bourges",
+    "country": "France"
+  },
+  {
+    "lat": 51.4,
+    "lon": -0.8,
+    "Dose": 23.647,
+    "city": "Bracknell",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 41.8,
+    "lon": -6.8,
+    "Dose": 34.036,
+    "city": "Castro de Avelãs",
+    "country": "Portugal"
+  },
+  {
+    "lat": 48.2,
+    "lon": 17.1,
+    "Dose": 28.97,
+    "city": "Bratislava",
+    "country": "Slovakia"
+  },
+  {
+    "lat": 51.7,
+    "lon": 10.6,
+    "Dose": 17.361,
+    "city": "Harz (Landkreis Goslar)",
+    "country": "Germany"
+  },
+  {
+    "lat": 52.3,
+    "lon": 10.5,
+    "Dose": 26.281,
+    "city": "Brunswick",
+    "country": "Germany"
+  },
+  {
+    "lat": 47.5,
+    "lon": 9.8,
+    "Dose": 11.144,
+    "city": "Langen",
+    "country": "Austria"
+  },
+  {
+    "lat": 53.1,
+    "lon": 8.8,
+    "Dose": 0.793,
+    "city": "Bremen",
+    "country": "Germany"
+  },
+  {
+    "lat": 48.5,
+    "lon": -4.4,
+    "Dose": 28.117,
+    "city": "Plabennec",
+    "country": "France"
+  },
+  {
+    "lat": 40.7,
+    "lon": 18,
+    "Dose": 19,
+    "city": "Brindisi",
+    "country": "Italy"
+  },
+  {
+    "lat": 52.1,
+    "lon": 20.7,
+    "Dose": 14.726,
+    "city": "Brwinów Obszar Wiejski",
+    "country": "Poland"
+  },
+  {
+    "lat": 47.4,
+    "lon": 8.1,
+    "Dose": 8.935,
+    "city": "Buchs",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 44.5,
+    "lon": 26.2,
+    "Dose": 31.35,
+    "city": "Voluntari",
+    "country": "Romania"
+  },
+  {
+    "lat": 47.4,
+    "lon": 19.2,
+    "Dose": 0.748,
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  {
+    "lat": 47.1,
+    "lon": 7.6,
+    "Dose": 15.641,
+    "city": "Oberösch",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 52,
+    "lon": 4.9,
+    "Dose": 21.942,
+    "city": "Benschop",
+    "country": "Netherlands"
+  },
+  {
+    "lat": 39.5,
+    "lon": -6.3,
+    "Dose": 27.298,
+    "city": "Cáceres",
+    "country": "Spain"
+  },
+  {
+    "lat": 36.5,
+    "lon": -6.3,
+    "Dose": 34,
+    "city": "Cádiz",
+    "country": "Spain"
+  },
+  {
+    "lat": 49.2,
+    "lon": -0.5,
+    "Dose": 22.309,
+    "city": "Norrey-en-Bessin",
+    "country": "France"
+  },
+  {
+    "lat": 39.3,
+    "lon": 9.1,
+    "Dose": 32.547,
+    "city": "Sestu",
+    "country": "Italy"
+  },
+  {
+    "lat": 30.1,
+    "lon": 31.3,
+    "Dose": 0.558,
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  {
+    "lat": 50.2,
+    "lon": -5.3,
+    "Dose": 24.543,
+    "city": "Camborne",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 52.2,
+    "lon": 0.2,
+    "Dose": 21.252,
+    "city": "South Cambridgeshire",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 41.6,
+    "lon": 14.7,
+    "Dose": 32.439,
+    "city": "Matrice",
+    "country": "Italy"
+  },
+  {
+    "lat": 40.1,
+    "lon": 26.4,
+    "Dose": 1.308,
+    "city": "Çanakkale Merkez",
+    "country": "Turkey"
+  },
+  {
+    "lat": 39.9,
+    "lon": 9.7,
+    "Dose": 23,
+    "city": "Tortolì",
+    "country": "Italy"
+  },
+  {
+    "lat": 40.6,
+    "lon": 8.2,
+    "Dose": 21,
+    "city": "Alghero",
+    "country": "Italy"
+  },
+  {
+    "lat": 44.4,
+    "lon": 9,
+    "Dose": 19.667,
+    "city": "Genoa",
+    "country": "Italy"
+  },
+  {
+    "lat": 44.2,
+    "lon": -0.3,
+    "Dose": 26.067,
+    "city": "Retjons",
+    "country": "France"
+  },
+  {
+    "lat": 43.2,
+    "lon": 2.3,
+    "Dose": 28.461,
+    "city": "Carcassonne",
+    "country": "France"
+  },
+  {
+    "lat": 51.4,
+    "lon": -3.4,
+    "Dose": 17.88,
+    "city": "St Athan",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 52.1,
+    "lon": -0.4,
+    "Dose": 19.818,
+    "city": "Cardington",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 44,
+    "lon": 5.1,
+    "Dose": 29.202,
+    "city": "Saint-Didier",
+    "country": "France"
+  },
+  {
+    "lat": 33.6,
+    "lon": -7.7,
+    "Dose": 28,
+    "city": "Casablanca",
+    "country": "Morocco"
+  },
+  {
+    "lat": 39.8,
+    "lon": -7.5,
+    "Dose": 36.841,
+    "city": "Castelo Branco",
+    "country": "Portugal"
+  },
+  {
+    "lat": 53.8,
+    "lon": -1.1,
+    "Dose": 21.941,
+    "city": "Selby",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 44.2,
+    "lon": 12.3,
+    "Dose": 29.347,
+    "city": "Cesena",
+    "country": "Italy"
+  },
+  {
+    "lat": 46.4,
+    "lon": 6.2,
+    "Dose": 14.014,
+    "city": "Grens",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 49,
+    "lon": 2.5,
+    "Dose": 21.972,
+    "city": "Roissy-en-France",
+    "country": "France"
+  },
+  {
+    "lat": 47.1,
+    "lon": 7.1,
+    "Dose": 10.702,
+    "city": "Plateau de Diesse",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 50.8,
+    "lon": 12.9,
+    "Dose": 16.267,
+    "city": "Chemnitz",
+    "country": "Germany"
+  },
+  {
+    "lat": 42.6,
+    "lon": 23.3,
+    "Dose": 20.412,
+    "city": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": 42.2,
+    "lon": 25.3,
+    "Dose": 31.507,
+    "city": "Chirpan",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": 46.9,
+    "lon": 9.5,
+    "Dose": 5.935,
+    "city": "Untervaz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 49.1,
+    "lon": 13.6,
+    "Dose": 9.87,
+    "city": "Kašperské Hory",
+    "country": "Czechia"
+  },
+  {
+    "lat": 46.2,
+    "lon": 8.8,
+    "Dose": 19.811,
+    "city": "Brione sopra Minusio",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 44.2,
+    "lon": 10.7,
+    "Dose": 19.968,
+    "city": "Riolunato",
+    "country": "Italy"
+  },
+  {
+    "lat": 39,
+    "lon": -3.9,
+    "Dose": 31.535,
+    "city": "Ciudad Real",
+    "country": "Spain"
+  },
+  {
+    "lat": 45.8,
+    "lon": 3.2,
+    "Dose": 19.422,
+    "city": "Malintrat",
+    "country": "France"
+  },
+  {
+    "lat": 54.2,
+    "lon": -7.2,
+    "Dose": 13.663,
+    "city": "Clones",
+    "country": "Ireland"
+  },
+  {
+    "lat": 46.8,
+    "lon": 23.6,
+    "Dose": 1.171,
+    "city": "Cluj-Napoca",
+    "country": "Romania"
+  },
+  {
+    "lat": 50.3,
+    "lon": 11,
+    "Dose": 15.086,
+    "city": "Unterlauter",
+    "country": "Germany"
+  },
+  {
+    "lat": 40.2,
+    "lon": -8.4,
+    "Dose": 13.956,
+    "city": "Coimbra",
+    "country": "Portugal"
+  },
+  {
+    "lat": 46.5,
+    "lon": 8.9,
+    "Dose": 4.436,
+    "city": "Aquila",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 44.2,
+    "lon": 28.6,
+    "Dose": 26.632,
+    "city": "Constanța",
+    "country": "Romania"
+  },
+  {
+    "lat": 37.9,
+    "lon": -4.9,
+    "Dose": 18.339,
+    "city": "Córdoba",
+    "country": "Spain"
+  },
+  {
+    "lat": 46.4,
+    "lon": 9.8,
+    "Dose": 0.115,
+    "city": "Sils im Engadin/Segl",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 36.7,
+    "lon": 15.1,
+    "Dose": 25.039,
+    "city": "Pachino",
+    "country": "Italy"
+  },
+  {
+    "lat": 44.2,
+    "lon": 23.9,
+    "Dose": 29.697,
+    "city": "Secui",
+    "country": "Romania"
+  },
+  {
+    "lat": 51.1,
+    "lon": -0.2,
+    "Dose": 23.357,
+    "city": "Crawley",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 39,
+    "lon": 17.1,
+    "Dose": 30.074,
+    "city": "Isola Di Capo Rizzuto",
+    "country": "Italy"
+  },
+  {
+    "lat": 33.5,
+    "lon": 36.5,
+    "Dose": 17.286,
+    "city": "Al-Bilaliya",
+    "country": "Syria"
+  },
+  {
+    "lat": 36.7,
+    "lon": 3.3,
+    "Dose": 34.35,
+    "city": "Khemis El Khechna",
+    "country": "Algeria"
+  },
+  {
+    "lat": 46.8,
+    "lon": 9.8,
+    "Dose": 1.637,
+    "city": "Davos Platz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 52.1,
+    "lon": 5.2,
+    "Dose": 30.07,
+    "city": "De Bilt",
+    "country": "Netherlands"
+  },
+  {
+    "lat": 52.9,
+    "lon": 4.8,
+    "Dose": 14.707,
+    "city": "Breezand",
+    "country": "Netherlands"
+  },
+  {
+    "lat": 31.7,
+    "lon": 35.4,
+    "Dose": 8.006,
+    "city": "Megilot Yam HaMelakh Regional Council",
+    "country": "Palestinian Territory"
+  },
+  {
+    "lat": 47.5,
+    "lon": 21.6,
+    "Dose": 26.511,
+    "city": "Debrecen",
+    "country": "Hungary"
+  },
+  {
+    "lat": 47.3,
+    "lon": 5.1,
+    "Dose": 22.83,
+    "city": "Sennecey-lès-Dijon",
+    "country": "France"
+  },
+  {
+    "lat": 46.7,
+    "lon": 8.9,
+    "Dose": 2.971,
+    "city": "Cavardiras",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 37.9,
+    "lon": 40.2,
+    "Dose": 0.896,
+    "city": "Bağlar",
+    "country": "Turkey"
+  },
+  {
+    "lat": 46.7,
+    "lon": 12.2,
+    "Dose": 9.051,
+    "city": "Dobbiaco",
+    "country": "Italy"
+  },
+  {
+    "lat": 33.6,
+    "lon": 36.4,
+    "Dose": 3.934,
+    "city": "Douma",
+    "country": "Syria"
+  },
+  {
+    "lat": 51.1,
+    "lon": 13.8,
+    "Dose": 21.52,
+    "city": "Dresden",
+    "country": "Germany"
+  },
+  {
+    "lat": 51.1,
+    "lon": 13.7,
+    "Dose": 1.532,
+    "city": "Dresden",
+    "country": "Germany"
+  },
+  {
+    "lat": 53.4,
+    "lon": -6.2,
+    "Dose": 1.484,
+    "city": "Dublin",
+    "country": "Ireland"
+  },
+  {
+    "lat": 56.5,
+    "lon": -3,
+    "Dose": 13.311,
+    "city": "Strathmartine",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 56.5,
+    "lon": -5.4,
+    "Dose": 2.859,
+    "city": "Benderloch",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 51.3,
+    "lon": 0.5,
+    "Dose": 17.826,
+    "city": "Boxley",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 50.7,
+    "lon": -1.6,
+    "Dose": 18,
+    "city": "Efford",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 31.1,
+    "lon": 33.8,
+    "Dose": 1.417,
+    "city": "El Arish",
+    "country": "Egypt"
+  },
+  {
+    "lat": 38.6,
+    "lon": 39.3,
+    "Dose": 36.204,
+    "city": "Elâzığ",
+    "country": "Turkey"
+  },
+  {
+    "lat": 42.7,
+    "lon": 10.4,
+    "Dose": 21,
+    "city": "Elba_Monte_Calamita",
+    "country": "Italy"
+  },
+  {
+    "lat": 30.4,
+    "lon": 30.4,
+    "Dose": 1.289,
+    "city": "Sadat City",
+    "country": "Egypt"
+  },
+  {
+    "lat": 44.6,
+    "lon": 6.5,
+    "Dose": 17.904,
+    "city": "Châteauroux-les-Alpes",
+    "country": "France"
+  },
+  {
+    "lat": 46.8,
+    "lon": 8.4,
+    "Dose": 3.511,
+    "city": "Engelberg",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 51,
+    "lon": 11,
+    "Dose": 21.459,
+    "city": "Erfurt",
+    "country": "Germany"
+  },
+  {
+    "lat": 39.7,
+    "lon": 39.5,
+    "Dose": 25.02,
+    "city": "Erzincan",
+    "country": "Turkey"
+  },
+  {
+    "lat": 55.3,
+    "lon": -3.2,
+    "Dose": 14.186,
+    "city": "Eskdalemuir",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 39.8,
+    "lon": 30.6,
+    "Dose": 23.294,
+    "city": "Eskisehir",
+    "country": "Turkey"
+  },
+  {
+    "lat": 46.1,
+    "lon": 7.5,
+    "Dose": 8.43,
+    "city": "La Tour",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 38.6,
+    "lon": -7.9,
+    "Dose": 30.846,
+    "city": "Canaviais",
+    "country": "Portugal"
+  },
+  {
+    "lat": 47.4,
+    "lon": 6.9,
+    "Dose": 12.047,
+    "city": "Glay",
+    "country": "France"
+  },
+  {
+    "lat": 53.8,
+    "lon": -2.9,
+    "Dose": 13.097,
+    "city": "Borough of Fylde",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 37,
+    "lon": -8,
+    "Dose": 24,
+    "city": "Montenegro",
+    "country": "Portugal"
+  },
+  {
+    "lat": 47.8,
+    "lon": 13.7,
+    "Dose": 9.319,
+    "city": "Ebensee",
+    "country": "Austria"
+  },
+  {
+    "lat": 50.4,
+    "lon": 13,
+    "Dose": 16.751,
+    "city": "Loučná pod Klínovcem",
+    "country": "Czechia"
+  },
+  {
+    "lat": 53.5,
+    "lon": -1,
+    "Dose": 19.003,
+    "city": "Doncaster",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 55.3,
+    "lon": 11.4,
+    "Dose": 19.676,
+    "city": "Flakkebjerg",
+    "country": "Denmark"
+  },
+  {
+    "lat": 56.5,
+    "lon": 9.6,
+    "Dose": 17.622,
+    "city": "Formyre",
+    "country": "Denmark"
+  },
+  {
+    "lat": 48,
+    "lon": 7.9,
+    "Dose": 15.322,
+    "city": "Freiburg im Breisgau",
+    "country": "Germany"
+  },
+  {
+    "lat": 48.6,
+    "lon": 13.4,
+    "Dose": 13.321,
+    "city": "Passau",
+    "country": "Germany"
+  },
+  {
+    "lat": 45.5,
+    "lon": 28,
+    "Dose": 29.708,
+    "city": "Costi",
+    "country": "Romania"
+  },
+  {
+    "lat": 51.7,
+    "lon": -0.4,
+    "Dose": 19.554,
+    "city": "Watford",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 37.1,
+    "lon": 37.4,
+    "Dose": 1.113,
+    "city": "Şehitkamil",
+    "country": "Turkey"
+  },
+  {
+    "lat": 54.5,
+    "lon": 18.6,
+    "Dose": 12,
+    "city": "Gdynia",
+    "country": "Poland"
+  },
+  {
+    "lat": 54.6,
+    "lon": 11.9,
+    "Dose": 19,
+    "city": "Skelby",
+    "country": "Denmark"
+  },
+  {
+    "lat": 50,
+    "lon": 8,
+    "Dose": 18.77,
+    "city": "Oestrich-Winkel",
+    "country": "Germany"
+  },
+  {
+    "lat": 37.1,
+    "lon": 14.2,
+    "Dose": 21.908,
+    "city": "Gela",
+    "country": "Italy"
+  },
+  {
+    "lat": 51.5,
+    "lon": 7.1,
+    "Dose": 0.851,
+    "city": "Gelsenkirchen",
+    "country": "Germany"
+  },
+  {
+    "lat": 46.2,
+    "lon": 6.1,
+    "Dose": 0.86,
+    "city": "Vernier",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 44.4,
+    "lon": 8.9,
+    "Dose": 21.195,
+    "city": "Genova",
+    "country": "Italy"
+  },
+  {
+    "lat": 50.9,
+    "lon": 12.1,
+    "Dose": 21.687,
+    "city": "Gera",
+    "country": "Germany"
+  },
+  {
+    "lat": 41.9,
+    "lon": 2.8,
+    "Dose": 33.857,
+    "city": "Riudellots de la Selva",
+    "country": "Spain"
+  },
+  {
+    "lat": 32.5,
+    "lon": 3.7,
+    "Dose": 0,
+    "city": "Ghardaia",
+    "country": "Algeria"
+  },
+  {
+    "lat": 50.6,
+    "lon": 8.7,
+    "Dose": 20.513,
+    "city": "Giessen",
+    "country": "Germany"
+  },
+  {
+    "lat": 31.3,
+    "lon": 34.7,
+    "Dose": 24.778,
+    "city": "Merhavim Regional Council",
+    "country": "Israel"
+  },
+  {
+    "lat": 30.1,
+    "lon": 31.2,
+    "Dose": 0.572,
+    "city": "Bashteel Al-Balad",
+    "country": "Egypt"
+  },
+  {
+    "lat": 47,
+    "lon": 9.1,
+    "Dose": 3.585,
+    "city": "Sool",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 55.9,
+    "lon": -4.5,
+    "Dose": 11.029,
+    "city": "Bishopton",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 51.2,
+    "lon": 15,
+    "Dose": 17.311,
+    "city": "Görlitz",
+    "country": "Germany"
+  },
+  {
+    "lat": 57.7,
+    "lon": 12,
+    "Dose": 0.793,
+    "city": "Gothenburg",
+    "country": "Sweden"
+  },
+  {
+    "lat": 57.8,
+    "lon": 11.9,
+    "Dose": 12.736,
+    "city": "Save",
+    "country": "Sweden"
+  },
+  {
+    "lat": 37.2,
+    "lon": -3.8,
+    "Dose": 25.878,
+    "city": "Cijuela",
+    "country": "Spain"
+  },
+  {
+    "lat": 45.9,
+    "lon": 7.2,
+    "Dose": 5.568,
+    "city": "Bourg-St-Pierre",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 47,
+    "lon": 15.5,
+    "Dose": 17.157,
+    "city": "Hausmannstätten",
+    "country": "Austria"
+  },
+  {
+    "lat": 41.1,
+    "lon": 14.1,
+    "Dose": 19.574,
+    "city": "Grazzanise",
+    "country": "Italy"
+  },
+  {
+    "lat": 51.9,
+    "lon": -1,
+    "Dose": 24.038,
+    "city": "Edgcott",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 51.9,
+    "lon": -1.3,
+    "Dose": 20.579,
+    "city": "Cherwell District",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 46.6,
+    "lon": 8.3,
+    "Dose": 0,
+    "city": "Guttannen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 53.1,
+    "lon": 6.6,
+    "Dose": 27.676,
+    "city": "De Punt",
+    "country": "Netherlands"
+  },
+  {
+    "lat": 48.2,
+    "lon": 16.6,
+    "Dose": 26.504,
+    "city": "Groß-Enzersdorf",
+    "country": "Austria"
+  },
+  {
+    "lat": 46.7,
+    "lon": 8.6,
+    "Dose": 1.972,
+    "city": "Wassen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 47.6,
+    "lon": 9.3,
+    "Dose": 4.66,
+    "city": "Güttingen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 51.5,
+    "lon": 12,
+    "Dose": 1.191,
+    "city": "Halle",
+    "country": "Germany"
+  },
+  {
+    "lat": 53.7,
+    "lon": 10.1,
+    "Dose": 17.037,
+    "city": "Hamburg",
+    "country": "Germany"
+  },
+  {
+    "lat": 51.7,
+    "lon": 11.1,
+    "Dose": 25.131,
+    "city": "Quedlinburg",
+    "country": "Germany"
+  },
+  {
+    "lat": 54.2,
+    "lon": 11.9,
+    "Dose": 19,
+    "city": "Küstengewässer einschließlich Anteil am Festlandsockel",
+    "country": "Germany"
+  },
+  {
+    "lat": 60.3,
+    "lon": 25,
+    "Dose": 0.795,
+    "city": "Vantaa",
+    "country": "Finland"
+  },
+  {
+    "lat": 60.2,
+    "lon": 24.9,
+    "Dose": 0.893,
+    "city": "Helsinki",
+    "country": "Finland"
+  },
+  {
+    "lat": 60.2,
+    "lon": 25,
+    "Dose": 19,
+    "city": "Helsinki",
+    "country": "Finland"
+  },
+  {
+    "lat": 60.1,
+    "lon": 24.9,
+    "Dose": 9,
+    "city": "Helsinki",
+    "country": "Finland"
+  },
+  {
+    "lat": 52.7,
+    "lon": 1.7,
+    "Dose": 14.288,
+    "city": "Great Yarmouth",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 46.5,
+    "lon": 9.2,
+    "Dose": 6.056,
+    "city": "San Bernardino",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 51.8,
+    "lon": 0,
+    "Dose": 18.907,
+    "city": "Hoddesdon",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 47.4,
+    "lon": 8.9,
+    "Dose": 14.034,
+    "city": "Wila",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 47.8,
+    "lon": 11,
+    "Dose": 10.668,
+    "city": "Hohenpeißenberg",
+    "country": "Germany"
+  },
+  {
+    "lat": 55.7,
+    "lon": 11.6,
+    "Dose": 16.172,
+    "city": "Holbaek",
+    "country": "Denmark"
+  },
+  {
+    "lat": 55.9,
+    "lon": 9.8,
+    "Dose": 24.919,
+    "city": "Horsens",
+    "country": "Denmark"
+  },
+  {
+    "lat": 50.2,
+    "lon": 15.8,
+    "Dose": 1.33,
+    "city": "Hradec Králové",
+    "country": "Czechia"
+  },
+  {
+    "lat": 37.3,
+    "lon": -6.9,
+    "Dose": 11.825,
+    "city": "Huelva",
+    "country": "Spain"
+  },
+  {
+    "lat": 43,
+    "lon": 6.5,
+    "Dose": 42,
+    "city": "Hyeres_Ile_Levant",
+    "country": "France"
+  },
+  {
+    "lat": 47.2,
+    "lon": 27.6,
+    "Dose": 26.746,
+    "city": "Aroneanu",
+    "country": "Romania"
+  },
+  {
+    "lat": 38.9,
+    "lon": 1.4,
+    "Dose": 35.986,
+    "city": "sa Carroca",
+    "country": "Spain"
+  },
+  {
+    "lat": 47.3,
+    "lon": 11.4,
+    "Dose": 4.853,
+    "city": "Innsbruck",
+    "country": "Austria"
+  },
+  {
+    "lat": 46.7,
+    "lon": 7.9,
+    "Dose": 6.942,
+    "city": "Ringgenberg (BE)",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 56.1,
+    "lon": 9.2,
+    "Dose": 18.23,
+    "city": "Isenvad",
+    "country": "Denmark"
+  },
+  {
+    "lat": 78.1,
+    "lon": 13.6,
+    "Dose": 3,
+    "city": "Kapp Linné, Svalbard & Jan Mayen",
+    "country": "Norway"
+  },
+  {
+    "lat": 37.8,
+    "lon": 30.6,
+    "Dose": 11.523,
+    "city": "Isparta",
+    "country": "Turkey"
+  },
+  {
+    "lat": 38.4,
+    "lon": 27.2,
+    "Dose": 17.668,
+    "city": "Buca",
+    "country": "Turkey"
+  },
+  {
+    "lat": 49.2,
+    "lon": -2.2,
+    "Dose": 27.651,
+    "city": "St Brelade",
+    "country": "Jersey"
+  },
+  {
+    "lat": 31.8,
+    "lon": 35.2,
+    "Dose": 0.346,
+    "city": "Jerusalem",
+    "country": "Israel"
+  },
+  {
+    "lat": 60.8,
+    "lon": 23.5,
+    "Dose": 13.536,
+    "city": "Jokioinen",
+    "country": "Finland"
+  },
+  {
+    "lat": 46.5,
+    "lon": 8,
+    "Dose": 0,
+    "city": "Fieschertal",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 62.4,
+    "lon": 25.7,
+    "Dose": 14.291,
+    "city": "Laukaa",
+    "country": "Finland"
+  },
+  {
+    "lat": 65.6,
+    "lon": 22.1,
+    "Dose": 13.228,
+    "city": "Lulea domkyrkodistrikt",
+    "country": "Sweden"
+  },
+  {
+    "lat": 59.4,
+    "lon": 13.5,
+    "Dose": 15.209,
+    "city": "Karlstad",
+    "country": "Sweden"
+  },
+  {
+    "lat": 40.6,
+    "lon": 43.1,
+    "Dose": 1.129,
+    "city": "Kars",
+    "country": "Turkey"
+  },
+  {
+    "lat": 51.3,
+    "lon": 9.5,
+    "Dose": 16.16,
+    "city": "Kassel",
+    "country": "Germany"
+  },
+  {
+    "lat": 54.9,
+    "lon": 23.9,
+    "Dose": 17.999,
+    "city": "Kaunas",
+    "country": "Lithuania"
+  },
+  {
+    "lat": 38.8,
+    "lon": 35.4,
+    "Dose": 20.433,
+    "city": "Kocasinan",
+    "country": "Turkey"
+  },
+  {
+    "lat": 46.9,
+    "lon": 19.8,
+    "Dose": 27.211,
+    "city": "Kecskemét",
+    "country": "Hungary"
+  },
+  {
+    "lat": 69.8,
+    "lon": 27,
+    "Dose": 9.8,
+    "city": "Utsjoki",
+    "country": "Finland"
+  },
+  {
+    "lat": 51.5,
+    "lon": -0.3,
+    "Dose": 0,
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 50,
+    "lon": 36.3,
+    "Dose": 1.553,
+    "city": "Kharkiv",
+    "country": "Ukraine"
+  },
+  {
+    "lat": 50.4,
+    "lon": 30.5,
+    "Dose": 22.079,
+    "city": "Kyiv",
+    "country": "Ukraine"
+  },
+  {
+    "lat": 52.7,
+    "lon": -7.3,
+    "Dose": 13.33,
+    "city": "Kilkenny",
+    "country": "Ireland"
+  },
+  {
+    "lat": 57.7,
+    "lon": -3.6,
+    "Dose": 13,
+    "city": "Kinloss",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 67.8,
+    "lon": 20.3,
+    "Dose": 9.752,
+    "city": "Kiruna",
+    "country": "Sweden"
+  },
+  {
+    "lat": 46.7,
+    "lon": 14.3,
+    "Dose": 14.545,
+    "city": "Sankt Veit An Der Glan",
+    "country": "Austria"
+  },
+  {
+    "lat": 55.7,
+    "lon": 12.3,
+    "Dose": 13.794,
+    "city": "Ledøje",
+    "country": "Denmark"
+  },
+  {
+    "lat": 55.6,
+    "lon": 12.6,
+    "Dose": 17.562,
+    "city": "Kastrup",
+    "country": "Denmark"
+  },
+  {
+    "lat": 54.2,
+    "lon": 15.6,
+    "Dose": 16,
+    "city": "Kołobrzeg",
+    "country": "Poland"
+  },
+  {
+    "lat": 47.7,
+    "lon": 9.2,
+    "Dose": 0.44,
+    "city": "Konstanz",
+    "country": "Germany"
+  },
+  {
+    "lat": 43.3,
+    "lon": 20.8,
+    "Dose": 27.185,
+    "city": "Raska Municipality",
+    "country": "Serbia"
+  },
+  {
+    "lat": 45.6,
+    "lon": 13.7,
+    "Dose": 15,
+    "city": "Ankaran / Ancarano",
+    "country": "Slovenia"
+  },
+  {
+    "lat": 49.6,
+    "lon": 15.1,
+    "Dose": 17.893,
+    "city": "Chyšná",
+    "country": "Czechia"
+  },
+  {
+    "lat": 46,
+    "lon": 16.6,
+    "Dose": 19.438,
+    "city": "Novi Đurđic",
+    "country": "Croatia"
+  },
+  {
+    "lat": 33.8,
+    "lon": 35.9,
+    "Dose": 23.102,
+    "city": "Saadnayel",
+    "country": "Lebanon"
+  },
+  {
+    "lat": 48.9,
+    "lon": 16.1,
+    "Dose": 22.091,
+    "city": "Tvořihráz",
+    "country": "Czechia"
+  },
+  {
+    "lat": 41.7,
+    "lon": 25.4,
+    "Dose": 29.193,
+    "city": "Rani list",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": 47.1,
+    "lon": 6.8,
+    "Dose": 10.381,
+    "city": "La Chaux-de-Fonds",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 43.4,
+    "lon": -8.4,
+    "Dose": 34,
+    "city": "La_Coruna",
+    "country": "Spain"
+  },
+  {
+    "lat": 46.4,
+    "lon": 6.1,
+    "Dose": 12.425,
+    "city": "La Rippe",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 46.8,
+    "lon": 6.6,
+    "Dose": 15.272,
+    "city": "Valeyres-sous-Montagny",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 46.7,
+    "lon": -1.4,
+    "Dose": 27.486,
+    "city": "La Roche-sur-Yon",
+    "country": "France"
+  },
+  {
+    "lat": 46.2,
+    "lon": -1.2,
+    "Dose": 27,
+    "city": "L'Houmeau",
+    "country": "France"
+  },
+  {
+    "lat": 47.5,
+    "lon": 8.4,
+    "Dose": 16.595,
+    "city": "Schleinikon",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 45.1,
+    "lon": 3.9,
+    "Dose": 23.002,
+    "city": "Crispinhac",
+    "country": "France"
+  },
+  {
+    "lat": 54.3,
+    "lon": -1.5,
+    "Dose": 13.307,
+    "city": "Morton-on-Swale",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 42.6,
+    "lon": -5.7,
+    "Dose": 36.067,
+    "city": "Valverde De La Virgen",
+    "country": "Spain"
+  },
+  {
+    "lat": 41.6,
+    "lon": 0.6,
+    "Dose": 47.543,
+    "city": "Lleida",
+    "country": "Spain"
+  },
+  {
+    "lat": 60.1,
+    "lon": -1.2,
+    "Dose": 18,
+    "city": "Quarff",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 56.4,
+    "lon": -2.9,
+    "Dose": 15.575,
+    "city": "Leuchars",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 45.8,
+    "lon": 1.3,
+    "Dose": 23.075,
+    "city": "Feytiat",
+    "country": "France"
+  },
+  {
+    "lat": 52.2,
+    "lon": 14.1,
+    "Dose": 20.03,
+    "city": "Tauche",
+    "country": "Germany"
+  },
+  {
+    "lat": 38.7,
+    "lon": -9.2,
+    "Dose": 0.914,
+    "city": "Lisbon",
+    "country": "Portugal"
+  },
+  {
+    "lat": 55,
+    "lon": 8.4,
+    "Dose": 16,
+    "city": "List auf Sylt",
+    "country": "Germany"
+  },
+  {
+    "lat": 46.1,
+    "lon": 14.5,
+    "Dose": 16.152,
+    "city": "Ljubljana",
+    "country": "Slovenia"
+  },
+  {
+    "lat": 46.2,
+    "lon": 8.9,
+    "Dose": 19.612,
+    "city": "Cugnasco-Gerra",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 46.2,
+    "lon": 8.8,
+    "Dose": 19.811,
+    "city": "Brione sopra Minusio",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 42.5,
+    "lon": -2.3,
+    "Dose": 27.05,
+    "city": "Bargota",
+    "country": "Spain"
+  },
+  {
+    "lat": 51.2,
+    "lon": -0.2,
+    "Dose": 25.873,
+    "city": "Reigate and Banstead",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 51.5,
+    "lon": -0.1,
+    "Dose": 0,
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 51.2,
+    "lon": 7.6,
+    "Dose": 15.899,
+    "city": "Lüdenscheid",
+    "country": "Germany"
+  },
+  {
+    "lat": 35.8,
+    "lon": 14.4,
+    "Dose": 16,
+    "city": "Mqabba",
+    "country": "Malta"
+  },
+  {
+    "lat": 46,
+    "lon": 9,
+    "Dose": 1.293,
+    "city": "Castagnola",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 55.7,
+    "lon": 13.2,
+    "Dose": 1.078,
+    "city": "Lund",
+    "country": "Sweden"
+  },
+  {
+    "lat": 47.9,
+    "lon": 15.1,
+    "Dose": 10.604,
+    "city": "Gaming",
+    "country": "Austria"
+  },
+  {
+    "lat": 47,
+    "lon": 8.3,
+    "Dose": 8.523,
+    "city": "Horw",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 46.3,
+    "lon": 4.8,
+    "Dose": 16.21,
+    "city": "Charnay-lès-Mâcon",
+    "country": "France"
+  },
+  {
+    "lat": 40.5,
+    "lon": -3.6,
+    "Dose": 27.142,
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "lat": 40.5,
+    "lon": -3.7,
+    "Dose": 0.652,
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "lat": 36.7,
+    "lon": -4.5,
+    "Dose": 26.505,
+    "city": "Málaga",
+    "country": "Spain"
+  },
+  {
+    "lat": 55.4,
+    "lon": -7.3,
+    "Dose": 9,
+    "city": "Malin Head",
+    "country": "Ireland"
+  },
+  {
+    "lat": 49.5,
+    "lon": 8.6,
+    "Dose": 1.239,
+    "city": "Heddesheim",
+    "country": "Germany"
+  },
+  {
+    "lat": 43.4,
+    "lon": 5.2,
+    "Dose": 21.709,
+    "city": "Marignane",
+    "country": "France"
+  },
+  {
+    "lat": 56.4,
+    "lon": 8.7,
+    "Dose": 13.102,
+    "city": "Holstebro",
+    "country": "Denmark"
+  },
+  {
+    "lat": 51,
+    "lon": 3.8,
+    "Dose": 15.952,
+    "city": "Melle",
+    "country": "Belgium"
+  },
+  {
+    "lat": 31.3,
+    "lon": 27.2,
+    "Dose": 1.009,
+    "city": "Marsa Matruh",
+    "country": "Egypt"
+  },
+  {
+    "lat": 36.8,
+    "lon": 34.6,
+    "Dose": 32.545,
+    "city": "Yenişehir",
+    "country": "Turkey"
+  },
+  {
+    "lat": 38.2,
+    "lon": 15.6,
+    "Dose": 29,
+    "city": "Messina",
+    "country": "Italy"
+  },
+  {
+    "lat": 53.8,
+    "lon": 21.6,
+    "Dose": 11.626,
+    "city": "Mikołajki",
+    "country": "Poland"
+  },
+  {
+    "lat": 44.1,
+    "lon": 3,
+    "Dose": 22.492,
+    "city": "Comprégnac",
+    "country": "France"
+  },
+  {
+    "lat": 32.3,
+    "lon": 15.2,
+    "Dose": 4.666,
+    "city": "Misrata",
+    "country": "Libya"
+  },
+  {
+    "lat": 47.5,
+    "lon": 16.1,
+    "Dose": 11.379,
+    "city": "Schäffern",
+    "country": "Austria"
+  },
+  {
+    "lat": 46.5,
+    "lon": 7,
+    "Dose": 8.601,
+    "city": "Albeuve",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 46.3,
+    "lon": 7.5,
+    "Dose": 4.505,
+    "city": "Loc",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 44.6,
+    "lon": 4.7,
+    "Dose": 26.79,
+    "city": "Rochemaure",
+    "country": "France"
+  },
+  {
+    "lat": 43.6,
+    "lon": 4,
+    "Dose": 35.776,
+    "city": "Mauguio",
+    "country": "France"
+  },
+  {
+    "lat": 54.7,
+    "lon": -2.4,
+    "Dose": 0.744,
+    "city": "Milburn",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 56,
+    "lon": 37.5,
+    "Dose": 15.111,
+    "city": "Сумароково",
+    "country": "Russia"
+  },
+  {
+    "lat": 55.8,
+    "lon": 37.6,
+    "Dose": 0.68,
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "lat": 55.7,
+    "lon": 37.5,
+    "Dose": 0.033,
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "lat": 48.4,
+    "lon": 11.8,
+    "Dose": 12.171,
+    "city": "Marzling",
+    "country": "Germany"
+  },
+  {
+    "lat": 37.2,
+    "lon": 28.4,
+    "Dose": 28.603,
+    "city": "Menteşe",
+    "country": "Turkey"
+  },
+  {
+    "lat": 38,
+    "lon": -1.2,
+    "Dose": 36.219,
+    "city": "Jabali Viejo",
+    "country": "Spain"
+  },
+  {
+    "lat": 37.8,
+    "lon": -0.8,
+    "Dose": 3,
+    "city": "San Javier",
+    "country": "Spain"
+  },
+  {
+    "lat": 69,
+    "lon": 33.1,
+    "Dose": 9.661,
+    "city": "Murmansk",
+    "country": "Russia"
+  },
+  {
+    "lat": 48.7,
+    "lon": 6.2,
+    "Dose": 1.38,
+    "city": "Nancy",
+    "country": "France"
+  },
+  {
+    "lat": 47.2,
+    "lon": -1.6,
+    "Dose": 1.268,
+    "city": "Nantes",
+    "country": "France"
+  },
+  {
+    "lat": 47,
+    "lon": 7.9,
+    "Dose": 8.608,
+    "city": "Trub",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 40.9,
+    "lon": 14.3,
+    "Dose": 30.051,
+    "city": "Casoria",
+    "country": "Italy"
+  },
+  {
+    "lat": 44.2,
+    "lon": 22.6,
+    "Dose": 1.051,
+    "city": "Negotin Municipality",
+    "country": "Serbia"
+  },
+  {
+    "lat": 53.6,
+    "lon": 13.2,
+    "Dose": 17.456,
+    "city": "Neverin",
+    "country": "Germany"
+  },
+  {
+    "lat": 47,
+    "lon": 7,
+    "Dose": 0.394,
+    "city": "Marin-Epagnier",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 55.1,
+    "lon": 15.1,
+    "Dose": 20.178,
+    "city": "Bornholm",
+    "country": "Denmark"
+  },
+  {
+    "lat": 43.7,
+    "lon": 7.2,
+    "Dose": 1.056,
+    "city": "Nice",
+    "country": "France"
+  },
+  {
+    "lat": 38,
+    "lon": 34.7,
+    "Dose": 20.682,
+    "city": "Niğde",
+    "country": "Turkey"
+  },
+  {
+    "lat": 47,
+    "lon": -2.3,
+    "Dose": 26,
+    "city": "Noirmoutier-en-l'Île",
+    "country": "France"
+  },
+  {
+    "lat": 53.7,
+    "lon": 7.2,
+    "Dose": 16,
+    "city": "Norderney",
+    "country": "Germany"
+  },
+  {
+    "lat": 58.6,
+    "lon": 16.3,
+    "Dose": 19.062,
+    "city": "Norrköping",
+    "country": "Sweden"
+  },
+  {
+    "lat": 53,
+    "lon": -1.3,
+    "Dose": 21.857,
+    "city": "Broxtowe",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 45.3,
+    "lon": 19.9,
+    "Dose": 26.35,
+    "city": "Kać",
+    "country": "Serbia"
+  },
+  {
+    "lat": 49.5,
+    "lon": 11.1,
+    "Dose": 22.718,
+    "city": "Nuremberg",
+    "country": "Germany"
+  },
+  {
+    "lat": 78.9,
+    "lon": 11.9,
+    "Dose": 0,
+    "city": "Ny-Aalesund",
+    "country": "Norway"
+  },
+  {
+    "lat": 48,
+    "lon": 21.7,
+    "Dose": 24.079,
+    "city": "Nyíregyháza",
+    "country": "Hungary"
+  },
+  {
+    "lat": 48.3,
+    "lon": 16.7,
+    "Dose": 26.05,
+    "city": "Strasshof",
+    "country": "Austria"
+  },
+  {
+    "lat": 50.3,
+    "lon": 5.7,
+    "Dose": 20.549,
+    "city": "Vaux-Chavanne",
+    "country": "Belgium"
+  },
+  {
+    "lat": 42.5,
+    "lon": 2.1,
+    "Dose": 7.913,
+    "city": "La Cabanasse",
+    "country": "France"
+  },
+  {
+    "lat": 46.5,
+    "lon": 30.6,
+    "Dose": 29.543,
+    "city": "Усатівська сільська громада",
+    "country": "Ukraine"
+  },
+  {
+    "lat": 51.2,
+    "lon": -1,
+    "Dose": 20.226,
+    "city": "Weston Patrick",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 56.3,
+    "lon": 10.1,
+    "Dose": 15.753,
+    "city": "Favrskov",
+    "country": "Denmark"
+  },
+  {
+    "lat": 63.2,
+    "lon": 14.5,
+    "Dose": 6.847,
+    "city": "Östersund",
+    "country": "Sweden"
+  },
+  {
+    "lat": 40.9,
+    "lon": 9.5,
+    "Dose": 22.179,
+    "city": "Terranova",
+    "country": "Italy"
+  },
+  {
+    "lat": 51.2,
+    "lon": 2.9,
+    "Dose": 17.576,
+    "city": "Ostend",
+    "country": "Belgium"
+  },
+  {
+    "lat": 52.3,
+    "lon": 8.1,
+    "Dose": 16.155,
+    "city": "Osnabrück",
+    "country": "Germany"
+  },
+  {
+    "lat": 49.8,
+    "lon": 18.2,
+    "Dose": 17.554,
+    "city": "Ostrava",
+    "country": "Czechia"
+  },
+  {
+    "lat": 48.7,
+    "lon": 2.2,
+    "Dose": 0,
+    "city": "Orsay",
+    "country": "France"
+  },
+  {
+    "lat": 40,
+    "lon": 15.3,
+    "Dose": 23,
+    "city": "Palinuro",
+    "country": "Italy"
+  },
+  {
+    "lat": 39.6,
+    "lon": 2.6,
+    "Dose": 33.504,
+    "city": "Palma",
+    "country": "Spain"
+  },
+  {
+    "lat": 42.8,
+    "lon": -1.6,
+    "Dose": 25.244,
+    "city": "Egüés",
+    "country": "Spain"
+  },
+  {
+    "lat": 36.8,
+    "lon": 12,
+    "Dose": 30.427,
+    "city": "Pantelleria",
+    "country": "Italy"
+  },
+  {
+    "lat": 45.6,
+    "lon": 14.6,
+    "Dose": 14.707,
+    "city": "Parg",
+    "country": "Croatia"
+  },
+  {
+    "lat": 48.8,
+    "lon": 2.3,
+    "Dose": 0,
+    "city": "Bagneux",
+    "country": "France"
+  },
+  {
+    "lat": 48.7,
+    "lon": 2.4,
+    "Dose": 0,
+    "city": "Draveil",
+    "country": "France"
+  },
+  {
+    "lat": 48.6,
+    "lon": 13.5,
+    "Dose": 15.569,
+    "city": "Passau",
+    "country": "Germany"
+  },
+  {
+    "lat": 43.4,
+    "lon": -0.4,
+    "Dose": 21.957,
+    "city": "Sauvagnon",
+    "country": "France"
+  },
+  {
+    "lat": 46.8,
+    "lon": 6.9,
+    "Dose": 15.017,
+    "city": "Cugy",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 40.4,
+    "lon": -7.6,
+    "Dose": 33.848,
+    "city": "Sabugueiro",
+    "country": "Portugal"
+  },
+  {
+    "lat": 42.7,
+    "lon": 2.9,
+    "Dose": 2.339,
+    "city": "Perpignan",
+    "country": "France"
+  },
+  {
+    "lat": 43.1,
+    "lon": 12.5,
+    "Dose": 26.951,
+    "city": "Perugia",
+    "country": "Italy"
+  },
+  {
+    "lat": 42.4,
+    "lon": 14.2,
+    "Dose": 29.745,
+    "city": "Chieti",
+    "country": "Italy"
+  },
+  {
+    "lat": 44.9,
+    "lon": 9.7,
+    "Dose": 25.184,
+    "city": "San Giorgio Piacentino",
+    "country": "Italy"
+  },
+  {
+    "lat": 45.9,
+    "lon": 7.7,
+    "Dose": 5.087,
+    "city": "Ayas",
+    "country": "Italy"
+  },
+  {
+    "lat": 42.6,
+    "lon": 10.1,
+    "Dose": 20,
+    "city": "Pianosa",
+    "country": "Italy"
+  },
+  {
+    "lat": 60.4,
+    "lon": 22.6,
+    "Dose": 14.198,
+    "city": "Kaarina",
+    "country": "Finland"
+  },
+  {
+    "lat": 47,
+    "lon": 8.3,
+    "Dose": 8.523,
+    "city": "Horw",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 46.5,
+    "lon": 8.7,
+    "Dose": 4.117,
+    "city": "Ambrì",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 43.7,
+    "lon": 10.4,
+    "Dose": 1.613,
+    "city": "Pisa",
+    "country": "Italy"
+  },
+  {
+    "lat": 46.7,
+    "lon": 7.3,
+    "Dose": 11.483,
+    "city": "Bad-Schwarzsee",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 43.5,
+    "lon": 24.6,
+    "Dose": 29.449,
+    "city": "Bozhuritsa",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": 42.5,
+    "lon": -6.6,
+    "Dose": 43.97,
+    "city": "Ponferrada",
+    "country": "Spain"
+  },
+  {
+    "lat": 40.9,
+    "lon": 13,
+    "Dose": 23,
+    "city": "Ponza_Island",
+    "country": "Italy"
+  },
+  {
+    "lat": 49.1,
+    "lon": 20.3,
+    "Dose": 12.867,
+    "city": "District of Poprad",
+    "country": "Slovakia"
+  },
+  {
+    "lat": 41.1,
+    "lon": -8.6,
+    "Dose": 2.303,
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal"
+  },
+  {
+    "lat": 45.5,
+    "lon": 13.6,
+    "Dose": 23.256,
+    "city": "Piran / Pirano",
+    "country": "Slovenia"
+  },
+  {
+    "lat": 52.4,
+    "lon": 13.1,
+    "Dose": 25.307,
+    "city": "Potsdam",
+    "country": "Germany"
+  },
+  {
+    "lat": 50.1,
+    "lon": 14.3,
+    "Dose": 18.679,
+    "city": "Capital City of Prague",
+    "country": "Czechia"
+  },
+  {
+    "lat": 55.5,
+    "lon": -4.6,
+    "Dose": 10.66,
+    "city": "Prestwick",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 42.7,
+    "lon": 21.2,
+    "Dose": 26.843,
+    "city": "Prishtine",
+    "country": "Kosovo"
+  },
+  {
+    "lat": 51.4,
+    "lon": 22,
+    "Dose": 15.08,
+    "city": "Skowieszyn",
+    "country": "Poland"
+  },
+  {
+    "lat": 46.5,
+    "lon": 6.7,
+    "Dose": 1.307,
+    "city": "Lutry",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 31.2,
+    "lon": 34.2,
+    "Dose": 2.548,
+    "city": "Rafah",
+    "country": "Egypt"
+  },
+  {
+    "lat": 35.9,
+    "lon": 39,
+    "Dose": 5.85,
+    "city": "Al-Masarra",
+    "country": "Syria"
+  },
+  {
+    "lat": 47.4,
+    "lon": 8.5,
+    "Dose": 0.519,
+    "city": "Zurich",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 49.3,
+    "lon": 4,
+    "Dose": 1.679,
+    "city": "Reims",
+    "country": "France"
+  },
+  {
+    "lat": 48.1,
+    "lon": -1.7,
+    "Dose": 1.454,
+    "city": "Rennes",
+    "country": "France"
+  },
+  {
+    "lat": 46,
+    "lon": 13,
+    "Dose": 22.438,
+    "city": "Sedegliano",
+    "country": "Italy"
+  },
+  {
+    "lat": 46.3,
+    "lon": 10.1,
+    "Dose": 5.359,
+    "city": "Poschiavo",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 46.4,
+    "lon": 8.5,
+    "Dose": 5.62,
+    "city": "S. Carlo",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 55.2,
+    "lon": 8.6,
+    "Dose": 15,
+    "city": "Roemoe",
+    "country": "Denmark"
+  },
+  {
+    "lat": 41.8,
+    "lon": 12.6,
+    "Dose": 1.588,
+    "city": "Ciampino",
+    "country": "Italy"
+  },
+  {
+    "lat": 54.2,
+    "lon": 12.1,
+    "Dose": 21,
+    "city": "Küstengewässer einschließlich Anteil am Festlandsockel",
+    "country": "Germany"
+  },
+  {
+    "lat": 51.8,
+    "lon": -0.4,
+    "Dose": 15.539,
+    "city": "St Albans",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 56.2,
+    "lon": 21.2,
+    "Dose": 1.084,
+    "city": "Rucavas pagasts",
+    "country": "Latvia"
+  },
+  {
+    "lat": 47.4,
+    "lon": 7.9,
+    "Dose": 8.33,
+    "city": "Wisen (SO)",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 49.2,
+    "lon": 7.1,
+    "Dose": 25.778,
+    "city": "Saarbrücken",
+    "country": "Germany"
+  },
+  {
+    "lat": 47.2,
+    "lon": 9.3,
+    "Dose": 6.246,
+    "city": "Unterwasser",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 41,
+    "lon": -5.5,
+    "Dose": 26.753,
+    "city": "San Morales",
+    "country": "Spain"
+  },
+  {
+    "lat": 47.8,
+    "lon": 13,
+    "Dose": 8.178,
+    "city": "Salzburg",
+    "country": "Austria"
+  },
+  {
+    "lat": 47.8,
+    "lon": 13.1,
+    "Dose": 7.704,
+    "city": "Salzburg",
+    "country": "Austria"
+  },
+  {
+    "lat": 46.5,
+    "lon": 9.9,
+    "Dose": 3.579,
+    "city": "Pontresina",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 46.5,
+    "lon": 9.2,
+    "Dose": 6.056,
+    "city": "San Bernardino",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 43.3,
+    "lon": -2.1,
+    "Dose": 35,
+    "city": "Orio",
+    "country": "Spain"
+  },
+  {
+    "lat": 41.5,
+    "lon": 23.3,
+    "Dose": 25.422,
+    "city": "Spatovo",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": 43.5,
+    "lon": -3.8,
+    "Dose": 24,
+    "city": "Santander",
+    "country": "Spain"
+  },
+  {
+    "lat": 43.9,
+    "lon": 18.4,
+    "Dose": 15.193,
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "lat": 43.8,
+    "lon": 18.3,
+    "Dose": 18.901,
+    "city": "Hrasnica",
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "lat": 47.7,
+    "lon": 8.6,
+    "Dose": 16.024,
+    "city": "Beringen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 54.5,
+    "lon": 9.6,
+    "Dose": 22.797,
+    "city": "Loopstedt",
+    "country": "Germany"
+  },
+  {
+    "lat": 46.8,
+    "lon": 10.3,
+    "Dose": 3.205,
+    "city": "Scuol",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 30.9,
+    "lon": 34.8,
+    "Dose": 1.282,
+    "city": "Sede_Boqerbsrn",
+    "country": "Israel"
+  },
+  {
+    "lat": 52.9,
+    "lon": 11.7,
+    "Dose": 20.023,
+    "city": "Krüden",
+    "country": "Germany"
+  },
+  {
+    "lat": 37.4,
+    "lon": -5.9,
+    "Dose": 37.979,
+    "city": "Seville",
+    "country": "Spain"
+  },
+  {
+    "lat": 56.4,
+    "lon": -2.9,
+    "Dose": 15.575,
+    "city": "Leuchars",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 52.8,
+    "lon": -2.7,
+    "Dose": 19.613,
+    "city": "Shawbury",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 67.9,
+    "lon": 44.2,
+    "Dose": 13,
+    "city": "Shoyna",
+    "country": "Russia"
+  },
+  {
+    "lat": 31.6,
+    "lon": 25.4,
+    "Dose": 2,
+    "city": "Sidi-barrani",
+    "country": "Egypt"
+  },
+  {
+    "lat": 35,
+    "lon": 9.5,
+    "Dose": 36.961,
+    "city": "Sidi_Bouzid",
+    "country": "Tunisia"
+  },
+  {
+    "lat": 38,
+    "lon": 22.7,
+    "Dose": 30.428,
+    "city": "Municipal Unit of Sikyona",
+    "country": "Greece"
+  },
+  {
+    "lat": 52,
+    "lon": -0.4,
+    "Dose": 19.304,
+    "city": "Gravenhurst",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 56.9,
+    "lon": 8.6,
+    "Dose": 15.581,
+    "city": "Snedsted",
+    "country": "Denmark"
+  },
+  {
+    "lat": 45,
+    "lon": 34.1,
+    "Dose": 28.965,
+    "city": "Simferopol",
+    "country": "Russia"
+  },
+  {
+    "lat": 42,
+    "lon": 35.2,
+    "Dose": 23,
+    "city": "Sinop",
+    "country": "Turkey"
+  },
+  {
+    "lat": 46.2,
+    "lon": 7.3,
+    "Dose": 5.46,
+    "city": "Aproz",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 55.9,
+    "lon": 12.4,
+    "Dose": 17.679,
+    "city": "Kirkelte",
+    "country": "Denmark"
+  },
+  {
+    "lat": 43.3,
+    "lon": 20,
+    "Dose": 16.151,
+    "city": "Sjenica Municipality",
+    "country": "Serbia"
+  },
+  {
+    "lat": 57.7,
+    "lon": 10.6,
+    "Dose": 13,
+    "city": "Skagen",
+    "country": "Denmark"
+  },
+  {
+    "lat": 42,
+    "lon": 21.7,
+    "Dose": 21.806,
+    "city": "Gorno Konjari",
+    "country": "North Macedonia"
+  },
+  {
+    "lat": 45.9,
+    "lon": 16,
+    "Dose": 22.809,
+    "city": "City of Zagreb",
+    "country": "Croatia"
+  },
+  {
+    "lat": 67.4,
+    "lon": 26.7,
+    "Dose": 0.246,
+    "city": "Sodankyla",
+    "country": "Finland"
+  },
+  {
+    "lat": 42.7,
+    "lon": 23.3,
+    "Dose": 1.301,
+    "city": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": 47.1,
+    "lon": 13,
+    "Dose": 3.78,
+    "city": "Rauris",
+    "country": "Austria"
+  },
+  {
+    "lat": 41.6,
+    "lon": -2.5,
+    "Dose": 23.516,
+    "city": "Cubo de la Solana",
+    "country": "Spain"
+  },
+  {
+    "lat": 43.5,
+    "lon": 16.4,
+    "Dose": 26,
+    "city": "Split",
+    "country": "Croatia"
+  },
+  {
+    "lat": 51.4,
+    "lon": -3.4,
+    "Dose": 17.88,
+    "city": "St Athan",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 47.4,
+    "lon": 9.4,
+    "Dose": 8.83,
+    "city": "Teufen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 50,
+    "lon": 5.4,
+    "Dose": 21.239,
+    "city": "Vesqueville",
+    "country": "Belgium"
+  },
+  {
+    "lat": 60,
+    "lon": 30.3,
+    "Dose": 0.942,
+    "city": "Saint Petersburg",
+    "country": "Russia"
+  },
+  {
+    "lat": 49.8,
+    "lon": 3.2,
+    "Dose": 22.537,
+    "city": "Seraucourt-le-Grand",
+    "country": "France"
+  },
+  {
+    "lat": 45.8,
+    "lon": 8.9,
+    "Dose": 17.95,
+    "city": "Solbiate",
+    "country": "Italy"
+  },
+  {
+    "lat": 48.1,
+    "lon": 14.6,
+    "Dose": 12.182,
+    "city": "Haag",
+    "country": "Austria"
+  },
+  {
+    "lat": 41.8,
+    "lon": 22.2,
+    "Dose": 30.35,
+    "city": "Dolni Balvan",
+    "country": "North Macedonia"
+  },
+  {
+    "lat": 59.4,
+    "lon": 18,
+    "Dose": 18,
+    "city": "Sollentuna kommun",
+    "country": "Sweden"
+  },
+  {
+    "lat": 54.9,
+    "lon": 9.1,
+    "Dose": 18.733,
+    "city": "Bylderup-Bov",
+    "country": "Denmark"
+  },
+  {
+    "lat": 48.6,
+    "lon": 7.6,
+    "Dose": 19.199,
+    "city": "Ittenheim",
+    "country": "France"
+  },
+  {
+    "lat": 49.1,
+    "lon": 20.1,
+    "Dose": 9.734,
+    "city": "Vysoké Tatry",
+    "country": "Slovakia"
+  },
+  {
+    "lat": 62.2,
+    "lon": -7,
+    "Dose": 10.039,
+    "city": "Streymoy",
+    "country": "Denmark"
+  },
+  {
+    "lat": 48.8,
+    "lon": 9.2,
+    "Dose": 1.188,
+    "city": "Stuttgart",
+    "country": "Germany"
+  },
+  {
+    "lat": 52.8,
+    "lon": -1.3,
+    "Dose": 17.158,
+    "city": "North West Leicestershire",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 54.1,
+    "lon": 23,
+    "Dose": 13.475,
+    "city": "Suwałki Obszar Wiejski",
+    "country": "Poland"
+  },
+  {
+    "lat": 46.9,
+    "lon": 20.5,
+    "Dose": 24.448,
+    "city": "Mezőtúr",
+    "country": "Hungary"
+  },
+  {
+    "lat": 47.5,
+    "lon": 8.9,
+    "Dose": 17.203,
+    "city": "Aadorf",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 30.7,
+    "lon": 30.7,
+    "Dose": 22.484,
+    "city": "Tahrir",
+    "country": "Egypt"
+  },
+  {
+    "lat": 58.3,
+    "lon": 26.7,
+    "Dose": 12.956,
+    "city": "Saareke",
+    "country": "Estonia"
+  },
+  {
+    "lat": 42.5,
+    "lon": 13,
+    "Dose": 26.116,
+    "city": "Leonessa",
+    "country": "Italy"
+  },
+  {
+    "lat": 42,
+    "lon": 15,
+    "Dose": 2,
+    "city": "Termoli",
+    "country": "Italy"
+  },
+  {
+    "lat": 40.4,
+    "lon": -1.1,
+    "Dose": 22.777,
+    "city": "Teruel",
+    "country": "Spain"
+  },
+  {
+    "lat": 55.4,
+    "lon": 12.1,
+    "Dose": 19.376,
+    "city": "Koge",
+    "country": "Denmark"
+  },
+  {
+    "lat": 40.5,
+    "lon": 23,
+    "Dose": 29.709,
+    "city": "Thessaloniki",
+    "country": "Greece"
+  },
+  {
+    "lat": 45.8,
+    "lon": 21.3,
+    "Dose": 27.691,
+    "city": "Giarmata-Vii",
+    "country": "Romania"
+  },
+  {
+    "lat": 39.9,
+    "lon": -4.1,
+    "Dose": 28.69,
+    "city": "Toledo",
+    "country": "Spain"
+  },
+  {
+    "lat": 58.3,
+    "lon": 26.5,
+    "Dose": 13.483,
+    "city": "Uue-Piiri",
+    "country": "Estonia"
+  },
+  {
+    "lat": 45.2,
+    "lon": 7.7,
+    "Dose": 14.061,
+    "city": "Leinì",
+    "country": "Italy"
+  },
+  {
+    "lat": 40.8,
+    "lon": 0.5,
+    "Dose": 33.65,
+    "city": "Roquetes",
+    "country": "Spain"
+  },
+  {
+    "lat": 47.5,
+    "lon": 0.7,
+    "Dose": 23.045,
+    "city": "Cerelles",
+    "country": "France"
+  },
+  {
+    "lat": 55.8,
+    "lon": 10.6,
+    "Dose": 17.889,
+    "city": "Samso",
+    "country": "Denmark"
+  },
+  {
+    "lat": 37.9,
+    "lon": 12.5,
+    "Dose": 27.95,
+    "city": "Trapani",
+    "country": "Italy"
+  },
+  {
+    "lat": 48.8,
+    "lon": 2,
+    "Dose": 0.942,
+    "city": "Bois-d'Arcy",
+    "country": "France"
+  },
+  {
+    "lat": 48.7,
+    "lon": 21.7,
+    "Dose": 17.932,
+    "city": "Trebisov",
+    "country": "Slovakia"
+  },
+  {
+    "lat": 49.8,
+    "lon": 6.7,
+    "Dose": 1.367,
+    "city": "Kenn",
+    "country": "Germany"
+  },
+  {
+    "lat": 45.7,
+    "lon": 13.8,
+    "Dose": 21.293,
+    "city": "Trieste",
+    "country": "Italy"
+  },
+  {
+    "lat": 32.9,
+    "lon": 13.2,
+    "Dose": 0,
+    "city": "Tripoli",
+    "country": "Libya"
+  },
+  {
+    "lat": 69.7,
+    "lon": 19,
+    "Dose": 10.311,
+    "city": "Tromsø",
+    "country": "Norway"
+  },
+  {
+    "lat": 36.8,
+    "lon": 10.2,
+    "Dose": 39.441,
+    "city": "Tunis",
+    "country": "Tunisia"
+  },
+  {
+    "lat": 57.2,
+    "lon": 10,
+    "Dose": 11.813,
+    "city": "Tylstrup",
+    "country": "Denmark"
+  },
+  {
+    "lat": 55.2,
+    "lon": 11.3,
+    "Dose": 20.928,
+    "city": "Slagelse",
+    "country": "Denmark"
+  },
+  {
+    "lat": 50.8,
+    "lon": 4.4,
+    "Dose": 0.421,
+    "city": "Watermael-Boitsfort - Watermaal-Bosvoorde",
+    "country": "Belgium"
+  },
+  {
+    "lat": 46,
+    "lon": 13.2,
+    "Dose": 20.619,
+    "city": "Zugliano",
+    "country": "Italy"
+  },
+  {
+    "lat": 46.5,
+    "lon": 8.3,
+    "Dose": 4.239,
+    "city": "Geschinen",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 63.8,
+    "lon": 20.3,
+    "Dose": 15.014,
+    "city": "Umeå",
+    "country": "Sweden"
+  },
+  {
+    "lat": 38.7,
+    "lon": 13.2,
+    "Dose": 15,
+    "city": "Ustica",
+    "country": "Italy"
+  },
+  {
+    "lat": 47.1,
+    "lon": 9.5,
+    "Dose": 6.662,
+    "city": "Weite",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 39.5,
+    "lon": -0.5,
+    "Dose": 35.496,
+    "city": "Manises",
+    "country": "Spain"
+  },
+  {
+    "lat": 51.9,
+    "lon": -10.3,
+    "Dose": 0,
+    "city": "Valentia",
+    "country": "Ireland"
+  },
+  {
+    "lat": 41.7,
+    "lon": -4.8,
+    "Dose": 24.092,
+    "city": "Villanubla",
+    "country": "Spain"
+  },
+  {
+    "lat": 53.3,
+    "lon": -4.5,
+    "Dose": 23.195,
+    "city": "Bodedern",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 38.5,
+    "lon": 43.3,
+    "Dose": 0.89,
+    "city": "Van",
+    "country": "Turkey"
+  },
+  {
+    "lat": 43.2,
+    "lon": 27.9,
+    "Dose": 1.189,
+    "city": "Varna",
+    "country": "Bulgaria"
+  },
+  {
+    "lat": 56.9,
+    "lon": 14.7,
+    "Dose": 11.723,
+    "city": "Bergunda",
+    "country": "Sweden"
+  },
+  {
+    "lat": 45.5,
+    "lon": 12.3,
+    "Dose": 25.143,
+    "city": "Venice",
+    "country": "Italy"
+  },
+  {
+    "lat": 45.4,
+    "lon": 10.9,
+    "Dose": 25.424,
+    "city": "Villafranca di Verona",
+    "country": "Italy"
+  },
+  {
+    "lat": 42.1,
+    "lon": 12.2,
+    "Dose": 26.253,
+    "city": "Bracciano",
+    "country": "Italy"
+  },
+  {
+    "lat": 42.2,
+    "lon": -8.6,
+    "Dose": 34.546,
+    "city": "Mos",
+    "country": "Spain"
+  },
+  {
+    "lat": 42.6,
+    "lon": -8.8,
+    "Dose": 34,
+    "city": "Vilanova-Arousa",
+    "country": "Spain"
+  },
+  {
+    "lat": 57.7,
+    "lon": 18.4,
+    "Dose": 17.689,
+    "city": "Visby_Airp_",
+    "country": "Sweden"
+  },
+  {
+    "lat": 46.3,
+    "lon": 7.8,
+    "Dose": 4.32,
+    "city": "Visp",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 42.4,
+    "lon": 12.1,
+    "Dose": 25.351,
+    "city": "Viterbo_(MIL)",
+    "country": "Italy"
+  },
+  {
+    "lat": 42.9,
+    "lon": -2.7,
+    "Dose": 26.166,
+    "city": "Vitoria-Gasteiz",
+    "country": "Spain"
+  },
+  {
+    "lat": 51.5,
+    "lon": 3.6,
+    "Dose": 21.533,
+    "city": "Vlissingen",
+    "country": "Netherlands"
+  },
+  {
+    "lat": 53.2,
+    "lon": -0.5,
+    "Dose": 16.123,
+    "city": "Waddington",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 47.2,
+    "lon": 8.7,
+    "Dose": 12.08,
+    "city": "Waedenswil",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 52,
+    "lon": 5.7,
+    "Dose": 20.996,
+    "city": "Wageningen",
+    "country": "Netherlands"
+  },
+  {
+    "lat": 51.6,
+    "lon": -1.2,
+    "Dose": 18.677,
+    "city": "Wallingford",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 52.3,
+    "lon": 21,
+    "Dose": 0.716,
+    "city": "Warszawa",
+    "country": "Poland"
+  },
+  {
+    "lat": 52.1,
+    "lon": 1,
+    "Dose": 19.256,
+    "city": "Wattisham_(RAF)",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 48.4,
+    "lon": 11.7,
+    "Dose": 11.66,
+    "city": "Weihenstephan",
+    "country": "Germany"
+  },
+  {
+    "lat": 51,
+    "lon": 11.3,
+    "Dose": 18.025,
+    "city": "Weimar",
+    "country": "Germany"
+  },
+  {
+    "lat": 49,
+    "lon": 11,
+    "Dose": 14.877,
+    "city": "Weissenburg",
+    "country": "Germany"
+  },
+  {
+    "lat": 46.8,
+    "lon": 9.8,
+    "Dose": 1.637,
+    "city": "Weissfluhjoch",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 48.3,
+    "lon": 16.4,
+    "Dose": 26.063,
+    "city": "Wien-Hohe_Warte",
+    "country": "Austria"
+  },
+  {
+    "lat": 52.6,
+    "lon": -0.5,
+    "Dose": 18.461,
+    "city": "Wittering_(RAF)",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 49.8,
+    "lon": 10,
+    "Dose": 1.101,
+    "city": "Wuerzburg",
+    "country": "Germany"
+  },
+  {
+    "lat": 47.3,
+    "lon": 7.8,
+    "Dose": 7.74,
+    "city": "Wynau",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 51,
+    "lon": -2.6,
+    "Dose": 19.672,
+    "city": "Yeovilton_(Navy)",
+    "country": "United Kingdom"
+  },
+  {
+    "lat": 45.8,
+    "lon": 16,
+    "Dose": 1.423,
+    "city": "Zagreb_Gric",
+    "country": "Croatia"
+  },
+  {
+    "lat": 45.8,
+    "lon": 16,
+    "Dose": 1.423,
+    "city": "Zagreb_Maksimir",
+    "country": "Croatia"
+  },
+  {
+    "lat": 49.3,
+    "lon": 20,
+    "Dose": 6.15,
+    "city": "Zakopane",
+    "country": "Poland"
+  },
+  {
+    "lat": 41.7,
+    "lon": -1,
+    "Dose": 1.354,
+    "city": "Zaragoza_Airp_",
+    "country": "Spain"
+  },
+  {
+    "lat": 46,
+    "lon": 7.8,
+    "Dose": 0.011,
+    "city": "Zermatt",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 51.7,
+    "lon": 13.8,
+    "Dose": 19.663,
+    "city": "Zinnwald",
+    "country": "Germany"
+  },
+  {
+    "lat": 43.7,
+    "lon": 19.7,
+    "Dose": 26.818,
+    "city": "Zlatibor",
+    "country": "Serbia"
+  },
+  {
+    "lat": 57.1,
+    "lon": 25.9,
+    "Dose": 10.898,
+    "city": "Zoseni",
+    "country": "Latvia"
+  },
+  {
+    "lat": 47.4,
+    "lon": 8.6,
+    "Dose": 0.853,
+    "city": "Zuerich_Fluntern",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 47.5,
+    "lon": 8.5,
+    "Dose": 13.119,
+    "city": "Zuerich_Kloten",
+    "country": "Switzerland"
+  },
+  {
+    "lat": 50.9,
+    "lon": 5.8,
+    "Dose": 17.358,
+    "city": "Zuid-Limburg_Beek",
+    "country": "Netherlands"
+  }
+]

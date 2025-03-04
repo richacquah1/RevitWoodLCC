@@ -1,0 +1,292 @@
+﻿<Window x:Class="RevitWoodLCC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Life Cycle Cost Calculation" Height="668" Width="1583" MinHeight="700">
+    <Window.Resources>
+        <Style x:Key="ValidationTextBoxStyle" TargetType="TextBox">
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Style.Triggers>
+                <Trigger Property="Text" Value="">
+                    <Setter Property="BorderBrush" Value="Red"/>
+                </Trigger>
+                <Trigger Property="Text" Value="{x:Null}">
+                    <Setter Property="BorderBrush" Value="Red"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <DockPanel>
+        <!-- Bottom Navigation and Action Buttons -->
+        <Grid DockPanel.Dock="Bottom" Margin="5,5,5,5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="toggle3DPreviewButton" Content="Toggle 3D Preview" Width="160" HorizontalAlignment="Left" Click="Toggle3DPreviewButton_Click" Grid.Column="0" />
+            <Button Content="Previous" Width="100" HorizontalAlignment="Center" Click="PreviousButton_Click" Grid.Column="1" />
+            <Button Content="Next" Width="100" HorizontalAlignment="Right" Click="NextButton_Click" Grid.Column="2" />
+        </Grid>
+
+        <!-- Main Content Grid -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="800" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <!-- First Column Content -->
+            <Grid Name="PreviewContainer" Grid.Row="0" Margin="0,0,0,0" ShowGridLines="True" Width="auto" Height="auto">
+                <!-- PreviewControl will be added dynamically in code-behind -->
+            </Grid>
+
+            <!-- Second Column Content -->
+            <Grid HorizontalAlignment="Right" VerticalAlignment="Top" Grid.Column="1" Margin="10,0,0,0">
+                <Grid Margin="10" Height="1040">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="400*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- General Information Section -->
+                    <GroupBox Header="General Information" Margin="5,5,0,5" Padding="10" BorderBrush="Gray" BorderThickness="1" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" Width="736">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="370" />
+                                <ColumnDefinition Width="Auto" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <StackPanel Orientation="Horizontal" Margin="5,5,0,5" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="320">
+                                <TextBlock Text="Project Name:" VerticalAlignment="Center" Width="120"/>
+                                <TextBox x:Name="projectNameField" Width="180" Margin="10,0" Background="LightGreen" IsReadOnly="True" Height="18"/>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="5,5,0,5" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" Width="318">
+                                <TextBlock Text="Escalation Rate (%):" VerticalAlignment="Center" Width="150"/>
+                                <TextBox x:Name="escalationRateField" Width="148" Margin="10,0" Style="{StaticResource ValidationTextBoxStyle}"/>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="5,5,0,5" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="320">
+                                <TextBlock Text="Location:" VerticalAlignment="Center" Width="120"/>
+                                <ComboBox x:Name="locationField" Width="180" Margin="10,0" SelectionChanged="LocationField_SelectionChanged" Height="18" FontSize="11"/>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="5,5,0,5" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Width="318">
+                                <TextBlock Text="Discount Rate (%):" VerticalAlignment="Center" Width="150"/>
+                                <TextBox x:Name="discountRateField" Width="148" Margin="10,0" Style="{StaticResource ValidationTextBoxStyle}"/>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="5,5,0,5" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="320">
+                                <TextBlock Text="Element Description:" VerticalAlignment="Center" Width="120"/>
+                                <TextBox x:Name="elementDescriptionField" Width="180" Margin="10,0" Background="LightGreen" IsReadOnly="True" Height="18"/>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="5,5,0,5" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" Width="317">
+                                <TextBlock Text="Currency:" VerticalAlignment="Center" Width="150"/>
+                                <ComboBox x:Name="currencyField" Width="147" Margin="10,0" IsEditable="True" SelectionChanged="CurrencyField_SelectionChanged" Height="18" FontSize="11">
+                                    <ComboBoxItem Content="EUR" IsSelected="True"/>
+                                    <ComboBoxItem Content="BGN"/>
+                                    <ComboBoxItem Content="HRK"/>
+                                    <ComboBoxItem Content="CZK"/>
+                                    <ComboBoxItem Content="DKK"/>
+                                    <ComboBoxItem Content="HUF"/>
+                                    <ComboBoxItem Content="PLN"/>
+                                    <ComboBoxItem Content="RON"/>
+                                    <ComboBoxItem Content="SEK"/>
+                                    <!-- Add other EU currencies as needed -->
+                                </ComboBox>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0,5,0,5" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center" Width="314">
+                                <TextBlock Text="Location Price Factor:" VerticalAlignment="Center" Width="150" />
+                                <TextBox x:Name="locationPriceFactorField" Width="148" Margin="10,0" Style="{StaticResource ValidationTextBoxStyle}" IsReadOnly="False"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5,5,0,5" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Width="320" HorizontalAlignment="Left">
+                                <TextBlock VerticalAlignment="Center" Width="200"><Run Text="Element Service Life Duration"/><Run Language="en-gb" Text=" (years)"/><Run Text=":"/></TextBlock>
+                                <!--<TextBox x:Name="elementServiceLifeDurationField" Width="100" Margin="10,0" Background="LightGreen" IsReadOnly="True"/>-->
+                                <TextBox x:Name="elementServiceLifeDurationField" Width="100" Margin="10,0" Background="LightGreen" IsReadOnly="False"/>
+
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal" Margin="5,5,6,5" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2">
+                                <TextBlock VerticalAlignment="Center" Width="200"><Run Text="Project End of Life Duration"/><Run Language="en-gb" Text=" (years)"/><Run Text=":"/></TextBlock>
+                                <TextBox x:Name="projectEndofLifeDurationField" Width="100" Margin="10,0" Background="LightGreen" IsReadOnly="True" Height="18"/>
+                            </StackPanel>
+                        </Grid>
+                    </GroupBox>
+
+                    <!-- Material Inputs Section -->
+                    <GroupBox Header="Material Costs" Margin="5,5,0,5" Padding="10" BorderBrush="Gray" BorderThickness="1" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" Width="361">
+                        <StackPanel Margin="0,0,-11,0">
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="314" HorizontalAlignment="Left">
+                                <TextBlock Text="Material Type:" VerticalAlignment="Center" Width="80"/>
+                                <TextBox x:Name="materialField" Width="230" Background="LightGreen"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="332" HorizontalAlignment="Left">
+                                <TextBlock Text="Material Quantity (Volume):" VerticalAlignment="Center" Width="146"/>
+                                <TextBox x:Name="materialQuantityField" Width="153" Margin="10,0,0,0" Background="LightGreen" IsReadOnly="True"/>
+                                <TextBlock Text="m³" VerticalAlignment="Center" Width="14" TextAlignment="Right" RenderTransformOrigin="0.5,0.5" Margin="5,0,0,0">
+                                    <TextBlock.RenderTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform/>
+                                            <SkewTransform AngleY="-0.597"/>
+                                            <RotateTransform/>
+                                            <TranslateTransform Y="-0.156"/>
+                                        </TransformGroup>
+                                    </TextBlock.RenderTransform>
+                                </TextBlock>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="329" HorizontalAlignment="Left">
+                                <TextBlock Text="Material Price per Unit:" VerticalAlignment="Center" Width="120"/>
+                                <TextBox x:Name="materialPriceField" Width="179" Margin="10,0" Style="{StaticResource ValidationTextBoxStyle}"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="329" HorizontalAlignment="Left">
+                                <TextBlock Text="Material Price Factor:" VerticalAlignment="Center" Width="120"/>
+                                <TextBox x:Name="materialPriceFactorField" Width="179" Margin="10,0" Style="{StaticResource ValidationTextBoxStyle}"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="328" HorizontalAlignment="Left">
+                                <TextBlock Text="Calculated Material Cost:" VerticalAlignment="Center" Width="134"/>
+                                <TextBox x:Name="calculatedMaterialCostField" Width="164" Margin="10,0" Background="LightGreen" IsReadOnly="True"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+
+                    <!-- Labor, Maintenance, and End of Life Inputs Grouped Section -->
+                    <GroupBox Header="Labour, Maintenance and End of Life Costs" Margin="372,5,0,5" Padding="10" BorderBrush="Gray" BorderThickness="1" Grid.Row="1" HorizontalAlignment="Left" Width="369">
+                        <Grid x:Name="Delete" VerticalAlignment="Center" Height="141">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <!-- Labor Section -->
+                            <StackPanel Grid.Column="0" Orientation="Vertical" Margin="5,-9,5,30">
+                                <StackPanel Orientation="Horizontal" Margin="5">
+                                    <CheckBox x:Name="laborInputsCheckBox" IsChecked="True" Margin="5,0,10,0" VerticalAlignment="Center" Checked="CheckBox_CheckedChanged" Unchecked="CheckBox_CheckedChanged"/>
+                                    <TextBlock Text="Labor Cost per Hour:" VerticalAlignment="Center" Width="120"/>
+                                    <TextBox x:Name="laborCostField" Width="150" Margin="10,0" Style="{StaticResource ValidationTextBoxStyle}"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="5">
+                                    <TextBlock Text="Unit Time Required:" Width="136" TextAlignment="Right" Height="17"/>
+                                    <TextBox x:Name="unitTimeField" Width="165" Margin="10,0" Style="{StaticResource ValidationTextBoxStyle}"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="5">
+                                    <TextBlock Text="Calculated Labor Cost:" VerticalAlignment="Center" Width="150" TextAlignment="Right" Height="21"/>
+                                    <TextBox x:Name="calculatedLaborCostField" Width="151" Margin="10,0" Background="LightGreen" IsReadOnly="True" Height="18"/>
+                                </StackPanel>
+                            </StackPanel>
+
+                            <!-- Maintenance Section -->
+                            <StackPanel Orientation="Vertical" Margin="0,79,0,-13" HorizontalAlignment="Center" Width="317">
+                                <StackPanel Orientation="Horizontal" Width="326">
+                                    <CheckBox x:Name="maintenanceCostsCheckBox" IsChecked="True" Margin="5,0,10,0" VerticalAlignment="Center" Checked="CheckBox_CheckedChanged" Unchecked="CheckBox_CheckedChanged"/>
+                                    <TextBlock Text="Calculated Maintenance Cost:" VerticalAlignment="Center" Width="157" TextAlignment="Right" Height="14"/>
+                                    <TextBox x:Name="calculatedMaintenanceCostField" Width="113" Margin="10,0" IsReadOnly="True" Background="LightGreen"/>
+                                </StackPanel>
+                            </StackPanel>
+
+                            <!-- End of Life Section -->
+                            <StackPanel Orientation="Vertical" Margin="6,102,0,-52" HorizontalAlignment="Left" Width="328">
+                                <StackPanel Orientation="Horizontal" Margin="5" IsEnabled="true">
+                                    <CheckBox x:Name="endofLifeValueCheckBox" IsChecked="True" Margin="5,0,10,0" VerticalAlignment="Center" Checked="CheckBox_CheckedChanged" Unchecked="CheckBox_CheckedChanged"/>
+                                    <TextBlock Text="End of Life Value:" VerticalAlignment="Center" Width="97"/>
+                                    <TextBox x:Name="EndofLifeValueField" Width="173" Margin="10,0" Style="{StaticResource ValidationTextBoxStyle}"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal" Margin="5">
+                                    <TextBlock Text="Other Related Costs:" VerticalAlignment="Center" Width="139" TextAlignment="Right" />
+                                    <TextBox x:Name="otherRelatedCostField" Width="162" Margin="10,0"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Grid>
+                    </GroupBox>
+
+                    <!-- Results Section -->
+                    <GroupBox Header="Results" Margin="5,5,0,160" Padding="10" BorderBrush="Green" BorderThickness="2" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Left" Width="361">
+                        <StackPanel HorizontalAlignment="Left" Width="333" Height="140">
+                            <TextBlock x:Name="chosenCurrencyTextBlock" Text="Currency:                      EUR" Width="312" Margin="5" Height="21" HorizontalAlignment="Left"/>
+                            <StackPanel Orientation="Horizontal" Margin="5" HorizontalAlignment="Left" Width="323">
+                                <TextBlock Text="Element Costs Today:" VerticalAlignment="Center" Width="114"/>
+                                <TextBox x:Name="initialElementCostsField" Width="185" Margin="10,0" IsReadOnly="True"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="323" HorizontalAlignment="Left">
+                                <TextBlock Text="Future Element Cost:" VerticalAlignment="Center" Width="116"/>
+                                <TextBox x:Name="futureElementCostEscalationField" Width="183" Margin="10,0" IsReadOnly="True"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="321" HorizontalAlignment="Left">
+                                <TextBlock Text="Present Value of Escalated Cost:" VerticalAlignment="Center" Width="171" HorizontalAlignment="Left"/>
+                                <TextBox x:Name="presentValueDiscountField" Width="128" Margin="10,0" IsReadOnly="True"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+
+                    <!-- Preferred Currency Conversion Section -->
+                    <GroupBox Header="Preferred Currency Conversion" Margin="5,5,0,160" Padding="10" BorderBrush="Green" BorderThickness="2" Grid.Row="2" HorizontalAlignment="Right" Width="369">
+                        <StackPanel HorizontalAlignment="Left" Height="124" Margin="10,0,0,0" Width="339">
+                            <StackPanel Orientation="Horizontal" Margin="5" Height="21" Width="321" HorizontalAlignment="Left">
+                                <TextBlock Text="Preferred Currency:" VerticalAlignment="Center" Width="116"/>
+                                <ComboBox x:Name="preferredCurrencyField" Width="51" Margin="10,0" IsEditable="True" FontSize="11" Height="18">
+                                    <ComboBoxItem Content="EUR" IsSelected="True"/>
+                                    <ComboBoxItem Content="BGN"/>
+                                    <ComboBoxItem Content="HRK"/>
+                                    <ComboBoxItem Content="CZK"/>
+                                    <ComboBoxItem Content="DKK"/>
+                                    <ComboBoxItem Content="HUF"/>
+                                    <ComboBoxItem Content="PLN"/>
+                                    <ComboBoxItem Content="RON"/>
+                                    <ComboBoxItem Content="SEK"/>
+                                    <!-- Add other EU currencies as needed -->
+                                </ComboBox>
+                                <TextBlock Text="Rate:" Width="29"/>
+                                <TextBox x:Name="conversionRateField" Width="81" Margin="10,0" Height="18"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="313" HorizontalAlignment="Left">
+                                <TextBlock Text="Element Costs Today:" VerticalAlignment="Center" Width="118"/>
+                                <TextBox x:Name="initialElementCostsExtraField" Width="179" Margin="10,0" IsReadOnly="True"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="323" HorizontalAlignment="Left">
+                                <TextBlock Text="Future Element Cost:" VerticalAlignment="Center" Width="118"/>
+                                <TextBox x:Name="futureElementCostEscalationExtraField" Width="180" Margin="10,0" IsReadOnly="True"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="5" Width="330" HorizontalAlignment="Left">
+                                <TextBlock Text="Present Value of Escalated Cost:" VerticalAlignment="Center" Width="172"/>
+                                <TextBox x:Name="presentValueDiscountExtraField" Width="127" Margin="10,0" IsReadOnly="True"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </GroupBox>
+
+                    <!-- Buttons Section -->
+                    <StackPanel Orientation="Horizontal" Margin="259,165,0,107" Width="228" Grid.Row="2" HorizontalAlignment="Left">
+                        <Button x:Name="calculateButton" Content="Calculate" Width="100" Margin="5" Click="CalculateButton_Click" Height="20"/>
+                        <Button x:Name="saveButton" Content="Save Results" Width="100" Click="SaveButton_Click" Height="20"/>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Grid>
+    </DockPanel>
+</Window>

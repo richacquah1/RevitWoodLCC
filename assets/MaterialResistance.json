@@ -1,0 +1,2199 @@
+[
+  {
+    "name": [
+      "Norway maple / Sycamore"
+    ],
+    "latinName": [
+      "Acer platanoides / A. pseudoplatanus"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 453,
+    "resistanceDoseUC4": 332
+  },
+  {
+    "name": [
+      "Black alder"
+    ],
+    "latinName": [
+      "Alnus glutinosa"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 307,
+    "resistanceDoseUC4": 234
+  },
+  {
+    "name": [
+      "Wild cashew"
+    ],
+    "latinName": [
+      "Anacardium excelsum"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Cabbage bark"
+    ],
+    "latinName": [
+      "Andira inermis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1294,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Carreto"
+    ],
+    "latinName": [
+      "Aspidosperma megalocarpon"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1294,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Glassywood"
+    ],
+    "latinName": [
+      "Astronium graveolens"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1294,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Grey mangrove"
+    ],
+    "latinName": [
+      "Avicennia marina"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Silver birch ( Downy birch"
+    ],
+    "latinName": [
+      "Betula pendula / pubescens"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 272,
+    "resistanceDoseUC4": 287
+  },
+  {
+    "name": [
+      "Pochote"
+    ],
+    "latinName": [
+      "Bombacopsis quinata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Ceibo heartwood"
+    ],
+    "latinName": [
+      "Bombacopsis sessilis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Berba"
+    ],
+    "latinName": [
+      "Brosium sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Copperwood"
+    ],
+    "latinName": [
+      "Bursera simaruba"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Golden spoon"
+    ],
+    "latinName": [
+      "Byrsonima crassifolia"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "María"
+    ],
+    "latinName": [
+      "Calophyllum brasiliense"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Lemonwood"
+    ],
+    "latinName": [
+      "Calophyllum candidissium"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Andiroba"
+    ],
+    "latinName": [
+      "Carapa guianensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Cedro vino"
+    ],
+    "latinName": [
+      "Carapa sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Colomboan mahogany"
+    ],
+    "latinName": [
+      "Cariniana pyriformis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Henené"
+    ],
+    "latinName": [
+      "Caryocar costaricense"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2591,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Ajo"
+    ],
+    "latinName": [
+      "Caryocar sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Bronze shower"
+    ],
+    "latinName": [
+      "Cassia moschata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Sweet chestnut"
+    ],
+    "latinName": [
+      "Castanea sativa"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 3026,
+    "resistanceDoseUC4": 775
+  },
+  {
+    "name": [
+      "Spanish cedar"
+    ],
+    "latinName": [
+      "Cedrela odorata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Cedro granadino"
+    ],
+    "latinName": [
+      "Cedrela sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Amarillo de Guayaquil"
+    ],
+    "latinName": [
+      "Centrolobium orinocense"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Dyer's mulberry"
+    ],
+    "latinName": [
+      "Chlorophora tinctoria"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2591,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "c"
+    ],
+    "latinName": [
+      "Chrysophyllum cainito"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Glandular nakedwood"
+    ],
+    "latinName": [
+      "Colubrina glandulosa"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2591,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Buttonwood"
+    ],
+    "latinName": [
+      "Concarpus erectus"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Cabimo"
+    ],
+    "latinName": [
+      "Copaifera aromatica"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Spanish elm"
+    ],
+    "latinName": [
+      "Cordia alliodora"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Dogwood"
+    ],
+    "latinName": [
+      "Cornus disciflora"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Spotted gum"
+    ],
+    "latinName": [
+      "Corymbia maculata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1231,
+    "resistanceDoseUC4": 880
+  },
+  {
+    "name": [
+      "Almendro"
+    ],
+    "latinName": [
+      "Coumarouna oleifera"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Sangre"
+    ],
+    "latinName": [
+      "Croton panamensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 98,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "Cocobolo"
+    ],
+    "latinName": [
+      "Dalbergia retusa"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 5181,
+    "resistanceDoseUC4": 3262
+  },
+  {
+    "name": [
+      "Tamarindo"
+    ],
+    "latinName": [
+      "Dialium guianense"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Miguelario"
+    ],
+    "latinName": [
+      "Dialyanthera otoba"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Basralocus"
+    ],
+    "latinName": [
+      "Dicorynia guianensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 4351,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Macano"
+    ],
+    "latinName": [
+      "Diphysa robinioides"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2591,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Keruing"
+    ],
+    "latinName": [
+      "Dipterocarpus spp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1726,
+    "resistanceDoseUC4": 3635
+  },
+  {
+    "name": [
+      "Kapur"
+    ],
+    "latinName": [
+      "Dryobalanops spp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2266,
+    "resistanceDoseUC4": 1613
+  },
+  {
+    "name": [
+      "Monkey-ear tree"
+    ],
+    "latinName": [
+      "Enterolobium cyclocarpum"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 1020
+  },
+  {
+    "name": [
+      "Purple coraltree"
+    ],
+    "latinName": [
+      "Erythrina glauca"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 98,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "Guayabo macho"
+    ],
+    "latinName": [
+      "Eschweilera sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Mountain ash"
+    ],
+    "latinName": [
+      "Eucalyptus regnans"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 496,
+    "resistanceDoseUC4": 127
+  },
+  {
+    "name": [
+      "Common beech"
+    ],
+    "latinName": [
+      "Fagus sylvatica"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 297,
+    "resistanceDoseUC4": 197
+  },
+  {
+    "name": [
+      "Ash"
+    ],
+    "latinName": [
+      "Fraxinus excelsior"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 811,
+    "resistanceDoseUC4": 424
+  },
+  {
+    "name": [
+      "Genip tree"
+    ],
+    "latinName": [
+      "Genipa americana"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Honey locust"
+    ],
+    "latinName": [
+      "Gleditsia triacanthos"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 3038,
+    "resistanceDoseUC4": 636
+  },
+  {
+    "name": [
+      "Quickstick"
+    ],
+    "latinName": [
+      "Gliricida sepium"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2591,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Pockwood"
+    ],
+    "latinName": [
+      "Guajacum officinale"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 5181,
+    "resistanceDoseUC4": 3321
+  },
+  {
+    "name": [
+      "Chuchupate"
+    ],
+    "latinName": [
+      "Guarea longipetiola"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Pink mahogany"
+    ],
+    "latinName": [
+      "Guarea guara"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Pantano"
+    ],
+    "latinName": [
+      "Hieronima alchorneoides"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Manchineel tree"
+    ],
+    "latinName": [
+      "Hippomane mancinella"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 98,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "Possumwood"
+    ],
+    "latinName": [
+      "Hura crepitans"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 98,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "West Indian locust"
+    ],
+    "latinName": [
+      "Hymenaea courbaril"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Merbau"
+    ],
+    "latinName": [
+      "Intsia bijuga"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 10184,
+    "resistanceDoseUC4": 5307
+  },
+  {
+    "name": [
+      "Menggris"
+    ],
+    "latinName": [
+      "Koompassia malaccensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1017,
+    "resistanceDoseUC4": 3919
+  },
+  {
+    "name": [
+      "Amarillo negro"
+    ],
+    "latinName": [
+      "Lafoënsia punicifolia"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "White mangrove"
+    ],
+    "latinName": [
+      "Laguncularia racemosa"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Coco"
+    ],
+    "latinName": [
+      "Lecythis ampla"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Coco"
+    ],
+    "latinName": [
+      "Lecythis sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Raspa"
+    ],
+    "latinName": [
+      "Licania arborea"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Jigua negra"
+    ],
+    "latinName": [
+      "Licania pittieri"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Iguanillo"
+    ],
+    "latinName": [
+      "Lonchocarpus sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 983,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Bongossi"
+    ],
+    "latinName": [
+      "Lophira alata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 5598,
+    "resistanceDoseUC4": 3418
+  },
+  {
+    "name": [
+      "Guácimo"
+    ],
+    "latinName": [
+      "Luehea seemannii"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Vaco"
+    ],
+    "latinName": [
+      "Magnolia sororum"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Massaranduba"
+    ],
+    "latinName": [
+      "Manilkara bidentata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Níspero zapote"
+    ],
+    "latinName": [
+      "Manilkara chicle"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Rasca, coco"
+    ],
+    "latinName": [
+      "Manilkara sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Manwood"
+    ],
+    "latinName": [
+      "Minquartia guianensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2591,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Alcornoque"
+    ],
+    "latinName": [
+      "Mora oleifera"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Santos mahogany"
+    ],
+    "latinName": [
+      "Myroxylon balsamum"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Bambito"
+    ],
+    "latinName": [
+      "Nectandra whitei"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Ensiva"
+    ],
+    "latinName": [
+      "Ocotea dendrodaphne"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Greenheart"
+    ],
+    "latinName": [
+      "Ocotea rodiei"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 5181,
+    "resistanceDoseUC4": 3321
+  },
+  {
+    "name": [
+      "Sangrillo negro"
+    ],
+    "latinName": [
+      "Paramachaerium gruberi"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Kiri"
+    ],
+    "latinName": [
+      "Paulownia spp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1566,
+    "resistanceDoseUC4": 167
+  },
+  {
+    "name": [
+      "Tea mangrove"
+    ],
+    "latinName": [
+      "Pelliciera rhizophorae"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Amaranth"
+    ],
+    "latinName": [
+      "Peltogyne spp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 6609,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Gavilán"
+    ],
+    "latinName": [
+      "Peniaclethra macroloba"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Aguacatillo"
+    ],
+    "latinName": [
+      "Phoebe johonstonii"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "Uña de gato"
+    ],
+    "latinName": [
+      "Pithecellobium mangense"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2591,
+    "resistanceDoseUC4": 3321
+  },
+  {
+    "name": [
+      "Rain tree"
+    ],
+    "latinName": [
+      "Pithecellobium saman"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Quirá"
+    ],
+    "latinName": [
+      "Platymiscum pinnatum"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Black poplar"
+    ],
+    "latinName": [
+      "Populus nigra"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 286,
+    "resistanceDoseUC4": 247
+  },
+  {
+    "name": [
+      "Aspen"
+    ],
+    "latinName": [
+      "Populus tremula"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 316,
+    "resistanceDoseUC4": 305
+  },
+  {
+    "name": [
+      "Canistel"
+    ],
+    "latinName": [
+      "Pouteria campechiana"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Nispero de monte"
+    ],
+    "latinName": [
+      "Pouteria chiricana"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Cativo"
+    ],
+    "latinName": [
+      "Prioria copaifera"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 98,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "Black cherry"
+    ],
+    "latinName": [
+      "Prunus serotina"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 740,
+    "resistanceDoseUC4": 549
+  },
+  {
+    "name": [
+      "English oak"
+    ],
+    "latinName": [
+      "Quercus robur"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 3223,
+    "resistanceDoseUC4": 900
+  },
+  {
+    "name": [
+      "Mangle rojo (Pasific)"
+    ],
+    "latinName": [
+      "Rhizophora brevistyla"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Mangle rojo (Atlantic)"
+    ],
+    "latinName": [
+      "Rhizophora mangle"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Black locust"
+    ],
+    "latinName": [
+      "Robinia pseudoacacia"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 4678,
+    "resistanceDoseUC4": 868
+  },
+  {
+    "name": [
+      "Goat willow"
+    ],
+    "latinName": [
+      "Salix caprea"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 439,
+    "resistanceDoseUC4": 473
+  },
+  {
+    "name": [
+      "Rowan"
+    ],
+    "latinName": [
+      "Sorbus aucuparia"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 381,
+    "resistanceDoseUC4": 473
+  },
+  {
+    "name": [
+      "Panamá tree"
+    ],
+    "latinName": [
+      "Sterculia apetala"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 98,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "Cutarro"
+    ],
+    "latinName": [
+      "Swaetzia panamensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Cutarro"
+    ],
+    "latinName": [
+      "Swaetzia simplex"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Malvecino"
+    ],
+    "latinName": [
+      "Sweetia panamensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Mexican mahogany"
+    ],
+    "latinName": [
+      "Swietenia humillis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 3646
+  },
+  {
+    "name": [
+      "Mahogany"
+    ],
+    "latinName": [
+      "Swietenia macrophylla"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Yellow ipê"
+    ],
+    "latinName": [
+      "Tabebuia chrysantha"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1727,
+    "resistanceDoseUC4": 1661
+  },
+  {
+    "name": [
+      "Guayacán"
+    ],
+    "latinName": [
+      "Tabebuia  guayacan"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2591,
+    "resistanceDoseUC4": 2214
+  },
+  {
+    "name": [
+      "Pink trumpet tree"
+    ],
+    "latinName": [
+      "Tabebuia pentaphylla"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Teak"
+    ],
+    "latinName": [
+      "Tectona grandis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 6906,
+    "resistanceDoseUC4": 2545
+  },
+  {
+    "name": [
+      "Amarillo"
+    ],
+    "latinName": [
+      "Terminalia amazonia"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Almond"
+    ],
+    "latinName": [
+      "Terminalia catappa"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "East Indian almond"
+    ],
+    "latinName": [
+      "Terminalia myriocarpa"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Manglillo"
+    ],
+    "latinName": [
+      "Ternstroemia seemannii"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Anime"
+    ],
+    "latinName": [
+      "Tetragastris panamensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Macho"
+    ],
+    "latinName": [
+      "Tetrathylacium johansenii"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "Lime"
+    ],
+    "latinName": [
+      "Tilia cordata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 341,
+    "resistanceDoseUC4": 450
+  },
+  {
+    "name": [
+      "Caraño"
+    ],
+    "latinName": [
+      "Trattinickia aspera"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Alfaje"
+    ],
+    "latinName": [
+      "Trichilia tuberculata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Wych elm"
+    ],
+    "latinName": [
+      "Ulmus glabra"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 920,
+    "resistanceDoseUC4": 538
+  },
+  {
+    "name": [
+      "Amargo-amargo"
+    ],
+    "latinName": [
+      "Vatairea sp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1295,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Bogamani"
+    ],
+    "latinName": [
+      "Virola koschnyi"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Red ucuuba"
+    ],
+    "latinName": [
+      "Virola sebifera"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 246,
+    "resistanceDoseUC4": 126
+  },
+  {
+    "name": [
+      "Cuajado"
+    ],
+    "latinName": [
+      "Vitex floridula"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Mayo"
+    ],
+    "latinName": [
+      "Vochysia ferruginea"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 631
+  },
+  {
+    "name": [
+      "Acapú"
+    ],
+    "latinName": [
+      "Vouacapoua americana"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 5181,
+    "resistanceDoseUC4": 3321
+  },
+  {
+    "name": [
+      "Acabú"
+    ],
+    "latinName": [
+      "Zanthoxylum belizense"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 738,
+    "resistanceDoseUC4": 315
+  },
+  {
+    "name": [
+      "Silver fir"
+    ],
+    "latinName": [
+      "Abies alba"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 372,
+    "resistanceDoseUC4": 404
+  },
+  {
+    "name": [
+      "Black cypress"
+    ],
+    "latinName": [
+      "Callitris endlichrei"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 836,
+    "resistanceDoseUC4": 696
+  },
+  {
+    "name": [
+      "White cypress"
+    ],
+    "latinName": [
+      "Callitris glaucophylla"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1025,
+    "resistanceDoseUC4": 1294
+  },
+  {
+    "name": [
+      "Yellow cypress"
+    ],
+    "latinName": [
+      "Chamaecyparis nootkatensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 720,
+    "resistanceDoseUC4": 964
+  },
+  {
+    "name": [
+      "Juniper"
+    ],
+    "latinName": [
+      "Juniperus communis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 3933,
+    "resistanceDoseUC4": 2447
+  },
+  {
+    "name": [
+      "European larch"
+    ],
+    "latinName": [
+      "Larix decidua"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1826,
+    "resistanceDoseUC4": 746
+  },
+  {
+    "name": [
+      "Tamarack"
+    ],
+    "latinName": [
+      "Larix laricina"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 566,
+    "resistanceDoseUC4": 571
+  },
+  {
+    "name": [
+      "Western larch"
+    ],
+    "latinName": [
+      "Larix occidentalis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 471,
+    "resistanceDoseUC4": 738
+  },
+  {
+    "name": [
+      "Siberian larch"
+    ],
+    "latinName": [
+      "Larix sibirica"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1134,
+    "resistanceDoseUC4": 1581
+  },
+  {
+    "name": [
+      "Norway spruce 3mm"
+    ],
+    "latinName": [
+      "Picea abies"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 384,
+    "resistanceDoseUC4": 441
+  },
+  {
+    "name": [
+      "Sitka spruce"
+    ],
+    "latinName": [
+      "Picea sitchensis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 754,
+    "resistanceDoseUC4": 370
+  },
+  {
+    "name": [
+      "Southern yellow pine"
+    ],
+    "latinName": [
+      "Pinus spp."
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 966,
+    "resistanceDoseUC4": 282
+  },
+  {
+    "name": [
+      "Carribean pine"
+    ],
+    "latinName": [
+      "Pinus caribaea"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 395,
+    "resistanceDoseUC4": 946
+  },
+  {
+    "name": [
+      "Scots pine"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 1246,
+    "resistanceDoseUC4": 605
+  },
+  {
+    "name": [
+      "Douglas fir"
+    ],
+    "latinName": [
+      "Pseudotsuga menziesii"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2619,
+    "resistanceDoseUC4": 1087
+  },
+  {
+    "name": [
+      "Yew"
+    ],
+    "latinName": [
+      "Taxus baccata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 5261,
+    "resistanceDoseUC4": 5024
+  },
+  {
+    "name": [
+      "Eastern white cedar"
+    ],
+    "latinName": [
+      "Thuja occidentalis"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 546,
+    "resistanceDoseUC4": 832
+  },
+  {
+    "name": [
+      "Western red cedar"
+    ],
+    "latinName": [
+      "Thuja plicata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2324,
+    "resistanceDoseUC4": 685
+  },
+  {
+    "name": [
+      "Western red cedar"
+    ],
+    "latinName": [
+      "Thuja plicata"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 2458,
+    "resistanceDoseUC4": 854
+  },
+  {
+    "name": [
+      "Western hemlock"
+    ],
+    "latinName": [
+      "Tsuga heterophylla"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 345,
+    "resistanceDoseUC4": 375
+  },
+  {
+    "name": [
+      "Common beech"
+    ],
+    "latinName": [
+      "Fagus sylvatica"
+    ],
+    "treatment": [
+      "Thermal modification, UC 3"
+    ],
+    "resistanceDoseUC3": 4487,
+    "resistanceDoseUC4": 1521
+  },
+  {
+    "name": [
+      "Ash"
+    ],
+    "latinName": [
+      "Fraxinus excelsior"
+    ],
+    "treatment": [
+      "Thermal modification (Oil-Heat Treatment, OHT), UC 3"
+    ],
+    "resistanceDoseUC3": 7383,
+    "resistanceDoseUC4": 3831
+  },
+  {
+    "name": [
+      "Norway spruce"
+    ],
+    "latinName": [
+      "Picea abies"
+    ],
+    "treatment": [
+      "Thermal modification (Oil-Heat Treatment, OHT), UC 3"
+    ],
+    "resistanceDoseUC3": 6158,
+    "resistanceDoseUC4": 3139
+  },
+  {
+    "name": [
+      "Norway spruce"
+    ],
+    "latinName": [
+      "Picea abies"
+    ],
+    "treatment": [
+      "Thermal modification, UC 3"
+    ],
+    "resistanceDoseUC3": 6733,
+    "resistanceDoseUC4": 970
+  },
+  {
+    "name": [
+      "Maritime pine"
+    ],
+    "latinName": [
+      "Pinus maritima"
+    ],
+    "treatment": [
+      "Thermal modification, UC 3"
+    ],
+    "resistanceDoseUC3": 536,
+    "resistanceDoseUC4": 1416
+  },
+  {
+    "name": [
+      "Scots pine"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "Thermal modification, UC 3"
+    ],
+    "resistanceDoseUC3": 4054,
+    "resistanceDoseUC4": 1742
+  },
+  {
+    "name": [
+      "Scots pine"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "Thermal modification (Oil-Heat Treatment, OHT), UC 3"
+    ],
+    "resistanceDoseUC3": 2887,
+    "resistanceDoseUC4": 1361
+  },
+  {
+    "name": [
+      "Southern yellow pine"
+    ],
+    "latinName": [
+      "Pinus spp."
+    ],
+    "treatment": [
+      "Acetylation, UC 4"
+    ],
+    "resistanceDoseUC3": 7631,
+    "resistanceDoseUC4": 5779
+  },
+  {
+    "name": [
+      "Scots pine sapwood"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "Acetylation, UC 4"
+    ],
+    "resistanceDoseUC3": 10415,
+    "resistanceDoseUC4": 5598
+  },
+  {
+    "name": [
+      "Norway maple"
+    ],
+    "latinName": [
+      "Acer spp."
+    ],
+    "treatment": [
+      "Furfurylation, UC 4"
+    ],
+    "resistanceDoseUC3": 4049,
+    "resistanceDoseUC4": 1256
+  },
+  {
+    "name": [
+      "Southern yellow pine"
+    ],
+    "latinName": [
+      "Pinus spp."
+    ],
+    "treatment": [
+      "Furfurylation, UC 4"
+    ],
+    "resistanceDoseUC3": 4321,
+    "resistanceDoseUC4": 2124
+  },
+  {
+    "name": [
+      "Scots pine"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "Furfurylation, UC 4"
+    ],
+    "resistanceDoseUC3": 8143,
+    "resistanceDoseUC4": 2449
+  },
+  {
+    "name": [
+      "Common beech"
+    ],
+    "latinName": [
+      "Fagus sylvatica"
+    ],
+    "treatment": [
+      "DMDHEU treatment, UC 3"
+    ],
+    "resistanceDoseUC3": 690,
+    "resistanceDoseUC4": 517
+  },
+  {
+    "name": [
+      "Common beech"
+    ],
+    "latinName": [
+      "Fagus sylvatica"
+    ],
+    "treatment": [
+      "DMDHEU treatment, UC 4"
+    ],
+    "resistanceDoseUC3": 2722,
+    "resistanceDoseUC4": 861
+  },
+  {
+    "name": [
+      "Scots pine sapwood"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "DMDHEU treatment, UC 3"
+    ],
+    "resistanceDoseUC3": 3744,
+    "resistanceDoseUC4": 2386
+  },
+  {
+    "name": [
+      "Scots pine sapwood"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "DMDHEU treatment, UC 4"
+    ],
+    "resistanceDoseUC3": 1828,
+    "resistanceDoseUC4": 2163
+  },
+  {
+    "name": [
+      "Scots pine sapwood"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "CCA (copper chromium arsenate), UC 3"
+    ],
+    "resistanceDoseUC3": 5073,
+    "resistanceDoseUC4": 2531
+  },
+  {
+    "name": [
+      "Scots pine sapwood"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "CCA (copper chromium arsenate), UC 4"
+    ],
+    "resistanceDoseUC3": 3907,
+    "resistanceDoseUC4": 3859
+  },
+  {
+    "name": [
+      "Scots pine sapwood"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "Copper organic, UC 3"
+    ],
+    "resistanceDoseUC3": 2670,
+    "resistanceDoseUC4": 2158
+  },
+  {
+    "name": [
+      "Scots pine sapwood"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "CCB (copper chromium borate), UC 3"
+    ],
+    "resistanceDoseUC3": 2232,
+    "resistanceDoseUC4": 2526
+  },
+  {
+    "name": [
+      "Scots pine sapwood"
+    ],
+    "latinName": [
+      "Pinus sylvestris"
+    ],
+    "treatment": [
+      "Metal free, organic, UC 3"
+    ],
+    "resistanceDoseUC3": 2618,
+    "resistanceDoseUC4": 784
+  },
+  {
+    "name": [
+      "Norway spruce"
+    ],
+    "latinName": [
+      "Picea abies"
+    ],
+    "treatment": [
+      "none"
+    ],
+    "resistanceDoseUC3": 325,
+    "resistanceDoseUC4": 325
+  }
+]

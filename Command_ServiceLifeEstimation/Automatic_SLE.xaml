@@ -1,0 +1,17 @@
+﻿<Window x:Class="RevitWoodLCC.Automatic_SLE"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Automatic Service Life Estimation" Height="200" Width="400">
+    <Grid>
+        <StackPanel Margin="10" VerticalAlignment="Center">
+            <!-- RadioButton for All Elements -->
+            <RadioButton x:Name="rbtnAllElements" Content="Estimate Service Life for All Elements" Margin="5" FontSize="14" GroupName="ServiceLifeOptions"/>
+
+            <!-- RadioButton for High-Risk Elements -->
+            <RadioButton x:Name="rbtnExposedElements" Content="Estimate Service Life for Exposed Elements (High Risk)" Margin="5" FontSize="14" GroupName="ServiceLifeOptions"/>
+
+            <!-- Compute Button -->
+            <Button x:Name="btnCompute" Content="Compute" Margin="5" FontSize="14" Width="100" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>

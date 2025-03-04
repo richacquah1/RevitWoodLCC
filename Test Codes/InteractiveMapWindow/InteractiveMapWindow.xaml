@@ -1,0 +1,23 @@
+﻿<!--<Window x:Class="RevitWoodLCC.InteractiveMapWindow.InteractiveMapWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="InteractiveMapWindow" Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Button Content="Choose HTML File" Click="ChooseFileButton_Click" Margin="10" />
+        <WebBrowser Name="MapWebBrowser" Grid.Row="1" />
+    </Grid>
+</Window>-->
+
+
+<Window x:Class="RevitWoodLCC.InteractiveMapWindow.InteractiveMapWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="InteractiveMapWindow" Height="500" Width="800">
+    <Grid>
+        <WebBrowser Name="MapWebBrowser" />
+    </Grid>
+</Window>

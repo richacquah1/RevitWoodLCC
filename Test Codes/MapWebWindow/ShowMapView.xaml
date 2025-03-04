@@ -1,0 +1,22 @@
+﻿<Window x:Class="RevitWoodLCC.ShowMapView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ShowMapView" Height="500" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ComboBox Name="MapServiceComboBox" SelectionChanged="MapServiceComboBox_SelectionChanged" Margin="10">
+            <ComboBoxItem Content="Google Maps" Tag="https://www.google.com/maps"/>
+            <ComboBoxItem Content="Bing Maps" Tag="https://www.bing.com/maps"/>
+            <ComboBoxItem Content="OpenStreetMap" Tag="https://www.openstreetmap.org"/>
+            <ComboBoxItem Content="MapQuest" Tag="https://www.mapquest.com"/>
+            <ComboBoxItem Content="Mapbox" Tag="https://www.mapbox.com/maps"/>
+            <ComboBoxItem Content="Here Maps" Tag="https://wego.here.com"/>
+            <ComboBoxItem Content="ArcGIS Online" Tag="https://www.arcgis.com"/>
+            <ComboBoxItem Content="Leaflet" Tag="https://leafletjs.com/examples/quick-start/example.html"/>
+        </ComboBox>
+        <WebBrowser Name="MapWebBrowser" Grid.Row="1"/>
+    </Grid>
+</Window>

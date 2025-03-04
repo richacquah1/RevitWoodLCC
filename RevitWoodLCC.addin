@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+<AddIn Type="Application">
+    <Name>RevitWoodLCC PlugIn</Name>
+    <Assembly>RevitWoodLCC.dll</Assembly>
+    <FullClassName>RevitWoodLCC.App</FullClassName>
+	<!--<FullClassName>RevitWoodLCC.ExternalApplication</FullClassName>-->
+    <ClientId>43001a9a-f36c-4a97-a42e-2d25f80a35f8</ClientId>
+    <VendorId>Richard Acquah</VendorId>
+    <VendorDescription>WoodLCC, https://nibio.no/en/projects/WoodLCC or richard.acquah@innorenew.eu</VendorDescription>
+  </AddIn>
+</RevitAddIns>
