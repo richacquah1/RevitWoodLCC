@@ -26,6 +26,19 @@ The current documented target environment is:
 
 Check the project file and the release documentation for the exact .NET target framework and other dependencies of the release you are using. Compatibility with Revit versions other than Revit 2023 has not been verified.
 
+## Versioned archive and source provenance
+
+The v2 software archive is preserved on Zenodo:
+
+- **Archived version:** v2
+- **Zenodo record:** [https://zenodo.org/records/17279343](https://zenodo.org/records/17279343)
+- **DOI:** [10.5281/zenodo.17279343](https://doi.org/10.5281/zenodo.17279343)
+- **Source commit recorded in the supplied archive:** `518defcb56a2c9368bb6b6ef9daac578bbea8cf3` (4 March 2025)
+
+The uploaded Zenodo v2 archive contains Git metadata identifying the source commit above, and that same commit is present in this GitHub repository's history. This links the archived source snapshot to a specific repository commit. The Zenodo record date identifies when the archive was published; it should not be interpreted as the date of the source commit.
+
+For reproducibility, a GitHub release/tag should point to the source commit that matches the archived version. A GitHub release has not yet been created; until it is published, use the Zenodo record above as the permanent archive for v2.
+
 ## Installation
 
 ### Option A — Install a packaged release
